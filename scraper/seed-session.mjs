@@ -1,14 +1,20 @@
 // seed-session.mjs — Crea/renueva la sesión de FotMob Predict de forma MANUAL.
 //
-// Abre un Chromium VISIBLE (headed), te lleva a la liga, y vos te logueás con
-// Google en esa ventana. Cuando ya ves la liga, volvés a la terminal y apretás
-// Enter: el script guarda el storageState (cookies + localStorage) en
-// scraper/.auth/storageState.json y además imprime su base64 para que lo pegues
-// en el secreto FOTMOB_SESSION (GitHub Actions / CI).
+// Abre un Chrome VISIBLE en modo "no-automatizado" (usa el Chrome real del
+// sistema y desactiva los flags que Google detecta), te lleva a la liga, y vos
+// te logueás con Google en esa ventana. Cuando ya ves la liga, volvés a la
+// terminal y apretás Enter: el script guarda el storageState (cookies +
+// localStorage) en scraper/.auth/storageState.json y además imprime su base64
+// para que lo pegues en el secreto FOTMOB_SESSION (GitHub Actions / CI).
+//
+// Por qué así: Google bloquea el OAuth en navegadores controlados por
+// automatización ("This browser or app may not be secure"). Usar el Chrome real
+// (channel:'chrome'), un perfil persistente y desactivar --enable-automation /
+// AutomationControlled hace que la ventana parezca un Chrome normal y el login
+// funcione. El scraper headless después solo reusa las cookies, no vuelve a
+// loguearse, así que ese bloqueo no lo afecta.
 //
 // El script NO maneja credenciales: solo vos te logueás en la ventana.
-//
-// Vive dentro de scraper/ para que resuelva `playwright` desde scraper/node_modules.
 //
 // Uso:
 //   cd scraper && npm run seed          (o, desde la raíz: npm run seed)
@@ -21,6 +27,7 @@ import { chromium } from 'playwright';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const AUTH_DIR = path.join(__dirname, '.auth');
+const PROFILE_DIR = path.join(AUTH_DIR, 'chrome-profile'); // perfil persistente (gitignored vía .auth/)
 const AUTH_FILE = path.join(AUTH_DIR, 'storageState.json');
 
 const SEED_URL = 'https://predict-auth.fotmob.com/es/772026?leagueId=196754';
@@ -39,16 +46,36 @@ function waitForEnter(prompt) {
 }
 
 async function main() {
-  console.log('→ Abriendo Chromium (ventana visible)…');
-  const browser = await chromium.launch({ headless: false });
-  try {
-    const context = await browser.newContext();
-    const page = await context.newPage();
+  fs.mkdirSync(PROFILE_DIR, { recursive: true });
 
+  console.log('→ Abriendo Chrome (real, modo no-automatizado)…');
+  // launchPersistentContext + channel:'chrome' + sin flags de automatización:
+  // la ventana parece un Chrome normal, así Google permite el login.
+  let context;
+  try {
+    context = await chromium.launchPersistentContext(PROFILE_DIR, {
+      headless: false,
+      channel: 'chrome',
+      viewport: null,
+      args: ['--disable-blink-features=AutomationControlled', '--start-maximized'],
+      ignoreDefaultArgs: ['--enable-automation'],
+    });
+  } catch (e) {
+    console.error(
+      '\n❌ No pude abrir el Chrome del sistema (channel:"chrome").\n' +
+      '   Asegurate de tener Google Chrome instalado. Detalle:\n   ' +
+      (e && e.message ? e.message : e) + '\n'
+    );
+    process.exit(1);
+  }
+
+  try {
+    const page = context.pages()[0] || (await context.newPage());
     await page.goto(SEED_URL, { waitUntil: 'domcontentloaded' });
 
     console.log(
-      '\nLogueate con Google y cuando veas la liga volve a la terminal y apreta Enter\n'
+      '\nLogueate con Google (bklocura@gmail.com) en la ventana que se abrió.\n' +
+      'Cuando YA VEAS la liga "Torneo hamburguesa #2", volvé a la terminal y apretá Enter.\n'
     );
     await waitForEnter('Presioná Enter cuando estés logueado y veas la liga… ');
 
@@ -65,10 +92,8 @@ async function main() {
     console.log(
       '────────────────────────────────────────────────────────────────────\n'
     );
-
-    await context.close();
   } finally {
-    await browser.close().catch(() => {});
+    await context.close().catch(() => {});
   }
 }
 
