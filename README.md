@@ -49,14 +49,14 @@ Piezas del repo:
 
 | Carpeta / archivo            | Qué hace                                                        |
 | ---------------------------- | -------------------------------------------------------------- |
-| `scraper/`                   | Scraper Playwright (`src/scrape.mjs`) y su `package.json`.      |
-| `build/compute.mjs`          | Parseo + validación de la fórmula y armado del `snapshot.json`. |
-| `build/lib.mjs`              | Lógica compartida (fixtures, fórmula, `buildSnapshot`).         |
+| `scraper/src/scrape.mjs`     | Scraper Playwright: trae la API (`/api/matches`, `/api/leagueDetails`) y las predicciones del DOM. |
+| `scraper/seed-session.mjs`   | Login manual una vez → guarda la sesión y su base64.            |
+| `build/lib.mjs`              | `buildSnapshot()`: arma el snapshot desde la API + predicciones y valida la fórmula. |
 | `web/`                       | Dashboard estático (lo que se publica en Pages).               |
 | `data/snapshot.json`         | Estado actual: ranking, partidos, carrera, head-to-head.       |
 | `data/history.jsonl`         | Historial append-only (una línea por scrape).                  |
-| `data/raw/predictions.json`  | Predicciones crudas del último scrape.                         |
-| `.github/workflows/scrape.yml` | El cron que orquesta todo.                                    |
+| `.github/workflows/scrape.yml` | El cron que scrapea cada 3 h.                                 |
+| `.github/workflows/deploy.yml` | Publica el dashboard en Pages (en cada push y a mano).       |
 
 ---
 
@@ -85,9 +85,9 @@ export function pointsFor(ph, pa, ah, aa) {
 }
 ```
 
-> La fórmula está **validada**: `npm run compute` reproduce los totales y la
-> cantidad de exactos que muestra FotMob para cada jugador. Si algún día FotMob
-> cambia el reparto de puntos, el cómputo lo va a marcar con un ❌.
+> La fórmula está **validada en cada corrida**: el scraper reproduce los totales y
+> la cantidad de exactos que la API de FotMob muestra para cada jugador, y avisa con
+> ⚠️ si alguno no cuadra (posible cambio en el reparto de puntos o en el DOM).
 
 ---
 
@@ -197,6 +197,6 @@ Después abrí en el navegador la carpeta `web/`, por ejemplo:
 
 | Comando            | Qué hace                                                        |
 | ------------------ | -------------------------------------------------------------- |
-| `npm run compute`  | Recalcula el `snapshot.json` desde los datos y valida la fórmula. |
+| `npm run scrape`   | Scrapea en vivo (usa la sesión local), regenera `snapshot.json` y valida la fórmula. |
 | `npm run serve`    | Sirve el proyecto para ver el dashboard local (`/web/`).       |
 | `npm run seed`     | Re-siembra la sesión de FotMob y exporta el base64 (paso b/f). |

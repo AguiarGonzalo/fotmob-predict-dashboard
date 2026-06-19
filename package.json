@@ -5,7 +5,6 @@
   "type": "module",
   "description": "Dashboard de la quiniela de FotMob Predict: scrapea las predicciones, calcula el puntaje y publica un tablero estatico.",
   "scripts": {
-    "compute": "node build/compute.mjs",
     "serve": "npx serve@latest .",
     "seed": "npm --prefix scraper run seed",
     "scrape": "npm --prefix scraper run scrape"
