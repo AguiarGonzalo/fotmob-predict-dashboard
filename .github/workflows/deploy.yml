@@ -1,0 +1,58 @@
+name: deploy
+
+# Publica el dashboard estatico (web/ + data/) en GitHub Pages.
+# Corre en cada push a main (cuando cambian web/ o data/) y a mano.
+# NO necesita el scraper ni el secreto: usa el snapshot.json ya commiteado.
+# El scraper (scrape.yml) refresca data/ cada 3h y deploya por su cuenta.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'web/**'
+      - 'data/**'
+      - '.github/workflows/deploy.yml'
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Serializa los deploys de Pages (este workflow y el de scrape).
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      # Misma estructura que el local: el dashboard vive en /web/ y hace
+      # fetch('../data/...'); data/ va como hermano de web/. Un index en la
+      # raiz redirige a /web/.
+      - name: Armar el sitio (web/ + data/)
+        run: |
+          rm -rf _site
+          mkdir -p _site
+          cp -R web _site/
+          cp -R data _site/
+          printf '<!doctype html><meta http-equiv="refresh" content="0; url=./web/">' > _site/index.html
+
+      - name: Subir artefacto de Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Deploy a GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4

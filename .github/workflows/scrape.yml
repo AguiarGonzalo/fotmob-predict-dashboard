@@ -103,15 +103,17 @@ jobs:
         if: success()
         uses: actions/configure-pages@v5
 
-      # Publicamos web/ + data/ juntos para que el dashboard estatico
-      # pueda leer ./data/snapshot.json desde la misma raiz publicada.
+      # Preservamos la estructura: el dashboard vive en /web/ y hace
+      # fetch('../data/...'), asi que data/ va como hermano de web/. Un index
+      # en la raiz redirige a /web/ para que la URL pelada funcione.
       - name: Armar el sitio (web/ + data/)
         if: success()
         run: |
           rm -rf _site
-          mkdir -p _site/data
-          cp -R web/. _site/
-          cp -R data/. _site/data/
+          mkdir -p _site
+          cp -R web _site/
+          cp -R data _site/
+          printf '<!doctype html><meta http-equiv="refresh" content="0; url=./web/">' > _site/index.html
 
       - name: Subir artefacto de Pages
         if: success()
