@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es-AR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Torneo hamburguesa #2 — FotMob Predict</title>
+  <meta name="description" content="Dashboard de la liga de FotMob Predict: clasificación, partidos, head-to-head y carrera de posiciones." />
+  <link rel="stylesheet" href="styles.css" />
+  <!-- ECharts vía CDN para el bump chart de la vista Carrera -->
+  <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <!-- ====== HEADER ====== -->
+  <header class="app-header">
+    <div class="header-inner">
+      <div class="header-title">
+        <span class="badge-ball" aria-hidden="true">⚽</span>
+        <div>
+          <h1 id="leagueName">Torneo hamburguesa #2</h1>
+          <div class="header-sub">
+            <span class="chip chip-code" id="leagueCode" title="Código de invitación de la liga">BWGUFFMR</span>
+            <span class="chip chip-updated" id="updatedAt">actualizando…</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ====== TABS / PESTAÑAS ====== -->
+    <nav class="tabs" role="tablist" aria-label="Vistas del dashboard">
+      <button class="tab is-active" role="tab" data-view="tabla" aria-selected="true">Tabla</button>
+      <button class="tab" role="tab" data-view="partidos" aria-selected="false">Por partido</button>
+      <button class="tab" role="tab" data-view="h2h" aria-selected="false">Head-to-head</button>
+      <button class="tab" role="tab" data-view="carrera" aria-selected="false">Carrera</button>
+    </nav>
+  </header>
+
+  <!-- ====== CONTENIDO ====== -->
+  <main class="app-main">
+    <!-- Estado de carga / error -->
+    <div id="state" class="state" hidden></div>
+
+    <!-- Vista 1: Tabla -->
+    <section id="view-tabla" class="view" data-view="tabla"></section>
+    <!-- Vista 2: Por partido -->
+    <section id="view-partidos" class="view" data-view="partidos" hidden></section>
+    <!-- Vista 3: Head-to-head -->
+    <section id="view-h2h" class="view" data-view="h2h" hidden></section>
+    <!-- Vista 4: Carrera -->
+    <section id="view-carrera" class="view" data-view="carrera" hidden></section>
+  </main>
+
+  <footer class="app-footer">
+    <p>Sistema de puntos: <strong class="gold">exacto = 3</strong> · <strong class="teal">resultado = 2</strong> · errar = 0</p>
+  </footer>
+</body>
+</html>

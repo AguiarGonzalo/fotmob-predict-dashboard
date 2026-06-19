@@ -1,0 +1,125 @@
+name: scrape
+
+on:
+  schedule:
+    # Cada 3 horas, en punto (UTC)
+    - cron: '0 */3 * * *'
+  workflow_dispatch: {}
+
+# Necesario para: commitear datos (contents), publicar Pages (pages),
+# y el OIDC token que usa deploy-pages (id-token).
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# Evita que dos corridas se pisen (cron + manual a la vez).
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    # Necesario para que actions/deploy-pages tome el artefacto.
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install scraper deps
+        working-directory: scraper
+        run: npm i
+
+      - name: Install Playwright (chromium)
+        working-directory: scraper
+        run: npx playwright install --with-deps chromium
+
+      # Corre el scraper. Si la sesion expiro, scrape.mjs sale con codigo 2
+      # (SESSION_EXPIRED); cualquier otro fallo sale con codigo != 0 tambien.
+      - name: Run scraper
+        id: scrape
+        working-directory: scraper
+        env:
+          FOTMOB_SESSION: ${{ secrets.FOTMOB_SESSION }}
+        run: node src/scrape.mjs
+
+      # Si el scraper fallo, abrimos (o reabrimos) un issue avisando que hay
+      # que re-sembrar la sesion de FotMob. Solo necesita el GITHUB_TOKEN.
+      - name: Abrir issue de re-seed si fallo
+        if: failure()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          TITLE="Re-seed de la sesion de FotMob necesario"
+          # No duplicar: si ya hay un issue abierto con ese titulo, no creamos otro.
+          EXISTING=$(gh issue list --state open --search "$TITLE in:title" --json number --jq 'length')
+          if [ "$EXISTING" != "0" ]; then
+            echo "Ya hay un issue abierto de re-seed; no creo otro."
+            exit 0
+          fi
+          RUN_URL="${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          cat > /tmp/issue-body.md <<EOF
+          El scraper fallo en la corrida [#${{ github.run_id }}]($RUN_URL).
+
+          Probable causa: la sesion guardada en el secreto \`FOTMOB_SESSION\` expiro
+          (el scraper sale con codigo 2 = SESSION_EXPIRED).
+
+          Que hacer:
+          1. En tu maquina, desde la raiz del repo: \`npm run seed\` y loguea con Google.
+          2. Copia el base64 que imprime el comando.
+          3. Pegalo en Settings -> Secrets and variables -> Actions -> \`FOTMOB_SESSION\`.
+          4. Corre el workflow a mano (Actions -> scrape -> Run workflow) para verificar.
+
+          Cuando la corrida vuelva a quedar verde, cerra este issue.
+          EOF
+          gh issue create --title "$TITLE" --body-file /tmp/issue-body.md
+
+      # A partir de aca: solo si el scrape salio OK.
+
+      - name: Commitear datos si cambiaron
+        if: success()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/snapshot.json data/history.jsonl
+          if git diff --cached --quiet; then
+            echo "Sin cambios en los datos; no commiteo."
+          else
+            git commit -m "data: scrape $(date -u '+%Y-%m-%dT%H:%MZ')"
+            git push
+          fi
+
+      - name: Setup Pages
+        if: success()
+        uses: actions/configure-pages@v5
+
+      # Publicamos web/ + data/ juntos para que el dashboard estatico
+      # pueda leer ./data/snapshot.json desde la misma raiz publicada.
+      - name: Armar el sitio (web/ + data/)
+        if: success()
+        run: |
+          rm -rf _site
+          mkdir -p _site/data
+          cp -R web/. _site/
+          cp -R data/. _site/data/
+
+      - name: Subir artefacto de Pages
+        if: success()
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Deploy a GitHub Pages
+        id: deploy
+        if: success()
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,5 @@
+node_modules/
+scraper/.auth/
+*.local
+storageState*.json
+temp/

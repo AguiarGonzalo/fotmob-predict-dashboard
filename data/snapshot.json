@@ -1,0 +1,2765 @@
+{
+  "updatedAt": "2026-06-19T22:10:00Z",
+  "league": {
+    "id": 196754,
+    "game": 772026,
+    "name": "Torneo hamburguesa #2",
+    "code": "BWGUFFMR"
+  },
+  "scoring": {
+    "exact": 3,
+    "outcome": 2,
+    "miss": 0
+  },
+  "target": "Gonzalo Aguiar",
+  "finishedCount": 28,
+  "teamsEs": {
+    "USA": "EE. UU.",
+    "Australia": "Australia",
+    "Mexico": "México",
+    "South Korea": "Corea del Sur",
+    "Canada": "Canadá",
+    "Qatar": "Catar",
+    "Switzerland": "Suiza",
+    "Bosnia and Herzegovina": "Bosnia y Herzegovina",
+    "Czechia": "Chequia",
+    "South Africa": "Sudáfrica",
+    "Uzbekistan": "Uzbekistán",
+    "Colombia": "Colombia",
+    "Ghana": "Ghana",
+    "Panama": "Panamá",
+    "England": "Inglaterra",
+    "Croatia": "Croacia",
+    "Portugal": "Portugal",
+    "DR Congo": "R. D. del Congo",
+    "Austria": "Austria",
+    "Jordan": "Jordania",
+    "Argentina": "Argentina",
+    "Algeria": "Argelia",
+    "Iraq": "Irak",
+    "Norway": "Noruega",
+    "France": "Francia",
+    "Senegal": "Senegal",
+    "Iran": "Irán",
+    "New Zealand": "Nueva Zelanda",
+    "Saudi Arabia": "Arabia Saudí",
+    "Uruguay": "Uruguay",
+    "Belgium": "Bélgica",
+    "Egypt": "Egipto",
+    "Spain": "España",
+    "Cape Verde": "Cabo Verde",
+    "Sweden": "Suecia",
+    "Tunisia": "Túnez",
+    "Ivory Coast": "Costa de Marfil",
+    "Ecuador": "Ecuador",
+    "Netherlands": "Países Bajos",
+    "Japan": "Japón",
+    "Germany": "Alemania",
+    "Curacao": "Curazao",
+    "Turkiye": "Turquía",
+    "Haiti": "Haití",
+    "Scotland": "Escocia",
+    "Brazil": "Brasil",
+    "Morocco": "Marruecos",
+    "Paraguay": "Paraguay"
+  },
+  "players": [
+    {
+      "id": "2_100513976122918931166",
+      "name": "kevin",
+      "rank": 1,
+      "points": 38,
+      "exacts": 4,
+      "avg": 1.36,
+      "isTarget": false
+    },
+    {
+      "id": "2_108825978723927201255",
+      "name": "thomas fridman",
+      "rank": 2,
+      "points": 34,
+      "exacts": 6,
+      "avg": 1.21,
+      "isTarget": false
+    },
+    {
+      "id": "2_114073492760604569894",
+      "name": "Maayan Golan",
+      "rank": 3,
+      "points": 32,
+      "exacts": 2,
+      "avg": 1.14,
+      "isTarget": false
+    },
+    {
+      "id": "2_110807909424767304523",
+      "name": "sapir vabshet",
+      "rank": 4,
+      "points": 31,
+      "exacts": 3,
+      "avg": 1.11,
+      "isTarget": false
+    },
+    {
+      "id": "2_109384509403978234765",
+      "name": "Lorena Brofman",
+      "rank": 5,
+      "points": 30,
+      "exacts": 2,
+      "avg": 1.07,
+      "isTarget": false
+    },
+    {
+      "id": "2_112563509372036390748",
+      "name": "Gonzalo Aguiar",
+      "rank": 6,
+      "points": 29,
+      "exacts": 1,
+      "avg": 1.04,
+      "isTarget": true
+    }
+  ],
+  "matches": [
+    {
+      "id": 0,
+      "date": "2026-06-19",
+      "status": "live",
+      "home": "USA",
+      "away": "Australia",
+      "homeEs": "EE. UU.",
+      "awayEs": "Australia",
+      "result": null,
+      "predictions": {
+        "kevin": {
+          "ph": 2,
+          "pa": 0,
+          "pts": null
+        },
+        "thomas fridman": {
+          "ph": 2,
+          "pa": 1,
+          "pts": null
+        },
+        "Maayan Golan": {
+          "ph": 2,
+          "pa": 0,
+          "pts": null
+        },
+        "sapir vabshet": {
+          "ph": 1,
+          "pa": 1,
+          "pts": null
+        },
+        "Lorena Brofman": {
+          "ph": 2,
+          "pa": 1,
+          "pts": null
+        },
+        "Gonzalo Aguiar": {
+          "ph": 3,
+          "pa": 1,
+          "pts": null
+        }
+      }
+    },
+    {
+      "id": 1,
+      "date": "2026-06-19",
+      "status": "finished",
+      "home": "Mexico",
+      "away": "South Korea",
+      "homeEs": "México",
+      "awayEs": "Corea del Sur",
+      "result": {
+        "h": 1,
+        "a": 0
+      },
+      "predictions": {
+        "kevin": {
+          "ph": 3,
+          "pa": 0,
+          "pts": 2
+        },
+        "thomas fridman": {
+          "ph": 1,
+          "pa": 1,
+          "pts": 0
+        },
+        "Maayan Golan": {
+          "ph": 1,
+          "pa": 2,
+          "pts": 0
+        },
+        "sapir vabshet": {
+          "ph": 1,
+          "pa": 0,
+          "pts": 3
+        },
+        "Lorena Brofman": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 2
+        },
+        "Gonzalo Aguiar": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 2
+        }
+      }
+    },
+    {
+      "id": 2,
+      "date": "2026-06-19",
+      "status": "finished",
+      "home": "Canada",
+      "away": "Qatar",
+      "homeEs": "Canadá",
+      "awayEs": "Catar",
+      "result": {
+        "h": 6,
+        "a": 0
+      },
+      "predictions": {
+        "kevin": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 2
+        },
+        "thomas fridman": {
+          "ph": 2,
+          "pa": 0,
+          "pts": 2
+        },
+        "Maayan Golan": {
+          "ph": 2,
+          "pa": 0,
+          "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 2
+        },
+        "Lorena Brofman": {
+          "ph": 1,
+          "pa": 0,
+          "pts": 2
+        },
+        "Gonzalo Aguiar": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 2
+        }
+      }
+    },
+    {
+      "id": 3,
+      "date": "2026-06-18",
+      "status": "finished",
+      "home": "Switzerland",
+      "away": "Bosnia and Herzegovina",
+      "homeEs": "Suiza",
+      "awayEs": "Bosnia y Herzegovina",
+      "result": {
+        "h": 4,
+        "a": 1
+      },
+      "predictions": {
+        "kevin": {
+          "ph": 1,
+          "pa": 1,
+          "pts": 0
+        },
+        "thomas fridman": {
+          "ph": 1,
+          "pa": 1,
+          "pts": 0
+        },
+        "Maayan Golan": {
+          "ph": 1,
+          "pa": 0,
+          "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": null,
+          "pa": null,
+          "pts": 0
+        },
+        "Lorena Brofman": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 2
+        },
+        "Gonzalo Aguiar": {
+          "ph": 1,
+          "pa": 2,
+          "pts": 0
+        }
+      }
+    },
+    {
+      "id": 4,
+      "date": "2026-06-18",
+      "status": "finished",
+      "home": "Czechia",
+      "away": "South Africa",
+      "homeEs": "Chequia",
+      "awayEs": "Sudáfrica",
+      "result": {
+        "h": 1,
+        "a": 1
+      },
+      "predictions": {
+        "kevin": {
+          "ph": 1,
+          "pa": 1,
+          "pts": 3
+        },
+        "thomas fridman": {
+          "ph": 2,
+          "pa": 0,
+          "pts": 0
+        },
+        "Maayan Golan": {
+          "ph": 1,
+          "pa": 0,
+          "pts": 0
+        },
+        "sapir vabshet": {
+          "ph": 0,
+          "pa": 0,
+          "pts": 2
+        },
+        "Lorena Brofman": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 0
+        },
+        "Gonzalo Aguiar": {
+          "ph": 2,
+          "pa": 0,
+          "pts": 0
+        }
+      }
+    },
+    {
+      "id": 5,
+      "date": "2026-06-18",
+      "status": "finished",
+      "home": "Uzbekistan",
+      "away": "Colombia",
+      "homeEs": "Uzbekistán",
+      "awayEs": "Colombia",
+      "result": {
+        "h": 1,
+        "a": 3
+      },
+      "predictions": {
+        "kevin": {
+          "ph": 1,
+          "pa": 2,
+          "pts": 2
+        },
+        "thomas fridman": {
+          "ph": 1,
+          "pa": 3,
+          "pts": 3
+        },
+        "Maayan Golan": {
+          "ph": 1,
+          "pa": 2,
+          "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": 0,
+          "pa": 2,
+          "pts": 2
+        },
+        "Lorena Brofman": {
+          "ph": 0,
+          "pa": 2,
+          "pts": 2
+        },
+        "Gonzalo Aguiar": {
+          "ph": 0,
+          "pa": 2,
+          "pts": 2
+        }
+      }
+    },
+    {
+      "id": 6,
+      "date": "2026-06-18",
+      "status": "finished",
+      "home": "Ghana",
+      "away": "Panama",
+      "homeEs": "Ghana",
+      "awayEs": "Panamá",
+      "result": {
+        "h": 1,
+        "a": 0
+      },
+      "predictions": {
+        "kevin": {
+          "ph": 1,
+          "pa": 1,
+          "pts": 0
+        },
+        "thomas fridman": {
+          "ph": 2,
+          "pa": 0,
+          "pts": 2
+        },
+        "Maayan Golan": {
+          "ph": 1,
+          "pa": 1,
+          "pts": 0
+        },
+        "sapir vabshet": {
+          "ph": 1,
+          "pa": 1,
+          "pts": 0
+        },
+        "Lorena Brofman": {
+          "ph": 1,
+          "pa": 0,
+          "pts": 3
+        },
+        "Gonzalo Aguiar": {
+          "ph": 0,
+          "pa": 2,
+          "pts": 0
+        }
+      }
+    },
+    {
+      "id": 7,
+      "date": "2026-06-17",
+      "status": "finished",
+      "home": "England",
+      "away": "Croatia",
+      "homeEs": "Inglaterra",
+      "awayEs": "Croacia",
+      "result": {
+        "h": 4,
+        "a": 2
+      },
+      "predictions": {
+        "kevin": {
+          "ph": 1,
+          "pa": 1,
+          "pts": 0
+        },
+        "thomas fridman": {
+          "ph": 1,
+          "pa": 1,
+          "pts": 0
+        },
+        "Maayan Golan": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": 0,
+          "pa": 1,
+          "pts": 0
+        },
+        "Lorena Brofman": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 2
+        },
+        "Gonzalo Aguiar": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 2
+        }
+      }
+    },
+    {
+      "id": 8,
+      "date": "2026-06-17",
+      "status": "finished",
+      "home": "Portugal",
+      "away": "DR Congo",
+      "homeEs": "Portugal",
+      "awayEs": "R. D. del Congo",
+      "result": {
+        "h": 1,
+        "a": 1
+      },
+      "predictions": {
+        "kevin": {
+          "ph": 3,
+          "pa": 0,
+          "pts": 0
+        },
+        "thomas fridman": {
+          "ph": 3,
+          "pa": 1,
+          "pts": 0
+        },
+        "Maayan Golan": {
+          "ph": 1,
+          "pa": 0,
+          "pts": 0
+        },
+        "sapir vabshet": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 0
+        },
+        "Lorena Brofman": {
+          "ph": 2,
+          "pa": 0,
+          "pts": 0
+        },
+        "Gonzalo Aguiar": {
+          "ph": 4,
+          "pa": 0,
+          "pts": 0
+        }
+      }
+    },
+    {
+      "id": 9,
+      "date": "2026-06-17",
+      "status": "finished",
+      "home": "Austria",
+      "away": "Jordan",
+      "homeEs": "Austria",
+      "awayEs": "Jordania",
+      "result": {
+        "h": 3,
+        "a": 1
+      },
+      "predictions": {
+        "kevin": {
+          "ph": 1,
+          "pa": 0,
+          "pts": 2
+        },
+        "thomas fridman": {
+          "ph": 2,
+          "pa": 0,
+          "pts": 2
+        },
+        "Maayan Golan": {
+          "ph": 1,
+          "pa": 0,
+          "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": 2,
+          "pa": 0,
+          "pts": 2
+        },
+        "Lorena Brofman": {
+          "ph": 1,
+          "pa": 0,
+          "pts": 2
+        },
+        "Gonzalo Aguiar": {
+          "ph": 2,
+          "pa": 0,
+          "pts": 2
+        }
+      }
+    },
+    {
+      "id": 10,
+      "date": "2026-06-17",
+      "status": "finished",
+      "home": "Argentina",
+      "away": "Algeria",
+      "homeEs": "Argentina",
+      "awayEs": "Argelia",
+      "result": {
+        "h": 3,
+        "a": 0
+      },
+      "predictions": {
+        "kevin": {
+          "ph": 3,
+          "pa": 1,
+          "pts": 2
+        },
+        "thomas fridman": {
+          "ph": 2,
+          "pa": 0,
+          "pts": 2
+        },
+        "Maayan Golan": {
+          "ph": 3,
+          "pa": 0,
+          "pts": 3
+        },
+        "sapir vabshet": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 2
+        },
+        "Lorena Brofman": {
+          "ph": 3,
+          "pa": 0,
+          "pts": 3
+        },
+        "Gonzalo Aguiar": {
+          "ph": 4,
+          "pa": 1,
+          "pts": 2
+        }
+      }
+    },
+    {
+      "id": 11,
+      "date": "2026-06-17",
+      "status": "finished",
+      "home": "Iraq",
+      "away": "Norway",
+      "homeEs": "Irak",
+      "awayEs": "Noruega",
+      "result": {
+        "h": 1,
+        "a": 4
+      },
+      "predictions": {
+        "kevin": {
+          "ph": 0,
+          "pa": 2,
+          "pts": 2
+        },
+        "thomas fridman": {
+          "ph": 0,
+          "pa": 3,
+          "pts": 2
+        },
+        "Maayan Golan": {
+          "ph": 0,
+          "pa": 2,
+          "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": 0,
+          "pa": 3,
+          "pts": 2
+        },
+        "Lorena Brofman": {
+          "ph": 0,
+          "pa": 1,
+          "pts": 2
+        },
+        "Gonzalo Aguiar": {
+          "ph": 0,
+          "pa": 3,
+          "pts": 2
+        }
+      }
+    },
+    {
+      "id": 12,
+      "date": "2026-06-16",
+      "status": "finished",
+      "home": "France",
+      "away": "Senegal",
+      "homeEs": "Francia",
+      "awayEs": "Senegal",
+      "result": {
+        "h": 3,
+        "a": 1
+      },
+      "predictions": {
+        "kevin": {
+          "ph": 3,
+          "pa": 0,
+          "pts": 2
+        },
+        "thomas fridman": {
+          "ph": 3,
+          "pa": 1,
+          "pts": 3
+        },
+        "Maayan Golan": {
+          "ph": 2,
+          "pa": 0,
+          "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": 3,
+          "pa": 1,
+          "pts": 3
+        },
+        "Lorena Brofman": {
+          "ph": 3,
+          "pa": 2,
+          "pts": 2
+        },
+        "Gonzalo Aguiar": {
+          "ph": 2,
+          "pa": 0,
+          "pts": 2
+        }
+      }
+    },
+    {
+      "id": 13,
+      "date": "2026-06-16",
+      "status": "finished",
+      "home": "Iran",
+      "away": "New Zealand",
+      "homeEs": "Irán",
+      "awayEs": "Nueva Zelanda",
+      "result": {
+        "h": 2,
+        "a": 2
+      },
+      "predictions": {
+        "kevin": {
+          "ph": 0,
+          "pa": 1,
+          "pts": 0
+        },
+        "thomas fridman": {
+          "ph": 1,
+          "pa": 0,
+          "pts": 0
+        },
+        "Maayan Golan": {
+          "ph": 1,
+          "pa": 1,
+          "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": 0,
+          "pa": 0,
+          "pts": 2
+        },
+        "Lorena Brofman": {
+          "ph": 0,
+          "pa": 1,
+          "pts": 0
+        },
+        "Gonzalo Aguiar": {
+          "ph": 2,
+          "pa": 0,
+          "pts": 0
+        }
+      }
+    },
+    {
+      "id": 14,
+      "date": "2026-06-16",
+      "status": "finished",
+      "home": "Saudi Arabia",
+      "away": "Uruguay",
+      "homeEs": "Arabia Saudí",
+      "awayEs": "Uruguay",
+      "result": {
+        "h": 1,
+        "a": 1
+      },
+      "predictions": {
+        "kevin": {
+          "ph": 0,
+          "pa": 1,
+          "pts": 0
+        },
+        "thomas fridman": {
+          "ph": 0,
+          "pa": 2,
+          "pts": 0
+        },
+        "Maayan Golan": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 0
+        },
+        "sapir vabshet": {
+          "ph": 1,
+          "pa": 3,
+          "pts": 0
+        },
+        "Lorena Brofman": {
+          "ph": 1,
+          "pa": 2,
+          "pts": 0
+        },
+        "Gonzalo Aguiar": {
+          "ph": 1,
+          "pa": 1,
+          "pts": 3
+        }
+      }
+    },
+    {
+      "id": 15,
+      "date": "2026-06-15",
+      "status": "finished",
+      "home": "Belgium",
+      "away": "Egypt",
+      "homeEs": "Bélgica",
+      "awayEs": "Egipto",
+      "result": {
+        "h": 1,
+        "a": 1
+      },
+      "predictions": {
+        "kevin": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 0
+        },
+        "thomas fridman": {
+          "ph": 1,
+          "pa": 1,
+          "pts": 3
+        },
+        "Maayan Golan": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 0
+        },
+        "sapir vabshet": {
+          "ph": 1,
+          "pa": 0,
+          "pts": 0
+        },
+        "Lorena Brofman": {
+          "ph": 3,
+          "pa": 1,
+          "pts": 0
+        },
+        "Gonzalo Aguiar": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 0
+        }
+      }
+    },
+    {
+      "id": 16,
+      "date": "2026-06-15",
+      "status": "finished",
+      "home": "Spain",
+      "away": "Cape Verde",
+      "homeEs": "España",
+      "awayEs": "Cabo Verde",
+      "result": {
+        "h": 0,
+        "a": 0
+      },
+      "predictions": {
+        "kevin": {
+          "ph": 5,
+          "pa": 0,
+          "pts": 0
+        },
+        "thomas fridman": {
+          "ph": 5,
+          "pa": 0,
+          "pts": 0
+        },
+        "Maayan Golan": {
+          "ph": 2,
+          "pa": 0,
+          "pts": 0
+        },
+        "sapir vabshet": {
+          "ph": 2,
+          "pa": 0,
+          "pts": 0
+        },
+        "Lorena Brofman": {
+          "ph": 3,
+          "pa": 0,
+          "pts": 0
+        },
+        "Gonzalo Aguiar": {
+          "ph": 3,
+          "pa": 0,
+          "pts": 0
+        }
+      }
+    },
+    {
+      "id": 17,
+      "date": "2026-06-15",
+      "status": "finished",
+      "home": "Sweden",
+      "away": "Tunisia",
+      "homeEs": "Suecia",
+      "awayEs": "Túnez",
+      "result": {
+        "h": 5,
+        "a": 1
+      },
+      "predictions": {
+        "kevin": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 2
+        },
+        "thomas fridman": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 2
+        },
+        "Maayan Golan": {
+          "ph": 1,
+          "pa": 0,
+          "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 2
+        },
+        "Lorena Brofman": {
+          "ph": 2,
+          "pa": 0,
+          "pts": 2
+        },
+        "Gonzalo Aguiar": {
+          "ph": 2,
+          "pa": 0,
+          "pts": 2
+        }
+      }
+    },
+    {
+      "id": 18,
+      "date": "2026-06-15",
+      "status": "finished",
+      "home": "Ivory Coast",
+      "away": "Ecuador",
+      "homeEs": "Costa de Marfil",
+      "awayEs": "Ecuador",
+      "result": {
+        "h": 1,
+        "a": 0
+      },
+      "predictions": {
+        "kevin": {
+          "ph": 1,
+          "pa": 0,
+          "pts": 3
+        },
+        "thomas fridman": {
+          "ph": 0,
+          "pa": 1,
+          "pts": 0
+        },
+        "Maayan Golan": {
+          "ph": 0,
+          "pa": 1,
+          "pts": 0
+        },
+        "sapir vabshet": {
+          "ph": 0,
+          "pa": 1,
+          "pts": 0
+        },
+        "Lorena Brofman": {
+          "ph": 0,
+          "pa": 2,
+          "pts": 0
+        },
+        "Gonzalo Aguiar": {
+          "ph": 0,
+          "pa": 1,
+          "pts": 0
+        }
+      }
+    },
+    {
+      "id": 19,
+      "date": "2026-06-14",
+      "status": "finished",
+      "home": "Netherlands",
+      "away": "Japan",
+      "homeEs": "Países Bajos",
+      "awayEs": "Japón",
+      "result": {
+        "h": 2,
+        "a": 2
+      },
+      "predictions": {
+        "kevin": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 0
+        },
+        "thomas fridman": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 0
+        },
+        "Maayan Golan": {
+          "ph": 2,
+          "pa": 0,
+          "pts": 0
+        },
+        "sapir vabshet": {
+          "ph": 1,
+          "pa": 1,
+          "pts": 2
+        },
+        "Lorena Brofman": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 0
+        },
+        "Gonzalo Aguiar": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 0
+        }
+      }
+    },
+    {
+      "id": 20,
+      "date": "2026-06-14",
+      "status": "finished",
+      "home": "Germany",
+      "away": "Curacao",
+      "homeEs": "Alemania",
+      "awayEs": "Curazao",
+      "result": {
+        "h": 7,
+        "a": 1
+      },
+      "predictions": {
+        "kevin": {
+          "ph": 8,
+          "pa": 0,
+          "pts": 2
+        },
+        "thomas fridman": {
+          "ph": 5,
+          "pa": 0,
+          "pts": 2
+        },
+        "Maayan Golan": {
+          "ph": 3,
+          "pa": 0,
+          "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": 3,
+          "pa": 0,
+          "pts": 2
+        },
+        "Lorena Brofman": {
+          "ph": 2,
+          "pa": 0,
+          "pts": 2
+        },
+        "Gonzalo Aguiar": {
+          "ph": 5,
+          "pa": 0,
+          "pts": 2
+        }
+      }
+    },
+    {
+      "id": 21,
+      "date": "2026-06-14",
+      "status": "finished",
+      "home": "Australia",
+      "away": "Turkiye",
+      "homeEs": "Australia",
+      "awayEs": "Turquía",
+      "result": {
+        "h": 2,
+        "a": 0
+      },
+      "predictions": {
+        "kevin": {
+          "ph": 0,
+          "pa": 1,
+          "pts": 0
+        },
+        "thomas fridman": {
+          "ph": 1,
+          "pa": 2,
+          "pts": 0
+        },
+        "Maayan Golan": {
+          "ph": 1,
+          "pa": 0,
+          "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": 0,
+          "pa": 0,
+          "pts": 0
+        },
+        "Lorena Brofman": {
+          "ph": 1,
+          "pa": 2,
+          "pts": 0
+        },
+        "Gonzalo Aguiar": {
+          "ph": 1,
+          "pa": 2,
+          "pts": 0
+        }
+      }
+    },
+    {
+      "id": 22,
+      "date": "2026-06-14",
+      "status": "finished",
+      "home": "Haiti",
+      "away": "Scotland",
+      "homeEs": "Haití",
+      "awayEs": "Escocia",
+      "result": {
+        "h": 0,
+        "a": 1
+      },
+      "predictions": {
+        "kevin": {
+          "ph": 0,
+          "pa": 2,
+          "pts": 2
+        },
+        "thomas fridman": {
+          "ph": 0,
+          "pa": 2,
+          "pts": 2
+        },
+        "Maayan Golan": {
+          "ph": 0,
+          "pa": 1,
+          "pts": 3
+        },
+        "sapir vabshet": {
+          "ph": 0,
+          "pa": 1,
+          "pts": 3
+        },
+        "Lorena Brofman": {
+          "ph": 1,
+          "pa": 1,
+          "pts": 0
+        },
+        "Gonzalo Aguiar": {
+          "ph": 0,
+          "pa": 2,
+          "pts": 2
+        }
+      }
+    },
+    {
+      "id": 23,
+      "date": "2026-06-14",
+      "status": "finished",
+      "home": "Brazil",
+      "away": "Morocco",
+      "homeEs": "Brasil",
+      "awayEs": "Marruecos",
+      "result": {
+        "h": 1,
+        "a": 1
+      },
+      "predictions": {
+        "kevin": {
+          "ph": 1,
+          "pa": 1,
+          "pts": 3
+        },
+        "thomas fridman": {
+          "ph": 1,
+          "pa": 1,
+          "pts": 3
+        },
+        "Maayan Golan": {
+          "ph": 2,
+          "pa": 0,
+          "pts": 0
+        },
+        "sapir vabshet": {
+          "ph": 2,
+          "pa": 0,
+          "pts": 0
+        },
+        "Lorena Brofman": {
+          "ph": 3,
+          "pa": 2,
+          "pts": 0
+        },
+        "Gonzalo Aguiar": {
+          "ph": 3,
+          "pa": 0,
+          "pts": 0
+        }
+      }
+    },
+    {
+      "id": 24,
+      "date": "2026-06-13",
+      "status": "finished",
+      "home": "Qatar",
+      "away": "Switzerland",
+      "homeEs": "Catar",
+      "awayEs": "Suiza",
+      "result": {
+        "h": 1,
+        "a": 1
+      },
+      "predictions": {
+        "kevin": {
+          "ph": 0,
+          "pa": 3,
+          "pts": 0
+        },
+        "thomas fridman": {
+          "ph": 0,
+          "pa": 3,
+          "pts": 0
+        },
+        "Maayan Golan": {
+          "ph": 0,
+          "pa": 1,
+          "pts": 0
+        },
+        "sapir vabshet": {
+          "ph": 0,
+          "pa": 2,
+          "pts": 0
+        },
+        "Lorena Brofman": {
+          "ph": 1,
+          "pa": 2,
+          "pts": 0
+        },
+        "Gonzalo Aguiar": {
+          "ph": 0,
+          "pa": 2,
+          "pts": 0
+        }
+      }
+    },
+    {
+      "id": 25,
+      "date": "2026-06-13",
+      "status": "finished",
+      "home": "USA",
+      "away": "Paraguay",
+      "homeEs": "EE. UU.",
+      "awayEs": "Paraguay",
+      "result": {
+        "h": 4,
+        "a": 1
+      },
+      "predictions": {
+        "kevin": {
+          "ph": 3,
+          "pa": 0,
+          "pts": 2
+        },
+        "thomas fridman": {
+          "ph": 1,
+          "pa": 2,
+          "pts": 0
+        },
+        "Maayan Golan": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": 2,
+          "pa": 0,
+          "pts": 2
+        },
+        "Lorena Brofman": {
+          "ph": 1,
+          "pa": 1,
+          "pts": 0
+        },
+        "Gonzalo Aguiar": {
+          "ph": 1,
+          "pa": 1,
+          "pts": 0
+        }
+      }
+    },
+    {
+      "id": 26,
+      "date": "2026-06-12",
+      "status": "finished",
+      "home": "Canada",
+      "away": "Bosnia and Herzegovina",
+      "homeEs": "Canadá",
+      "awayEs": "Bosnia y Herzegovina",
+      "result": {
+        "h": 1,
+        "a": 1
+      },
+      "predictions": {
+        "kevin": {
+          "ph": 1,
+          "pa": 1,
+          "pts": 3
+        },
+        "thomas fridman": {
+          "ph": 0,
+          "pa": 1,
+          "pts": 0
+        },
+        "Maayan Golan": {
+          "ph": 2,
+          "pa": 0,
+          "pts": 0
+        },
+        "sapir vabshet": {
+          "ph": 1,
+          "pa": 0,
+          "pts": 0
+        },
+        "Lorena Brofman": {
+          "ph": 1,
+          "pa": 0,
+          "pts": 0
+        },
+        "Gonzalo Aguiar": {
+          "ph": 3,
+          "pa": 1,
+          "pts": 0
+        }
+      }
+    },
+    {
+      "id": 27,
+      "date": "2026-06-12",
+      "status": "finished",
+      "home": "South Korea",
+      "away": "Czechia",
+      "homeEs": "Corea del Sur",
+      "awayEs": "Chequia",
+      "result": {
+        "h": 2,
+        "a": 1
+      },
+      "predictions": {
+        "kevin": {
+          "ph": 2,
+          "pa": 0,
+          "pts": 2
+        },
+        "thomas fridman": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 3
+        },
+        "Maayan Golan": {
+          "ph": 2,
+          "pa": 0,
+          "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": 0,
+          "pa": 0,
+          "pts": 0
+        },
+        "Lorena Brofman": {
+          "ph": 2,
+          "pa": 0,
+          "pts": 2
+        },
+        "Gonzalo Aguiar": {
+          "ph": 2,
+          "pa": 0,
+          "pts": 2
+        }
+      }
+    },
+    {
+      "id": 28,
+      "date": "2026-06-11",
+      "status": "finished",
+      "home": "Mexico",
+      "away": "South Africa",
+      "homeEs": "México",
+      "awayEs": "Sudáfrica",
+      "result": {
+        "h": 2,
+        "a": 0
+      },
+      "predictions": {
+        "kevin": {
+          "ph": 1,
+          "pa": 0,
+          "pts": 2
+        },
+        "thomas fridman": {
+          "ph": 2,
+          "pa": 0,
+          "pts": 3
+        },
+        "Maayan Golan": {
+          "ph": null,
+          "pa": null,
+          "pts": 0
+        },
+        "sapir vabshet": {
+          "ph": null,
+          "pa": null,
+          "pts": 0
+        },
+        "Lorena Brofman": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 2
+        },
+        "Gonzalo Aguiar": {
+          "ph": 1,
+          "pa": 0,
+          "pts": 2
+        }
+      }
+    }
+  ],
+  "race": [
+    {
+      "date": "2026-06-11",
+      "ranking": [
+        {
+          "name": "thomas fridman",
+          "cum": 3,
+          "pos": 1
+        },
+        {
+          "name": "kevin",
+          "cum": 2,
+          "pos": 2
+        },
+        {
+          "name": "Lorena Brofman",
+          "cum": 2,
+          "pos": 3
+        },
+        {
+          "name": "Gonzalo Aguiar",
+          "cum": 2,
+          "pos": 4
+        },
+        {
+          "name": "Maayan Golan",
+          "cum": 0,
+          "pos": 5
+        },
+        {
+          "name": "sapir vabshet",
+          "cum": 0,
+          "pos": 6
+        }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "ranking": [
+        {
+          "name": "kevin",
+          "cum": 7,
+          "pos": 1
+        },
+        {
+          "name": "thomas fridman",
+          "cum": 6,
+          "pos": 2
+        },
+        {
+          "name": "Lorena Brofman",
+          "cum": 4,
+          "pos": 3
+        },
+        {
+          "name": "Gonzalo Aguiar",
+          "cum": 4,
+          "pos": 4
+        },
+        {
+          "name": "Maayan Golan",
+          "cum": 2,
+          "pos": 5
+        },
+        {
+          "name": "sapir vabshet",
+          "cum": 0,
+          "pos": 6
+        }
+      ]
+    },
+    {
+      "date": "2026-06-13",
+      "ranking": [
+        {
+          "name": "kevin",
+          "cum": 9,
+          "pos": 1
+        },
+        {
+          "name": "thomas fridman",
+          "cum": 6,
+          "pos": 2
+        },
+        {
+          "name": "Maayan Golan",
+          "cum": 4,
+          "pos": 3
+        },
+        {
+          "name": "Lorena Brofman",
+          "cum": 4,
+          "pos": 4
+        },
+        {
+          "name": "Gonzalo Aguiar",
+          "cum": 4,
+          "pos": 5
+        },
+        {
+          "name": "sapir vabshet",
+          "cum": 2,
+          "pos": 6
+        }
+      ]
+    },
+    {
+      "date": "2026-06-14",
+      "ranking": [
+        {
+          "name": "kevin",
+          "cum": 16,
+          "pos": 1
+        },
+        {
+          "name": "thomas fridman",
+          "cum": 13,
+          "pos": 2
+        },
+        {
+          "name": "Maayan Golan",
+          "cum": 11,
+          "pos": 3
+        },
+        {
+          "name": "sapir vabshet",
+          "cum": 9,
+          "pos": 4
+        },
+        {
+          "name": "Gonzalo Aguiar",
+          "cum": 8,
+          "pos": 5
+        },
+        {
+          "name": "Lorena Brofman",
+          "cum": 6,
+          "pos": 6
+        }
+      ]
+    },
+    {
+      "date": "2026-06-15",
+      "ranking": [
+        {
+          "name": "kevin",
+          "cum": 21,
+          "pos": 1
+        },
+        {
+          "name": "thomas fridman",
+          "cum": 18,
+          "pos": 2
+        },
+        {
+          "name": "Maayan Golan",
+          "cum": 13,
+          "pos": 3
+        },
+        {
+          "name": "sapir vabshet",
+          "cum": 11,
+          "pos": 4
+        },
+        {
+          "name": "Gonzalo Aguiar",
+          "cum": 10,
+          "pos": 5
+        },
+        {
+          "name": "Lorena Brofman",
+          "cum": 8,
+          "pos": 6
+        }
+      ]
+    },
+    {
+      "date": "2026-06-16",
+      "ranking": [
+        {
+          "name": "kevin",
+          "cum": 23,
+          "pos": 1
+        },
+        {
+          "name": "thomas fridman",
+          "cum": 21,
+          "pos": 2
+        },
+        {
+          "name": "Maayan Golan",
+          "cum": 17,
+          "pos": 3
+        },
+        {
+          "name": "sapir vabshet",
+          "cum": 16,
+          "pos": 4
+        },
+        {
+          "name": "Gonzalo Aguiar",
+          "cum": 15,
+          "pos": 5
+        },
+        {
+          "name": "Lorena Brofman",
+          "cum": 10,
+          "pos": 6
+        }
+      ]
+    },
+    {
+      "date": "2026-06-17",
+      "ranking": [
+        {
+          "name": "kevin",
+          "cum": 29,
+          "pos": 1
+        },
+        {
+          "name": "thomas fridman",
+          "cum": 27,
+          "pos": 2
+        },
+        {
+          "name": "Maayan Golan",
+          "cum": 26,
+          "pos": 3
+        },
+        {
+          "name": "Gonzalo Aguiar",
+          "cum": 23,
+          "pos": 4
+        },
+        {
+          "name": "sapir vabshet",
+          "cum": 22,
+          "pos": 5
+        },
+        {
+          "name": "Lorena Brofman",
+          "cum": 19,
+          "pos": 6
+        }
+      ]
+    },
+    {
+      "date": "2026-06-18",
+      "ranking": [
+        {
+          "name": "kevin",
+          "cum": 34,
+          "pos": 1
+        },
+        {
+          "name": "thomas fridman",
+          "cum": 32,
+          "pos": 2
+        },
+        {
+          "name": "Maayan Golan",
+          "cum": 30,
+          "pos": 3
+        },
+        {
+          "name": "sapir vabshet",
+          "cum": 26,
+          "pos": 4
+        },
+        {
+          "name": "Lorena Brofman",
+          "cum": 26,
+          "pos": 5
+        },
+        {
+          "name": "Gonzalo Aguiar",
+          "cum": 25,
+          "pos": 6
+        }
+      ]
+    },
+    {
+      "date": "2026-06-19",
+      "ranking": [
+        {
+          "name": "kevin",
+          "cum": 38,
+          "pos": 1
+        },
+        {
+          "name": "thomas fridman",
+          "cum": 34,
+          "pos": 2
+        },
+        {
+          "name": "Maayan Golan",
+          "cum": 32,
+          "pos": 3
+        },
+        {
+          "name": "sapir vabshet",
+          "cum": 31,
+          "pos": 4
+        },
+        {
+          "name": "Lorena Brofman",
+          "cum": 30,
+          "pos": 5
+        },
+        {
+          "name": "Gonzalo Aguiar",
+          "cum": 29,
+          "pos": 6
+        }
+      ]
+    }
+  ],
+  "headToHead": [
+    {
+      "name": "kevin",
+      "targetPts": 29,
+      "rivalPts": 38,
+      "diff": -9,
+      "byMatch": [
+        {
+          "id": 1,
+          "home": "Mexico",
+          "away": "South Korea",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 2,
+          "home": "Canada",
+          "away": "Qatar",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 3,
+          "home": "Switzerland",
+          "away": "Bosnia and Herzegovina",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 4,
+          "home": "Czechia",
+          "away": "South Africa",
+          "targetPts": 0,
+          "rivalPts": 3
+        },
+        {
+          "id": 5,
+          "home": "Uzbekistan",
+          "away": "Colombia",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 6,
+          "home": "Ghana",
+          "away": "Panama",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 7,
+          "home": "England",
+          "away": "Croatia",
+          "targetPts": 2,
+          "rivalPts": 0
+        },
+        {
+          "id": 8,
+          "home": "Portugal",
+          "away": "DR Congo",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 9,
+          "home": "Austria",
+          "away": "Jordan",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 10,
+          "home": "Argentina",
+          "away": "Algeria",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 11,
+          "home": "Iraq",
+          "away": "Norway",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 12,
+          "home": "France",
+          "away": "Senegal",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 13,
+          "home": "Iran",
+          "away": "New Zealand",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 14,
+          "home": "Saudi Arabia",
+          "away": "Uruguay",
+          "targetPts": 3,
+          "rivalPts": 0
+        },
+        {
+          "id": 15,
+          "home": "Belgium",
+          "away": "Egypt",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 16,
+          "home": "Spain",
+          "away": "Cape Verde",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 17,
+          "home": "Sweden",
+          "away": "Tunisia",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 18,
+          "home": "Ivory Coast",
+          "away": "Ecuador",
+          "targetPts": 0,
+          "rivalPts": 3
+        },
+        {
+          "id": 19,
+          "home": "Netherlands",
+          "away": "Japan",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 20,
+          "home": "Germany",
+          "away": "Curacao",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 21,
+          "home": "Australia",
+          "away": "Turkiye",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 22,
+          "home": "Haiti",
+          "away": "Scotland",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 23,
+          "home": "Brazil",
+          "away": "Morocco",
+          "targetPts": 0,
+          "rivalPts": 3
+        },
+        {
+          "id": 24,
+          "home": "Qatar",
+          "away": "Switzerland",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 25,
+          "home": "USA",
+          "away": "Paraguay",
+          "targetPts": 0,
+          "rivalPts": 2
+        },
+        {
+          "id": 26,
+          "home": "Canada",
+          "away": "Bosnia and Herzegovina",
+          "targetPts": 0,
+          "rivalPts": 3
+        },
+        {
+          "id": 27,
+          "home": "South Korea",
+          "away": "Czechia",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 28,
+          "home": "Mexico",
+          "away": "South Africa",
+          "targetPts": 2,
+          "rivalPts": 2
+        }
+      ]
+    },
+    {
+      "name": "thomas fridman",
+      "targetPts": 29,
+      "rivalPts": 34,
+      "diff": -5,
+      "byMatch": [
+        {
+          "id": 1,
+          "home": "Mexico",
+          "away": "South Korea",
+          "targetPts": 2,
+          "rivalPts": 0
+        },
+        {
+          "id": 2,
+          "home": "Canada",
+          "away": "Qatar",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 3,
+          "home": "Switzerland",
+          "away": "Bosnia and Herzegovina",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 4,
+          "home": "Czechia",
+          "away": "South Africa",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 5,
+          "home": "Uzbekistan",
+          "away": "Colombia",
+          "targetPts": 2,
+          "rivalPts": 3
+        },
+        {
+          "id": 6,
+          "home": "Ghana",
+          "away": "Panama",
+          "targetPts": 0,
+          "rivalPts": 2
+        },
+        {
+          "id": 7,
+          "home": "England",
+          "away": "Croatia",
+          "targetPts": 2,
+          "rivalPts": 0
+        },
+        {
+          "id": 8,
+          "home": "Portugal",
+          "away": "DR Congo",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 9,
+          "home": "Austria",
+          "away": "Jordan",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 10,
+          "home": "Argentina",
+          "away": "Algeria",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 11,
+          "home": "Iraq",
+          "away": "Norway",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 12,
+          "home": "France",
+          "away": "Senegal",
+          "targetPts": 2,
+          "rivalPts": 3
+        },
+        {
+          "id": 13,
+          "home": "Iran",
+          "away": "New Zealand",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 14,
+          "home": "Saudi Arabia",
+          "away": "Uruguay",
+          "targetPts": 3,
+          "rivalPts": 0
+        },
+        {
+          "id": 15,
+          "home": "Belgium",
+          "away": "Egypt",
+          "targetPts": 0,
+          "rivalPts": 3
+        },
+        {
+          "id": 16,
+          "home": "Spain",
+          "away": "Cape Verde",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 17,
+          "home": "Sweden",
+          "away": "Tunisia",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 18,
+          "home": "Ivory Coast",
+          "away": "Ecuador",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 19,
+          "home": "Netherlands",
+          "away": "Japan",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 20,
+          "home": "Germany",
+          "away": "Curacao",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 21,
+          "home": "Australia",
+          "away": "Turkiye",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 22,
+          "home": "Haiti",
+          "away": "Scotland",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 23,
+          "home": "Brazil",
+          "away": "Morocco",
+          "targetPts": 0,
+          "rivalPts": 3
+        },
+        {
+          "id": 24,
+          "home": "Qatar",
+          "away": "Switzerland",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 25,
+          "home": "USA",
+          "away": "Paraguay",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 26,
+          "home": "Canada",
+          "away": "Bosnia and Herzegovina",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 27,
+          "home": "South Korea",
+          "away": "Czechia",
+          "targetPts": 2,
+          "rivalPts": 3
+        },
+        {
+          "id": 28,
+          "home": "Mexico",
+          "away": "South Africa",
+          "targetPts": 2,
+          "rivalPts": 3
+        }
+      ]
+    },
+    {
+      "name": "Maayan Golan",
+      "targetPts": 29,
+      "rivalPts": 32,
+      "diff": -3,
+      "byMatch": [
+        {
+          "id": 1,
+          "home": "Mexico",
+          "away": "South Korea",
+          "targetPts": 2,
+          "rivalPts": 0
+        },
+        {
+          "id": 2,
+          "home": "Canada",
+          "away": "Qatar",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 3,
+          "home": "Switzerland",
+          "away": "Bosnia and Herzegovina",
+          "targetPts": 0,
+          "rivalPts": 2
+        },
+        {
+          "id": 4,
+          "home": "Czechia",
+          "away": "South Africa",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 5,
+          "home": "Uzbekistan",
+          "away": "Colombia",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 6,
+          "home": "Ghana",
+          "away": "Panama",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 7,
+          "home": "England",
+          "away": "Croatia",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 8,
+          "home": "Portugal",
+          "away": "DR Congo",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 9,
+          "home": "Austria",
+          "away": "Jordan",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 10,
+          "home": "Argentina",
+          "away": "Algeria",
+          "targetPts": 2,
+          "rivalPts": 3
+        },
+        {
+          "id": 11,
+          "home": "Iraq",
+          "away": "Norway",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 12,
+          "home": "France",
+          "away": "Senegal",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 13,
+          "home": "Iran",
+          "away": "New Zealand",
+          "targetPts": 0,
+          "rivalPts": 2
+        },
+        {
+          "id": 14,
+          "home": "Saudi Arabia",
+          "away": "Uruguay",
+          "targetPts": 3,
+          "rivalPts": 0
+        },
+        {
+          "id": 15,
+          "home": "Belgium",
+          "away": "Egypt",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 16,
+          "home": "Spain",
+          "away": "Cape Verde",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 17,
+          "home": "Sweden",
+          "away": "Tunisia",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 18,
+          "home": "Ivory Coast",
+          "away": "Ecuador",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 19,
+          "home": "Netherlands",
+          "away": "Japan",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 20,
+          "home": "Germany",
+          "away": "Curacao",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 21,
+          "home": "Australia",
+          "away": "Turkiye",
+          "targetPts": 0,
+          "rivalPts": 2
+        },
+        {
+          "id": 22,
+          "home": "Haiti",
+          "away": "Scotland",
+          "targetPts": 2,
+          "rivalPts": 3
+        },
+        {
+          "id": 23,
+          "home": "Brazil",
+          "away": "Morocco",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 24,
+          "home": "Qatar",
+          "away": "Switzerland",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 25,
+          "home": "USA",
+          "away": "Paraguay",
+          "targetPts": 0,
+          "rivalPts": 2
+        },
+        {
+          "id": 26,
+          "home": "Canada",
+          "away": "Bosnia and Herzegovina",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 27,
+          "home": "South Korea",
+          "away": "Czechia",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 28,
+          "home": "Mexico",
+          "away": "South Africa",
+          "targetPts": 2,
+          "rivalPts": 0
+        }
+      ]
+    },
+    {
+      "name": "sapir vabshet",
+      "targetPts": 29,
+      "rivalPts": 31,
+      "diff": -2,
+      "byMatch": [
+        {
+          "id": 1,
+          "home": "Mexico",
+          "away": "South Korea",
+          "targetPts": 2,
+          "rivalPts": 3
+        },
+        {
+          "id": 2,
+          "home": "Canada",
+          "away": "Qatar",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 3,
+          "home": "Switzerland",
+          "away": "Bosnia and Herzegovina",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 4,
+          "home": "Czechia",
+          "away": "South Africa",
+          "targetPts": 0,
+          "rivalPts": 2
+        },
+        {
+          "id": 5,
+          "home": "Uzbekistan",
+          "away": "Colombia",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 6,
+          "home": "Ghana",
+          "away": "Panama",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 7,
+          "home": "England",
+          "away": "Croatia",
+          "targetPts": 2,
+          "rivalPts": 0
+        },
+        {
+          "id": 8,
+          "home": "Portugal",
+          "away": "DR Congo",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 9,
+          "home": "Austria",
+          "away": "Jordan",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 10,
+          "home": "Argentina",
+          "away": "Algeria",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 11,
+          "home": "Iraq",
+          "away": "Norway",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 12,
+          "home": "France",
+          "away": "Senegal",
+          "targetPts": 2,
+          "rivalPts": 3
+        },
+        {
+          "id": 13,
+          "home": "Iran",
+          "away": "New Zealand",
+          "targetPts": 0,
+          "rivalPts": 2
+        },
+        {
+          "id": 14,
+          "home": "Saudi Arabia",
+          "away": "Uruguay",
+          "targetPts": 3,
+          "rivalPts": 0
+        },
+        {
+          "id": 15,
+          "home": "Belgium",
+          "away": "Egypt",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 16,
+          "home": "Spain",
+          "away": "Cape Verde",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 17,
+          "home": "Sweden",
+          "away": "Tunisia",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 18,
+          "home": "Ivory Coast",
+          "away": "Ecuador",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 19,
+          "home": "Netherlands",
+          "away": "Japan",
+          "targetPts": 0,
+          "rivalPts": 2
+        },
+        {
+          "id": 20,
+          "home": "Germany",
+          "away": "Curacao",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 21,
+          "home": "Australia",
+          "away": "Turkiye",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 22,
+          "home": "Haiti",
+          "away": "Scotland",
+          "targetPts": 2,
+          "rivalPts": 3
+        },
+        {
+          "id": 23,
+          "home": "Brazil",
+          "away": "Morocco",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 24,
+          "home": "Qatar",
+          "away": "Switzerland",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 25,
+          "home": "USA",
+          "away": "Paraguay",
+          "targetPts": 0,
+          "rivalPts": 2
+        },
+        {
+          "id": 26,
+          "home": "Canada",
+          "away": "Bosnia and Herzegovina",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 27,
+          "home": "South Korea",
+          "away": "Czechia",
+          "targetPts": 2,
+          "rivalPts": 0
+        },
+        {
+          "id": 28,
+          "home": "Mexico",
+          "away": "South Africa",
+          "targetPts": 2,
+          "rivalPts": 0
+        }
+      ]
+    },
+    {
+      "name": "Lorena Brofman",
+      "targetPts": 29,
+      "rivalPts": 30,
+      "diff": -1,
+      "byMatch": [
+        {
+          "id": 1,
+          "home": "Mexico",
+          "away": "South Korea",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 2,
+          "home": "Canada",
+          "away": "Qatar",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 3,
+          "home": "Switzerland",
+          "away": "Bosnia and Herzegovina",
+          "targetPts": 0,
+          "rivalPts": 2
+        },
+        {
+          "id": 4,
+          "home": "Czechia",
+          "away": "South Africa",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 5,
+          "home": "Uzbekistan",
+          "away": "Colombia",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 6,
+          "home": "Ghana",
+          "away": "Panama",
+          "targetPts": 0,
+          "rivalPts": 3
+        },
+        {
+          "id": 7,
+          "home": "England",
+          "away": "Croatia",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 8,
+          "home": "Portugal",
+          "away": "DR Congo",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 9,
+          "home": "Austria",
+          "away": "Jordan",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 10,
+          "home": "Argentina",
+          "away": "Algeria",
+          "targetPts": 2,
+          "rivalPts": 3
+        },
+        {
+          "id": 11,
+          "home": "Iraq",
+          "away": "Norway",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 12,
+          "home": "France",
+          "away": "Senegal",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 13,
+          "home": "Iran",
+          "away": "New Zealand",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 14,
+          "home": "Saudi Arabia",
+          "away": "Uruguay",
+          "targetPts": 3,
+          "rivalPts": 0
+        },
+        {
+          "id": 15,
+          "home": "Belgium",
+          "away": "Egypt",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 16,
+          "home": "Spain",
+          "away": "Cape Verde",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 17,
+          "home": "Sweden",
+          "away": "Tunisia",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 18,
+          "home": "Ivory Coast",
+          "away": "Ecuador",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 19,
+          "home": "Netherlands",
+          "away": "Japan",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 20,
+          "home": "Germany",
+          "away": "Curacao",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 21,
+          "home": "Australia",
+          "away": "Turkiye",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 22,
+          "home": "Haiti",
+          "away": "Scotland",
+          "targetPts": 2,
+          "rivalPts": 0
+        },
+        {
+          "id": 23,
+          "home": "Brazil",
+          "away": "Morocco",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 24,
+          "home": "Qatar",
+          "away": "Switzerland",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 25,
+          "home": "USA",
+          "away": "Paraguay",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 26,
+          "home": "Canada",
+          "away": "Bosnia and Herzegovina",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 27,
+          "home": "South Korea",
+          "away": "Czechia",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 28,
+          "home": "Mexico",
+          "away": "South Africa",
+          "targetPts": 2,
+          "rivalPts": 2
+        }
+      ]
+    }
+  ]
+}
