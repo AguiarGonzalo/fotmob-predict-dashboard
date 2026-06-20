@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T15:16:58.963Z",
+  "updatedAt": "2026-06-20T18:08:23.441Z",
   "league": {
     "id": 196754,
     "game": 772026,
@@ -1589,6 +1589,49 @@
           "ph": 1,
           "pa": 1,
           "pts": 0
+        }
+      }
+    },
+    {
+      "id": 32,
+      "matchId": "4667786",
+      "date": "2026-06-20T17:00:00.000Z",
+      "status": "upcoming",
+      "home": "Netherlands",
+      "away": "Sweden",
+      "homeEs": "Países Bajos",
+      "awayEs": "Suecia",
+      "result": null,
+      "predictions": {
+        "kevin": {
+          "ph": 2,
+          "pa": 0,
+          "pts": null
+        },
+        "thomas fridman": {
+          "ph": 2,
+          "pa": 1,
+          "pts": null
+        },
+        "Maayan Golan": {
+          "ph": 1,
+          "pa": 1,
+          "pts": null
+        },
+        "sapir vabshet": {
+          "ph": 1,
+          "pa": 0,
+          "pts": null
+        },
+        "Lorena Brofman": {
+          "ph": 2,
+          "pa": 1,
+          "pts": null
+        },
+        "Gonzalo Aguiar": {
+          "ph": 2,
+          "pa": 1,
+          "pts": null
         }
       }
     }
