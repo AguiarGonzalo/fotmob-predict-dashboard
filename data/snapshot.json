@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T12:31:56.777Z",
+  "updatedAt": "2026-06-21T16:53:45.109Z",
   "league": {
     "id": 196754,
     "game": 772026,
@@ -1773,6 +1773,49 @@
           "ph": 1,
           "pa": 1,
           "pts": 0
+        }
+      }
+    },
+    {
+      "id": 36,
+      "matchId": "4667801",
+      "date": "2026-06-21T16:00:00.000Z",
+      "status": "upcoming",
+      "home": "Spain",
+      "away": "Saudi Arabia",
+      "homeEs": "España",
+      "awayEs": "Arabia Saudí",
+      "result": null,
+      "predictions": {
+        "kevin": {
+          "ph": 1,
+          "pa": 0,
+          "pts": null
+        },
+        "thomas fridman": {
+          "ph": 1,
+          "pa": 1,
+          "pts": null
+        },
+        "Maayan Golan": {
+          "ph": 1,
+          "pa": 2,
+          "pts": null
+        },
+        "sapir vabshet": {
+          "ph": 3,
+          "pa": 0,
+          "pts": null
+        },
+        "Gonzalo Aguiar": {
+          "ph": 3,
+          "pa": 1,
+          "pts": null
+        },
+        "Lorena Brofman": {
+          "ph": 2,
+          "pa": 1,
+          "pts": null
         }
       }
     }
