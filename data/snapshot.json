@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T20:07:36.040Z",
+  "updatedAt": "2026-06-22T00:00:39.729Z",
   "league": {
     "id": 196754,
     "game": 772026,
@@ -12,7 +12,7 @@
     "miss": 0
   },
   "target": "Gonzalo Aguiar",
-  "finishedCount": 37,
+  "finishedCount": 38,
   "teamsEs": {
     "USA": "EE. UU.",
     "Australia": "Australia",
@@ -70,7 +70,7 @@
       "rank": 1,
       "points": 54,
       "exacts": 6,
-      "avg": 1.46,
+      "avg": 1.42,
       "isTarget": false
     },
     {
@@ -79,7 +79,7 @@
       "rank": 2,
       "points": 49,
       "exacts": 7,
-      "avg": 1.32,
+      "avg": 1.29,
       "isTarget": false
     },
     {
@@ -88,7 +88,7 @@
       "rank": 3,
       "points": 47,
       "exacts": 5,
-      "avg": 1.27,
+      "avg": 1.24,
       "isTarget": false
     },
     {
@@ -97,7 +97,7 @@
       "rank": 4,
       "points": 44,
       "exacts": 4,
-      "avg": 1.19,
+      "avg": 1.16,
       "isTarget": false
     },
     {
@@ -106,7 +106,7 @@
       "rank": 5,
       "points": 43,
       "exacts": 1,
-      "avg": 1.16,
+      "avg": 1.13,
       "isTarget": true
     },
     {
@@ -115,7 +115,7 @@
       "rank": 6,
       "points": 42,
       "exacts": 2,
-      "avg": 1.14,
+      "avg": 1.11,
       "isTarget": false
     }
   ],
@@ -1826,25 +1826,71 @@
       "id": 37,
       "matchId": "4667793",
       "date": "2026-06-21T19:00:00.000Z",
-      "status": "upcoming",
+      "status": "finished",
       "home": "Belgium",
       "away": "Iran",
       "homeEs": "Bélgica",
       "awayEs": "Irán",
-      "result": null,
+      "result": {
+        "h": 0,
+        "a": 0
+      },
       "predictions": {
         "kevin": {
           "ph": 1,
           "pa": 0,
-          "pts": null
+          "pts": 0
         },
         "thomas fridman": {
           "ph": 2,
           "pa": 0,
-          "pts": null
+          "pts": 0
         },
         "Maayan Golan": {
           "ph": 1,
+          "pa": 0,
+          "pts": 0
+        },
+        "sapir vabshet": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 0
+        },
+        "Gonzalo Aguiar": {
+          "ph": 2,
+          "pa": 0,
+          "pts": 0
+        },
+        "Lorena Brofman": {
+          "ph": 3,
+          "pa": 0,
+          "pts": 0
+        }
+      }
+    },
+    {
+      "id": 38,
+      "matchId": "4667800",
+      "date": "2026-06-21T22:00:00.000Z",
+      "status": "upcoming",
+      "home": "Uruguay",
+      "away": "Cape Verde",
+      "homeEs": "Uruguay",
+      "awayEs": "Cabo Verde",
+      "result": null,
+      "predictions": {
+        "kevin": {
+          "ph": 3,
+          "pa": 0,
+          "pts": null
+        },
+        "thomas fridman": {
+          "ph": 3,
+          "pa": 0,
+          "pts": null
+        },
+        "Maayan Golan": {
+          "ph": 2,
           "pa": 0,
           "pts": null
         },
@@ -1859,7 +1905,7 @@
           "pts": null
         },
         "Lorena Brofman": {
-          "ph": 3,
+          "ph": 2,
           "pa": 0,
           "pts": null
         }
@@ -2518,6 +2564,13 @@
           "away": "Saudi Arabia",
           "targetPts": 2,
           "rivalPts": 2
+        },
+        {
+          "id": 37,
+          "home": "Belgium",
+          "away": "Iran",
+          "targetPts": 0,
+          "rivalPts": 0
         }
       ]
     },
@@ -2784,6 +2837,13 @@
           "home": "Spain",
           "away": "Saudi Arabia",
           "targetPts": 2,
+          "rivalPts": 0
+        },
+        {
+          "id": 37,
+          "home": "Belgium",
+          "away": "Iran",
+          "targetPts": 0,
           "rivalPts": 0
         }
       ]
@@ -3052,6 +3112,13 @@
           "away": "Saudi Arabia",
           "targetPts": 2,
           "rivalPts": 0
+        },
+        {
+          "id": 37,
+          "home": "Belgium",
+          "away": "Iran",
+          "targetPts": 0,
+          "rivalPts": 0
         }
       ]
     },
@@ -3319,6 +3386,13 @@
           "away": "Saudi Arabia",
           "targetPts": 2,
           "rivalPts": 2
+        },
+        {
+          "id": 37,
+          "home": "Belgium",
+          "away": "Iran",
+          "targetPts": 0,
+          "rivalPts": 0
         }
       ]
     },
@@ -3586,6 +3660,13 @@
           "away": "Saudi Arabia",
           "targetPts": 2,
           "rivalPts": 2
+        },
+        {
+          "id": 37,
+          "home": "Belgium",
+          "away": "Iran",
+          "targetPts": 0,
+          "rivalPts": 0
         }
       ]
     }
