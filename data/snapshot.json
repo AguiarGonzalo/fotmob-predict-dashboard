@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T19:40:31.245Z",
+  "updatedAt": "2026-06-22T23:08:11.072Z",
   "league": {
     "id": 196754,
     "game": 772026,
@@ -2003,6 +2003,49 @@
           "ph": 2,
           "pa": 1,
           "pts": 2
+        }
+      }
+    },
+    {
+      "id": 41,
+      "matchId": "4667807",
+      "date": "2026-06-22T21:00:00.000Z",
+      "status": "upcoming",
+      "home": "France",
+      "away": "Iraq",
+      "homeEs": "Francia",
+      "awayEs": "Irak",
+      "result": null,
+      "predictions": {
+        "kevin": {
+          "ph": 4,
+          "pa": 0,
+          "pts": null
+        },
+        "thomas fridman": {
+          "ph": 5,
+          "pa": 0,
+          "pts": null
+        },
+        "Maayan Golan": {
+          "ph": 2,
+          "pa": 0,
+          "pts": null
+        },
+        "Gonzalo Aguiar": {
+          "ph": 3,
+          "pa": 0,
+          "pts": null
+        },
+        "sapir vabshet": {
+          "ph": 4,
+          "pa": 0,
+          "pts": null
+        },
+        "Lorena Brofman": {
+          "ph": 3,
+          "pa": 0,
+          "pts": null
         }
       }
     }
