@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T16:03:07.096Z",
+  "updatedAt": "2026-06-22T19:40:31.245Z",
   "league": {
     "id": 196754,
     "game": 772026,
@@ -12,7 +12,7 @@
     "miss": 0
   },
   "target": "Gonzalo Aguiar",
-  "finishedCount": 40,
+  "finishedCount": 41,
   "teamsEs": {
     "USA": "EE. UU.",
     "Australia": "Australia",
@@ -68,54 +68,54 @@
       "id": "2_100513976122918931166",
       "name": "kevin",
       "rank": 1,
-      "points": 54,
-      "exacts": 6,
-      "avg": 1.35,
+      "points": 57,
+      "exacts": 7,
+      "avg": 1.39,
       "isTarget": false
     },
     {
       "id": "2_108825978723927201255",
       "name": "thomas fridman",
       "rank": 2,
-      "points": 51,
-      "exacts": 7,
-      "avg": 1.27,
+      "points": 54,
+      "exacts": 8,
+      "avg": 1.32,
       "isTarget": false
     },
     {
       "id": "2_114073492760604569894",
       "name": "Maayan Golan",
       "rank": 3,
-      "points": 49,
+      "points": 51,
       "exacts": 5,
-      "avg": 1.23,
+      "avg": 1.24,
       "isTarget": false
     },
     {
       "id": "2_112563509372036390748",
       "name": "Gonzalo Aguiar",
       "rank": 4,
-      "points": 45,
+      "points": 47,
       "exacts": 1,
-      "avg": 1.13,
+      "avg": 1.15,
       "isTarget": true
     },
     {
       "id": "2_110807909424767304523",
       "name": "sapir vabshet",
       "rank": 5,
-      "points": 44,
+      "points": 46,
       "exacts": 4,
-      "avg": 1.1,
+      "avg": 1.12,
       "isTarget": false
     },
     {
       "id": "2_109384509403978234765",
       "name": "Lorena Brofman",
       "rank": 6,
-      "points": 44,
+      "points": 46,
       "exacts": 2,
-      "avg": 1.1,
+      "avg": 1.12,
       "isTarget": false
     }
   ],
@@ -1959,6 +1959,52 @@
           "pts": 2
         }
       }
+    },
+    {
+      "id": 40,
+      "matchId": "4667815",
+      "date": "2026-06-22T17:00:00.000Z",
+      "status": "finished",
+      "home": "Argentina",
+      "away": "Austria",
+      "homeEs": "Argentina",
+      "awayEs": "Austria",
+      "result": {
+        "h": 2,
+        "a": 0
+      },
+      "predictions": {
+        "kevin": {
+          "ph": 2,
+          "pa": 0,
+          "pts": 3
+        },
+        "thomas fridman": {
+          "ph": 2,
+          "pa": 0,
+          "pts": 3
+        },
+        "Maayan Golan": {
+          "ph": 3,
+          "pa": 0,
+          "pts": 2
+        },
+        "Gonzalo Aguiar": {
+          "ph": 4,
+          "pa": 0,
+          "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 2
+        },
+        "Lorena Brofman": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 2
+        }
+      }
     }
   ],
   "race": [
@@ -2352,32 +2398,32 @@
       "ranking": [
         {
           "name": "kevin",
-          "cum": 54,
+          "cum": 57,
           "pos": 1
         },
         {
           "name": "thomas fridman",
-          "cum": 51,
+          "cum": 54,
           "pos": 2
         },
         {
           "name": "Maayan Golan",
-          "cum": 49,
+          "cum": 51,
           "pos": 3
         },
         {
           "name": "Gonzalo Aguiar",
-          "cum": 45,
+          "cum": 47,
           "pos": 4
         },
         {
           "name": "sapir vabshet",
-          "cum": 44,
+          "cum": 46,
           "pos": 5
         },
         {
           "name": "Lorena Brofman",
-          "cum": 44,
+          "cum": 46,
           "pos": 6
         }
       ]
@@ -2386,9 +2432,9 @@
   "headToHead": [
     {
       "name": "kevin",
-      "targetPts": 45,
-      "rivalPts": 54,
-      "diff": -9,
+      "targetPts": 47,
+      "rivalPts": 57,
+      "diff": -10,
       "byMatch": [
         {
           "id": 0,
@@ -2669,14 +2715,21 @@
           "away": "Egypt",
           "targetPts": 2,
           "rivalPts": 0
+        },
+        {
+          "id": 40,
+          "home": "Argentina",
+          "away": "Austria",
+          "targetPts": 2,
+          "rivalPts": 3
         }
       ]
     },
     {
       "name": "thomas fridman",
-      "targetPts": 45,
-      "rivalPts": 51,
-      "diff": -6,
+      "targetPts": 47,
+      "rivalPts": 54,
+      "diff": -7,
       "byMatch": [
         {
           "id": 0,
@@ -2957,13 +3010,20 @@
           "away": "Egypt",
           "targetPts": 2,
           "rivalPts": 2
+        },
+        {
+          "id": 40,
+          "home": "Argentina",
+          "away": "Austria",
+          "targetPts": 2,
+          "rivalPts": 3
         }
       ]
     },
     {
       "name": "Maayan Golan",
-      "targetPts": 45,
-      "rivalPts": 49,
+      "targetPts": 47,
+      "rivalPts": 51,
       "diff": -4,
       "byMatch": [
         {
@@ -3245,13 +3305,20 @@
           "away": "Egypt",
           "targetPts": 2,
           "rivalPts": 2
+        },
+        {
+          "id": 40,
+          "home": "Argentina",
+          "away": "Austria",
+          "targetPts": 2,
+          "rivalPts": 2
         }
       ]
     },
     {
       "name": "sapir vabshet",
-      "targetPts": 45,
-      "rivalPts": 44,
+      "targetPts": 47,
+      "rivalPts": 46,
       "diff": 1,
       "byMatch": [
         {
@@ -3533,13 +3600,20 @@
           "away": "Egypt",
           "targetPts": 2,
           "rivalPts": 0
+        },
+        {
+          "id": 40,
+          "home": "Argentina",
+          "away": "Austria",
+          "targetPts": 2,
+          "rivalPts": 2
         }
       ]
     },
     {
       "name": "Lorena Brofman",
-      "targetPts": 45,
-      "rivalPts": 44,
+      "targetPts": 47,
+      "rivalPts": 46,
       "diff": 1,
       "byMatch": [
         {
@@ -3819,6 +3893,13 @@
           "id": 39,
           "home": "New Zealand",
           "away": "Egypt",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 40,
+          "home": "Argentina",
+          "away": "Austria",
           "targetPts": 2,
           "rivalPts": 2
         }
@@ -3828,48 +3909,48 @@
   "validation": [
     {
       "name": "kevin",
-      "calcPts": 54,
-      "apiPts": 54,
-      "calcExacts": 6,
-      "apiExacts": 6,
-      "ok": true
-    },
-    {
-      "name": "thomas fridman",
-      "calcPts": 51,
-      "apiPts": 51,
+      "calcPts": 57,
+      "apiPts": 57,
       "calcExacts": 7,
       "apiExacts": 7,
       "ok": true
     },
     {
+      "name": "thomas fridman",
+      "calcPts": 54,
+      "apiPts": 54,
+      "calcExacts": 8,
+      "apiExacts": 8,
+      "ok": true
+    },
+    {
       "name": "Maayan Golan",
-      "calcPts": 49,
-      "apiPts": 49,
+      "calcPts": 51,
+      "apiPts": 51,
       "calcExacts": 5,
       "apiExacts": 5,
       "ok": true
     },
     {
       "name": "Gonzalo Aguiar",
-      "calcPts": 45,
-      "apiPts": 45,
+      "calcPts": 47,
+      "apiPts": 47,
       "calcExacts": 1,
       "apiExacts": 1,
       "ok": true
     },
     {
       "name": "sapir vabshet",
-      "calcPts": 44,
-      "apiPts": 44,
+      "calcPts": 46,
+      "apiPts": 46,
       "calcExacts": 4,
       "apiExacts": 4,
       "ok": true
     },
     {
       "name": "Lorena Brofman",
-      "calcPts": 44,
-      "apiPts": 44,
+      "calcPts": 46,
+      "apiPts": 46,
       "calcExacts": 2,
       "apiExacts": 2,
       "ok": true
