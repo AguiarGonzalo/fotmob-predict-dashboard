@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T23:08:11.072Z",
+  "updatedAt": "2026-06-23T00:19:02.124Z",
   "league": {
     "id": 196754,
     "game": 772026,
@@ -2045,6 +2045,49 @@
         "Lorena Brofman": {
           "ph": 3,
           "pa": 0,
+          "pts": null
+        }
+      }
+    },
+    {
+      "id": 42,
+      "matchId": "4667806",
+      "date": "2026-06-23T00:00:00.000Z",
+      "status": "upcoming",
+      "home": "Norway",
+      "away": "Senegal",
+      "homeEs": "Noruega",
+      "awayEs": "Senegal",
+      "result": null,
+      "predictions": {
+        "kevin": {
+          "ph": 2,
+          "pa": 1,
+          "pts": null
+        },
+        "thomas fridman": {
+          "ph": 3,
+          "pa": 1,
+          "pts": null
+        },
+        "Maayan Golan": {
+          "ph": 1,
+          "pa": 0,
+          "pts": null
+        },
+        "Gonzalo Aguiar": {
+          "ph": 2,
+          "pa": 1,
+          "pts": null
+        },
+        "sapir vabshet": {
+          "ph": 1,
+          "pa": 1,
+          "pts": null
+        },
+        "Lorena Brofman": {
+          "ph": 0,
+          "pa": 1,
           "pts": null
         }
       }
