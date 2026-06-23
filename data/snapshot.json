@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T16:31:22.887Z",
+  "updatedAt": "2026-06-23T18:27:36.890Z",
   "league": {
     "id": 196754,
     "game": 772026,
@@ -2141,6 +2141,49 @@
           "ph": null,
           "pa": null,
           "pts": 0
+        }
+      }
+    },
+    {
+      "id": 44,
+      "matchId": "4667822",
+      "date": "2026-06-23T17:00:00.000Z",
+      "status": "upcoming",
+      "home": "Portugal",
+      "away": "Uzbekistan",
+      "homeEs": "Portugal",
+      "awayEs": "Uzbekistán",
+      "result": null,
+      "predictions": {
+        "kevin": {
+          "ph": 1,
+          "pa": 0,
+          "pts": null
+        },
+        "thomas fridman": {
+          "ph": 2,
+          "pa": 0,
+          "pts": null
+        },
+        "Maayan Golan": {
+          "ph": 1,
+          "pa": 0,
+          "pts": null
+        },
+        "Gonzalo Aguiar": {
+          "ph": 3,
+          "pa": 0,
+          "pts": null
+        },
+        "Lorena Brofman": {
+          "ph": 2,
+          "pa": 1,
+          "pts": null
+        },
+        "sapir vabshet": {
+          "ph": 2,
+          "pa": 0,
+          "pts": null
         }
       }
     }
