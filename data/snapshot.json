@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T20:33:23.336Z",
+  "updatedAt": "2026-06-23T22:02:22.533Z",
   "league": {
     "id": 196754,
     "game": 772026,
@@ -12,7 +12,7 @@
     "miss": 0
   },
   "target": "Gonzalo Aguiar",
-  "finishedCount": 45,
+  "finishedCount": 46,
   "teamsEs": {
     "USA": "EE. UU.",
     "Australia": "Australia",
@@ -70,7 +70,7 @@
       "rank": 1,
       "points": 66,
       "exacts": 8,
-      "avg": 1.47,
+      "avg": 1.43,
       "isTarget": false
     },
     {
@@ -79,7 +79,7 @@
       "rank": 2,
       "points": 62,
       "exacts": 8,
-      "avg": 1.38,
+      "avg": 1.35,
       "isTarget": false
     },
     {
@@ -88,7 +88,7 @@
       "rank": 3,
       "points": 57,
       "exacts": 5,
-      "avg": 1.27,
+      "avg": 1.24,
       "isTarget": false
     },
     {
@@ -97,7 +97,7 @@
       "rank": 4,
       "points": 56,
       "exacts": 2,
-      "avg": 1.24,
+      "avg": 1.22,
       "isTarget": true
     },
     {
@@ -106,7 +106,7 @@
       "rank": 5,
       "points": 53,
       "exacts": 3,
-      "avg": 1.18,
+      "avg": 1.15,
       "isTarget": false
     },
     {
@@ -115,7 +115,7 @@
       "rank": 6,
       "points": 50,
       "exacts": 4,
-      "avg": 1.11,
+      "avg": 1.09,
       "isTarget": false
     }
   ],
@@ -2194,42 +2194,45 @@
       "id": 45,
       "matchId": "4667828",
       "date": "2026-06-23T20:00:00.000Z",
-      "status": "upcoming",
+      "status": "finished",
       "home": "England",
       "away": "Ghana",
       "homeEs": "Inglaterra",
       "awayEs": "Ghana",
-      "result": null,
+      "result": {
+        "h": 0,
+        "a": 0
+      },
       "predictions": {
         "kevin": {
           "ph": 2,
           "pa": 0,
-          "pts": null
+          "pts": 0
         },
         "thomas fridman": {
           "ph": 3,
           "pa": 1,
-          "pts": null
+          "pts": 0
         },
         "Maayan Golan": {
           "ph": 2,
           "pa": 0,
-          "pts": null
+          "pts": 0
         },
         "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 0,
-          "pts": null
+          "pts": 0
         },
         "Lorena Brofman": {
           "ph": 2,
           "pa": 1,
-          "pts": null
+          "pts": 0
         },
         "sapir vabshet": {
           "ph": 1,
           "pa": 0,
-          "pts": null
+          "pts": 0
         }
       }
     }
@@ -3012,6 +3015,13 @@
           "away": "Uzbekistan",
           "targetPts": 2,
           "rivalPts": 2
+        },
+        {
+          "id": 45,
+          "home": "England",
+          "away": "Ghana",
+          "targetPts": 0,
+          "rivalPts": 0
         }
       ]
     },
@@ -3335,6 +3345,13 @@
           "away": "Uzbekistan",
           "targetPts": 2,
           "rivalPts": 2
+        },
+        {
+          "id": 45,
+          "home": "England",
+          "away": "Ghana",
+          "targetPts": 0,
+          "rivalPts": 0
         }
       ]
     },
@@ -3658,6 +3675,13 @@
           "away": "Uzbekistan",
           "targetPts": 2,
           "rivalPts": 2
+        },
+        {
+          "id": 45,
+          "home": "England",
+          "away": "Ghana",
+          "targetPts": 0,
+          "rivalPts": 0
         }
       ]
     },
@@ -3981,6 +4005,13 @@
           "away": "Uzbekistan",
           "targetPts": 2,
           "rivalPts": 2
+        },
+        {
+          "id": 45,
+          "home": "England",
+          "away": "Ghana",
+          "targetPts": 0,
+          "rivalPts": 0
         }
       ]
     },
@@ -4304,6 +4335,13 @@
           "away": "Uzbekistan",
           "targetPts": 2,
           "rivalPts": 2
+        },
+        {
+          "id": 45,
+          "home": "England",
+          "away": "Ghana",
+          "targetPts": 0,
+          "rivalPts": 0
         }
       ]
     }
