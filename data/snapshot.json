@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T17:51:04.872Z",
+  "updatedAt": "2026-06-24T19:41:04.281Z",
   "league": {
     "id": 196754,
     "game": 772026,
@@ -2325,6 +2325,92 @@
           "ph": 2,
           "pa": 1,
           "pts": 2
+        }
+      }
+    },
+    {
+      "id": 48,
+      "matchId": "4667761",
+      "date": "2026-06-24T19:00:00.000Z",
+      "status": "upcoming",
+      "home": "Switzerland",
+      "away": "Canada",
+      "homeEs": "Suiza",
+      "awayEs": "Canadá",
+      "result": null,
+      "predictions": {
+        "kevin": {
+          "ph": 1,
+          "pa": 1,
+          "pts": null
+        },
+        "thomas fridman": {
+          "ph": 2,
+          "pa": 2,
+          "pts": null
+        },
+        "Gonzalo Aguiar": {
+          "ph": 1,
+          "pa": 1,
+          "pts": null
+        },
+        "Maayan Golan": {
+          "ph": 0,
+          "pa": 1,
+          "pts": null
+        },
+        "Lorena Brofman": {
+          "ph": 1,
+          "pa": 0,
+          "pts": null
+        },
+        "sapir vabshet": {
+          "ph": 0,
+          "pa": 0,
+          "pts": null
+        }
+      }
+    },
+    {
+      "id": 49,
+      "matchId": "4667762",
+      "date": "2026-06-24T19:00:00.000Z",
+      "status": "upcoming",
+      "home": "Bosnia and Herzegovina",
+      "away": "Qatar",
+      "homeEs": "Bosnia y Herzegovina",
+      "awayEs": "Catar",
+      "result": null,
+      "predictions": {
+        "kevin": {
+          "ph": 2,
+          "pa": 1,
+          "pts": null
+        },
+        "thomas fridman": {
+          "ph": 2,
+          "pa": 0,
+          "pts": null
+        },
+        "Gonzalo Aguiar": {
+          "ph": 2,
+          "pa": 0,
+          "pts": null
+        },
+        "Maayan Golan": {
+          "ph": 1,
+          "pa": 0,
+          "pts": null
+        },
+        "Lorena Brofman": {
+          "ph": 0,
+          "pa": 1,
+          "pts": null
+        },
+        "sapir vabshet": {
+          "ph": 2,
+          "pa": 1,
+          "pts": null
         }
       }
     }
