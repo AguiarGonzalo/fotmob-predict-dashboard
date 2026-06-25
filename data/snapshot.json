@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T19:27:07.680Z",
+  "updatedAt": "2026-06-25T21:11:43.262Z",
   "league": {
     "id": 196754,
     "game": 772026,
@@ -2601,6 +2601,92 @@
           "ph": 0,
           "pa": 1,
           "pts": 0
+        }
+      }
+    },
+    {
+      "id": 54,
+      "matchId": "4667781",
+      "date": "2026-06-25T20:00:00.000Z",
+      "status": "upcoming",
+      "home": "Ecuador",
+      "away": "Germany",
+      "homeEs": "Ecuador",
+      "awayEs": "Alemania",
+      "result": null,
+      "predictions": {
+        "kevin": {
+          "ph": 0,
+          "pa": 2,
+          "pts": null
+        },
+        "thomas fridman": {
+          "ph": 1,
+          "pa": 2,
+          "pts": null
+        },
+        "Gonzalo Aguiar": {
+          "ph": 0,
+          "pa": 4,
+          "pts": null
+        },
+        "Maayan Golan": {
+          "ph": 0,
+          "pa": 2,
+          "pts": null
+        },
+        "Lorena Brofman": {
+          "ph": 1,
+          "pa": 4,
+          "pts": null
+        },
+        "sapir vabshet": {
+          "ph": 1,
+          "pa": 2,
+          "pts": null
+        }
+      }
+    },
+    {
+      "id": 55,
+      "matchId": "4667782",
+      "date": "2026-06-25T20:00:00.000Z",
+      "status": "upcoming",
+      "home": "Curacao",
+      "away": "Ivory Coast",
+      "homeEs": "Curazao",
+      "awayEs": "Costa de Marfil",
+      "result": null,
+      "predictions": {
+        "kevin": {
+          "ph": 0,
+          "pa": 2,
+          "pts": null
+        },
+        "thomas fridman": {
+          "ph": 0,
+          "pa": 2,
+          "pts": null
+        },
+        "Gonzalo Aguiar": {
+          "ph": 0,
+          "pa": 1,
+          "pts": null
+        },
+        "Maayan Golan": {
+          "ph": 0,
+          "pa": 1,
+          "pts": null
+        },
+        "Lorena Brofman": {
+          "ph": 1,
+          "pa": 1,
+          "pts": null
+        },
+        "sapir vabshet": {
+          "ph": 0,
+          "pa": 3,
+          "pts": null
         }
       }
     }
