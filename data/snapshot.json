@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T17:21:44.786Z",
+  "updatedAt": "2026-06-26T19:17:27.628Z",
   "league": {
     "id": 196754,
     "game": 772026,
@@ -2877,6 +2877,92 @@
           "ph": 1,
           "pa": 0,
           "pts": 0
+        }
+      }
+    },
+    {
+      "id": 60,
+      "matchId": "4667808",
+      "date": "2026-06-26T19:00:00.000Z",
+      "status": "upcoming",
+      "home": "Norway",
+      "away": "France",
+      "homeEs": "Noruega",
+      "awayEs": "Francia",
+      "result": null,
+      "predictions": {
+        "kevin": {
+          "ph": 1,
+          "pa": 3,
+          "pts": null
+        },
+        "thomas fridman": {
+          "ph": 1,
+          "pa": 2,
+          "pts": null
+        },
+        "Gonzalo Aguiar": {
+          "ph": 0,
+          "pa": 2,
+          "pts": null
+        },
+        "Lorena Brofman": {
+          "ph": 1,
+          "pa": 3,
+          "pts": null
+        },
+        "sapir vabshet": {
+          "ph": 1,
+          "pa": 3,
+          "pts": null
+        },
+        "Maayan Golan": {
+          "ph": 1,
+          "pa": 2,
+          "pts": null
+        }
+      }
+    },
+    {
+      "id": 61,
+      "matchId": "4667809",
+      "date": "2026-06-26T19:00:00.000Z",
+      "status": "upcoming",
+      "home": "Senegal",
+      "away": "Iraq",
+      "homeEs": "Senegal",
+      "awayEs": "Irak",
+      "result": null,
+      "predictions": {
+        "kevin": {
+          "ph": 2,
+          "pa": 1,
+          "pts": null
+        },
+        "thomas fridman": {
+          "ph": 2,
+          "pa": 0,
+          "pts": null
+        },
+        "Gonzalo Aguiar": {
+          "ph": 2,
+          "pa": 0,
+          "pts": null
+        },
+        "Lorena Brofman": {
+          "ph": 2,
+          "pa": 0,
+          "pts": null
+        },
+        "sapir vabshet": {
+          "ph": 2,
+          "pa": 0,
+          "pts": null
+        },
+        "Maayan Golan": {
+          "ph": 1,
+          "pa": 0,
+          "pts": null
         }
       }
     }
