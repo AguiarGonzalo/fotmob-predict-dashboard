@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T20:00:16.976Z",
+  "updatedAt": "2026-06-27T21:13:47.932Z",
   "league": {
     "id": 196754,
     "game": 772026,
@@ -3153,6 +3153,92 @@
           "ph": 1,
           "pa": 0,
           "pts": 0
+        }
+      }
+    },
+    {
+      "id": 66,
+      "matchId": "4667829",
+      "date": "2026-06-27T21:00:00.000Z",
+      "status": "upcoming",
+      "home": "Panama",
+      "away": "England",
+      "homeEs": "Panamá",
+      "awayEs": "Inglaterra",
+      "result": null,
+      "predictions": {
+        "kevin": {
+          "ph": 0,
+          "pa": 2,
+          "pts": null
+        },
+        "thomas fridman": {
+          "ph": 0,
+          "pa": 3,
+          "pts": null
+        },
+        "Gonzalo Aguiar": {
+          "ph": 0,
+          "pa": 2,
+          "pts": null
+        },
+        "sapir vabshet": {
+          "ph": 0,
+          "pa": 2,
+          "pts": null
+        },
+        "Lorena Brofman": {
+          "ph": 0,
+          "pa": 2,
+          "pts": null
+        },
+        "Maayan Golan": {
+          "ph": 0,
+          "pa": 1,
+          "pts": null
+        }
+      }
+    },
+    {
+      "id": 67,
+      "matchId": "4667830",
+      "date": "2026-06-27T21:00:00.000Z",
+      "status": "upcoming",
+      "home": "Croatia",
+      "away": "Ghana",
+      "homeEs": "Croacia",
+      "awayEs": "Ghana",
+      "result": null,
+      "predictions": {
+        "kevin": {
+          "ph": 2,
+          "pa": 0,
+          "pts": null
+        },
+        "thomas fridman": {
+          "ph": 1,
+          "pa": 0,
+          "pts": null
+        },
+        "Gonzalo Aguiar": {
+          "ph": 2,
+          "pa": 1,
+          "pts": null
+        },
+        "sapir vabshet": {
+          "ph": 1,
+          "pa": 0,
+          "pts": null
+        },
+        "Lorena Brofman": {
+          "ph": 2,
+          "pa": 1,
+          "pts": null
+        },
+        "Maayan Golan": {
+          "ph": 0,
+          "pa": 1,
+          "pts": null
         }
       }
     }
