@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T18:38:46.555Z",
+  "updatedAt": "2026-06-28T19:58:21.012Z",
   "league": {
     "id": 196754,
     "game": 772026,
@@ -3429,6 +3429,49 @@
           "ph": 0,
           "pa": 1,
           "pts": 0
+        }
+      }
+    },
+    {
+      "id": 72,
+      "matchId": "4653705",
+      "date": "2026-06-28T19:00:00.000Z",
+      "status": "upcoming",
+      "home": "South Africa",
+      "away": "Canada",
+      "homeEs": "Sudáfrica",
+      "awayEs": "Canadá",
+      "result": null,
+      "predictions": {
+        "kevin": {
+          "ph": 0,
+          "pa": 1,
+          "pts": null
+        },
+        "thomas fridman": {
+          "ph": 0,
+          "pa": 1,
+          "pts": null
+        },
+        "Gonzalo Aguiar": {
+          "ph": 1,
+          "pa": 1,
+          "pts": null
+        },
+        "sapir vabshet": {
+          "ph": 0,
+          "pa": 2,
+          "pts": null
+        },
+        "Lorena Brofman": {
+          "ph": 1,
+          "pa": 2,
+          "pts": null
+        },
+        "Maayan Golan": {
+          "ph": 0,
+          "pa": 2,
+          "pts": null
         }
       }
     }
