@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T19:58:21.012Z",
+  "updatedAt": "2026-06-28T21:05:21.494Z",
   "league": {
     "id": 196754,
     "game": 772026,
@@ -12,7 +12,7 @@
     "miss": 0
   },
   "target": "Gonzalo Aguiar",
-  "finishedCount": 72,
+  "finishedCount": 73,
   "teamsEs": {
     "USA": "EE. UU.",
     "Australia": "Australia",
@@ -68,18 +68,18 @@
       "id": "2_100513976122918931166",
       "name": "kevin",
       "rank": 1,
-      "points": 104,
-      "exacts": 12,
-      "avg": 1.44,
+      "points": 107,
+      "exacts": 13,
+      "avg": 1.47,
       "isTarget": false
     },
     {
       "id": "2_108825978723927201255",
       "name": "thomas fridman",
       "rank": 2,
-      "points": 97,
-      "exacts": 9,
-      "avg": 1.35,
+      "points": 100,
+      "exacts": 10,
+      "avg": 1.37,
       "isTarget": false
     },
     {
@@ -88,34 +88,34 @@
       "rank": 3,
       "points": 96,
       "exacts": 6,
-      "avg": 1.33,
+      "avg": 1.32,
       "isTarget": true
     },
     {
       "id": "2_110807909424767304523",
       "name": "sapir vabshet",
       "rank": 4,
-      "points": 91,
+      "points": 93,
       "exacts": 7,
-      "avg": 1.26,
+      "avg": 1.27,
       "isTarget": false
     },
     {
       "id": "2_109384509403978234765",
       "name": "Lorena Brofman",
       "rank": 5,
-      "points": 89,
+      "points": 91,
       "exacts": 7,
-      "avg": 1.24,
+      "avg": 1.25,
       "isTarget": false
     },
     {
       "id": "2_114073492760604569894",
       "name": "Maayan Golan",
       "rank": 6,
-      "points": 81,
+      "points": 83,
       "exacts": 5,
-      "avg": 1.13,
+      "avg": 1.14,
       "isTarget": false
     }
   ],
@@ -3436,42 +3436,45 @@
       "id": 72,
       "matchId": "4653705",
       "date": "2026-06-28T19:00:00.000Z",
-      "status": "upcoming",
+      "status": "finished",
       "home": "South Africa",
       "away": "Canada",
       "homeEs": "Sudáfrica",
       "awayEs": "Canadá",
-      "result": null,
+      "result": {
+        "h": 0,
+        "a": 1
+      },
       "predictions": {
         "kevin": {
           "ph": 0,
           "pa": 1,
-          "pts": null
+          "pts": 3
         },
         "thomas fridman": {
           "ph": 0,
           "pa": 1,
-          "pts": null
+          "pts": 3
         },
         "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 1,
-          "pts": null
+          "pts": 0
         },
         "sapir vabshet": {
           "ph": 0,
           "pa": 2,
-          "pts": null
+          "pts": 2
         },
         "Lorena Brofman": {
           "ph": 1,
           "pa": 2,
-          "pts": null
+          "pts": 2
         },
         "Maayan Golan": {
           "ph": 0,
           "pa": 2,
-          "pts": null
+          "pts": 2
         }
       }
     }
@@ -4077,12 +4080,12 @@
       "ranking": [
         {
           "name": "kevin",
-          "cum": 104,
+          "cum": 107,
           "pos": 1
         },
         {
           "name": "thomas fridman",
-          "cum": 97,
+          "cum": 100,
           "pos": 2
         },
         {
@@ -4092,17 +4095,17 @@
         },
         {
           "name": "sapir vabshet",
-          "cum": 91,
+          "cum": 93,
           "pos": 4
         },
         {
           "name": "Lorena Brofman",
-          "cum": 89,
+          "cum": 91,
           "pos": 5
         },
         {
           "name": "Maayan Golan",
-          "cum": 81,
+          "cum": 83,
           "pos": 6
         }
       ]
@@ -4112,8 +4115,8 @@
     {
       "name": "kevin",
       "targetPts": 96,
-      "rivalPts": 104,
-      "diff": -8,
+      "rivalPts": 107,
+      "diff": -11,
       "byMatch": [
         {
           "id": 0,
@@ -4618,14 +4621,21 @@
           "away": "Austria",
           "targetPts": 2,
           "rivalPts": 0
+        },
+        {
+          "id": 72,
+          "home": "South Africa",
+          "away": "Canada",
+          "targetPts": 0,
+          "rivalPts": 3
         }
       ]
     },
     {
       "name": "thomas fridman",
       "targetPts": 96,
-      "rivalPts": 97,
-      "diff": -1,
+      "rivalPts": 100,
+      "diff": -4,
       "byMatch": [
         {
           "id": 0,
@@ -5130,11 +5140,537 @@
           "away": "Austria",
           "targetPts": 2,
           "rivalPts": 2
+        },
+        {
+          "id": 72,
+          "home": "South Africa",
+          "away": "Canada",
+          "targetPts": 0,
+          "rivalPts": 3
         }
       ]
     },
     {
       "name": "sapir vabshet",
+      "targetPts": 96,
+      "rivalPts": 93,
+      "diff": 3,
+      "byMatch": [
+        {
+          "id": 0,
+          "home": "Mexico",
+          "away": "South Africa",
+          "targetPts": 2,
+          "rivalPts": 0
+        },
+        {
+          "id": 1,
+          "home": "South Korea",
+          "away": "Czechia",
+          "targetPts": 2,
+          "rivalPts": 0
+        },
+        {
+          "id": 2,
+          "home": "Canada",
+          "away": "Bosnia and Herzegovina",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 3,
+          "home": "USA",
+          "away": "Paraguay",
+          "targetPts": 0,
+          "rivalPts": 2
+        },
+        {
+          "id": 4,
+          "home": "Qatar",
+          "away": "Switzerland",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 5,
+          "home": "Brazil",
+          "away": "Morocco",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 6,
+          "home": "Haiti",
+          "away": "Scotland",
+          "targetPts": 2,
+          "rivalPts": 3
+        },
+        {
+          "id": 7,
+          "home": "Australia",
+          "away": "Turkiye",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 8,
+          "home": "Germany",
+          "away": "Curacao",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 9,
+          "home": "Netherlands",
+          "away": "Japan",
+          "targetPts": 0,
+          "rivalPts": 2
+        },
+        {
+          "id": 10,
+          "home": "Ivory Coast",
+          "away": "Ecuador",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 11,
+          "home": "Sweden",
+          "away": "Tunisia",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 12,
+          "home": "Spain",
+          "away": "Cape Verde",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 13,
+          "home": "Belgium",
+          "away": "Egypt",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 14,
+          "home": "Saudi Arabia",
+          "away": "Uruguay",
+          "targetPts": 3,
+          "rivalPts": 0
+        },
+        {
+          "id": 15,
+          "home": "Iran",
+          "away": "New Zealand",
+          "targetPts": 0,
+          "rivalPts": 2
+        },
+        {
+          "id": 16,
+          "home": "France",
+          "away": "Senegal",
+          "targetPts": 2,
+          "rivalPts": 3
+        },
+        {
+          "id": 17,
+          "home": "Iraq",
+          "away": "Norway",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 18,
+          "home": "Argentina",
+          "away": "Algeria",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 19,
+          "home": "Austria",
+          "away": "Jordan",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 20,
+          "home": "Portugal",
+          "away": "DR Congo",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 21,
+          "home": "England",
+          "away": "Croatia",
+          "targetPts": 2,
+          "rivalPts": 0
+        },
+        {
+          "id": 22,
+          "home": "Ghana",
+          "away": "Panama",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 23,
+          "home": "Uzbekistan",
+          "away": "Colombia",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 24,
+          "home": "Czechia",
+          "away": "South Africa",
+          "targetPts": 0,
+          "rivalPts": 2
+        },
+        {
+          "id": 25,
+          "home": "Switzerland",
+          "away": "Bosnia and Herzegovina",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 26,
+          "home": "Canada",
+          "away": "Qatar",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 27,
+          "home": "Mexico",
+          "away": "South Korea",
+          "targetPts": 2,
+          "rivalPts": 3
+        },
+        {
+          "id": 28,
+          "home": "USA",
+          "away": "Australia",
+          "targetPts": 2,
+          "rivalPts": 0
+        },
+        {
+          "id": 29,
+          "home": "Scotland",
+          "away": "Morocco",
+          "targetPts": 2,
+          "rivalPts": 3
+        },
+        {
+          "id": 30,
+          "home": "Brazil",
+          "away": "Haiti",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 31,
+          "home": "Turkiye",
+          "away": "Paraguay",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 32,
+          "home": "Netherlands",
+          "away": "Sweden",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 33,
+          "home": "Germany",
+          "away": "Ivory Coast",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 34,
+          "home": "Ecuador",
+          "away": "Curacao",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 35,
+          "home": "Tunisia",
+          "away": "Japan",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 36,
+          "home": "Spain",
+          "away": "Saudi Arabia",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 37,
+          "home": "Belgium",
+          "away": "Iran",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 38,
+          "home": "Uruguay",
+          "away": "Cape Verde",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 39,
+          "home": "New Zealand",
+          "away": "Egypt",
+          "targetPts": 2,
+          "rivalPts": 0
+        },
+        {
+          "id": 40,
+          "home": "Argentina",
+          "away": "Austria",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 41,
+          "home": "France",
+          "away": "Iraq",
+          "targetPts": 3,
+          "rivalPts": 2
+        },
+        {
+          "id": 42,
+          "home": "Norway",
+          "away": "Senegal",
+          "targetPts": 2,
+          "rivalPts": 0
+        },
+        {
+          "id": 43,
+          "home": "Jordan",
+          "away": "Algeria",
+          "targetPts": 2,
+          "rivalPts": 0
+        },
+        {
+          "id": 44,
+          "home": "Portugal",
+          "away": "Uzbekistan",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 45,
+          "home": "England",
+          "away": "Ghana",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 46,
+          "home": "Panama",
+          "away": "Croatia",
+          "targetPts": 2,
+          "rivalPts": 3
+        },
+        {
+          "id": 47,
+          "home": "Colombia",
+          "away": "DR Congo",
+          "targetPts": 3,
+          "rivalPts": 2
+        },
+        {
+          "id": 48,
+          "home": "Switzerland",
+          "away": "Canada",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 49,
+          "home": "Bosnia and Herzegovina",
+          "away": "Qatar",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 50,
+          "home": "Scotland",
+          "away": "Brazil",
+          "targetPts": 3,
+          "rivalPts": 2
+        },
+        {
+          "id": 51,
+          "home": "Morocco",
+          "away": "Haiti",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 52,
+          "home": "Czechia",
+          "away": "Mexico",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 53,
+          "home": "South Africa",
+          "away": "South Korea",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 54,
+          "home": "Ecuador",
+          "away": "Germany",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 55,
+          "home": "Curacao",
+          "away": "Ivory Coast",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 56,
+          "home": "Tunisia",
+          "away": "Netherlands",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 57,
+          "home": "Japan",
+          "away": "Sweden",
+          "targetPts": 0,
+          "rivalPts": 3
+        },
+        {
+          "id": 58,
+          "home": "Turkiye",
+          "away": "USA",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 59,
+          "home": "Paraguay",
+          "away": "Australia",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 60,
+          "home": "Norway",
+          "away": "France",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 61,
+          "home": "Senegal",
+          "away": "Iraq",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 62,
+          "home": "Uruguay",
+          "away": "Spain",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 63,
+          "home": "Cape Verde",
+          "away": "Saudi Arabia",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 64,
+          "home": "New Zealand",
+          "away": "Belgium",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 65,
+          "home": "Egypt",
+          "away": "Iran",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 66,
+          "home": "Panama",
+          "away": "England",
+          "targetPts": 3,
+          "rivalPts": 3
+        },
+        {
+          "id": 67,
+          "home": "Croatia",
+          "away": "Ghana",
+          "targetPts": 3,
+          "rivalPts": 2
+        },
+        {
+          "id": 68,
+          "home": "Colombia",
+          "away": "Portugal",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 69,
+          "home": "DR Congo",
+          "away": "Uzbekistan",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 70,
+          "home": "Jordan",
+          "away": "Argentina",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 71,
+          "home": "Algeria",
+          "away": "Austria",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 72,
+          "home": "South Africa",
+          "away": "Canada",
+          "targetPts": 0,
+          "rivalPts": 2
+        }
+      ]
+    },
+    {
+      "name": "Lorena Brofman",
       "targetPts": 96,
       "rivalPts": 91,
       "diff": 5,
@@ -5144,518 +5680,6 @@
           "home": "Mexico",
           "away": "South Africa",
           "targetPts": 2,
-          "rivalPts": 0
-        },
-        {
-          "id": 1,
-          "home": "South Korea",
-          "away": "Czechia",
-          "targetPts": 2,
-          "rivalPts": 0
-        },
-        {
-          "id": 2,
-          "home": "Canada",
-          "away": "Bosnia and Herzegovina",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 3,
-          "home": "USA",
-          "away": "Paraguay",
-          "targetPts": 0,
-          "rivalPts": 2
-        },
-        {
-          "id": 4,
-          "home": "Qatar",
-          "away": "Switzerland",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 5,
-          "home": "Brazil",
-          "away": "Morocco",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 6,
-          "home": "Haiti",
-          "away": "Scotland",
-          "targetPts": 2,
-          "rivalPts": 3
-        },
-        {
-          "id": 7,
-          "home": "Australia",
-          "away": "Turkiye",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 8,
-          "home": "Germany",
-          "away": "Curacao",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 9,
-          "home": "Netherlands",
-          "away": "Japan",
-          "targetPts": 0,
-          "rivalPts": 2
-        },
-        {
-          "id": 10,
-          "home": "Ivory Coast",
-          "away": "Ecuador",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 11,
-          "home": "Sweden",
-          "away": "Tunisia",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 12,
-          "home": "Spain",
-          "away": "Cape Verde",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 13,
-          "home": "Belgium",
-          "away": "Egypt",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 14,
-          "home": "Saudi Arabia",
-          "away": "Uruguay",
-          "targetPts": 3,
-          "rivalPts": 0
-        },
-        {
-          "id": 15,
-          "home": "Iran",
-          "away": "New Zealand",
-          "targetPts": 0,
-          "rivalPts": 2
-        },
-        {
-          "id": 16,
-          "home": "France",
-          "away": "Senegal",
-          "targetPts": 2,
-          "rivalPts": 3
-        },
-        {
-          "id": 17,
-          "home": "Iraq",
-          "away": "Norway",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 18,
-          "home": "Argentina",
-          "away": "Algeria",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 19,
-          "home": "Austria",
-          "away": "Jordan",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 20,
-          "home": "Portugal",
-          "away": "DR Congo",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 21,
-          "home": "England",
-          "away": "Croatia",
-          "targetPts": 2,
-          "rivalPts": 0
-        },
-        {
-          "id": 22,
-          "home": "Ghana",
-          "away": "Panama",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 23,
-          "home": "Uzbekistan",
-          "away": "Colombia",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 24,
-          "home": "Czechia",
-          "away": "South Africa",
-          "targetPts": 0,
-          "rivalPts": 2
-        },
-        {
-          "id": 25,
-          "home": "Switzerland",
-          "away": "Bosnia and Herzegovina",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 26,
-          "home": "Canada",
-          "away": "Qatar",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 27,
-          "home": "Mexico",
-          "away": "South Korea",
-          "targetPts": 2,
-          "rivalPts": 3
-        },
-        {
-          "id": 28,
-          "home": "USA",
-          "away": "Australia",
-          "targetPts": 2,
-          "rivalPts": 0
-        },
-        {
-          "id": 29,
-          "home": "Scotland",
-          "away": "Morocco",
-          "targetPts": 2,
-          "rivalPts": 3
-        },
-        {
-          "id": 30,
-          "home": "Brazil",
-          "away": "Haiti",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 31,
-          "home": "Turkiye",
-          "away": "Paraguay",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 32,
-          "home": "Netherlands",
-          "away": "Sweden",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 33,
-          "home": "Germany",
-          "away": "Ivory Coast",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 34,
-          "home": "Ecuador",
-          "away": "Curacao",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 35,
-          "home": "Tunisia",
-          "away": "Japan",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 36,
-          "home": "Spain",
-          "away": "Saudi Arabia",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 37,
-          "home": "Belgium",
-          "away": "Iran",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 38,
-          "home": "Uruguay",
-          "away": "Cape Verde",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 39,
-          "home": "New Zealand",
-          "away": "Egypt",
-          "targetPts": 2,
-          "rivalPts": 0
-        },
-        {
-          "id": 40,
-          "home": "Argentina",
-          "away": "Austria",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 41,
-          "home": "France",
-          "away": "Iraq",
-          "targetPts": 3,
-          "rivalPts": 2
-        },
-        {
-          "id": 42,
-          "home": "Norway",
-          "away": "Senegal",
-          "targetPts": 2,
-          "rivalPts": 0
-        },
-        {
-          "id": 43,
-          "home": "Jordan",
-          "away": "Algeria",
-          "targetPts": 2,
-          "rivalPts": 0
-        },
-        {
-          "id": 44,
-          "home": "Portugal",
-          "away": "Uzbekistan",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 45,
-          "home": "England",
-          "away": "Ghana",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 46,
-          "home": "Panama",
-          "away": "Croatia",
-          "targetPts": 2,
-          "rivalPts": 3
-        },
-        {
-          "id": 47,
-          "home": "Colombia",
-          "away": "DR Congo",
-          "targetPts": 3,
-          "rivalPts": 2
-        },
-        {
-          "id": 48,
-          "home": "Switzerland",
-          "away": "Canada",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 49,
-          "home": "Bosnia and Herzegovina",
-          "away": "Qatar",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 50,
-          "home": "Scotland",
-          "away": "Brazil",
-          "targetPts": 3,
-          "rivalPts": 2
-        },
-        {
-          "id": 51,
-          "home": "Morocco",
-          "away": "Haiti",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 52,
-          "home": "Czechia",
-          "away": "Mexico",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 53,
-          "home": "South Africa",
-          "away": "South Korea",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 54,
-          "home": "Ecuador",
-          "away": "Germany",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 55,
-          "home": "Curacao",
-          "away": "Ivory Coast",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 56,
-          "home": "Tunisia",
-          "away": "Netherlands",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 57,
-          "home": "Japan",
-          "away": "Sweden",
-          "targetPts": 0,
-          "rivalPts": 3
-        },
-        {
-          "id": 58,
-          "home": "Turkiye",
-          "away": "USA",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 59,
-          "home": "Paraguay",
-          "away": "Australia",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 60,
-          "home": "Norway",
-          "away": "France",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 61,
-          "home": "Senegal",
-          "away": "Iraq",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 62,
-          "home": "Uruguay",
-          "away": "Spain",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 63,
-          "home": "Cape Verde",
-          "away": "Saudi Arabia",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 64,
-          "home": "New Zealand",
-          "away": "Belgium",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 65,
-          "home": "Egypt",
-          "away": "Iran",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 66,
-          "home": "Panama",
-          "away": "England",
-          "targetPts": 3,
-          "rivalPts": 3
-        },
-        {
-          "id": 67,
-          "home": "Croatia",
-          "away": "Ghana",
-          "targetPts": 3,
-          "rivalPts": 2
-        },
-        {
-          "id": 68,
-          "home": "Colombia",
-          "away": "Portugal",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 69,
-          "home": "DR Congo",
-          "away": "Uzbekistan",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 70,
-          "home": "Jordan",
-          "away": "Argentina",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 71,
-          "home": "Algeria",
-          "away": "Austria",
-          "targetPts": 2,
-          "rivalPts": 2
-        }
-      ]
-    },
-    {
-      "name": "Lorena Brofman",
-      "targetPts": 96,
-      "rivalPts": 89,
-      "diff": 7,
-      "byMatch": [
-        {
-          "id": 0,
-          "home": "Mexico",
-          "away": "South Africa",
-          "targetPts": 2,
           "rivalPts": 2
         },
         {
@@ -6154,14 +6178,21 @@
           "away": "Austria",
           "targetPts": 2,
           "rivalPts": 0
+        },
+        {
+          "id": 72,
+          "home": "South Africa",
+          "away": "Canada",
+          "targetPts": 0,
+          "rivalPts": 2
         }
       ]
     },
     {
       "name": "Maayan Golan",
       "targetPts": 96,
-      "rivalPts": 81,
-      "diff": 15,
+      "rivalPts": 83,
+      "diff": 13,
       "byMatch": [
         {
           "id": 0,
@@ -6666,6 +6697,13 @@
           "away": "Austria",
           "targetPts": 2,
           "rivalPts": 0
+        },
+        {
+          "id": 72,
+          "home": "South Africa",
+          "away": "Canada",
+          "targetPts": 0,
+          "rivalPts": 2
         }
       ]
     }
@@ -6673,18 +6711,18 @@
   "validation": [
     {
       "name": "kevin",
-      "calcPts": 104,
-      "apiPts": 104,
-      "calcExacts": 12,
-      "apiExacts": 12,
+      "calcPts": 107,
+      "apiPts": 107,
+      "calcExacts": 13,
+      "apiExacts": 13,
       "ok": true
     },
     {
       "name": "thomas fridman",
-      "calcPts": 97,
-      "apiPts": 97,
-      "calcExacts": 9,
-      "apiExacts": 9,
+      "calcPts": 100,
+      "apiPts": 100,
+      "calcExacts": 10,
+      "apiExacts": 10,
       "ok": true
     },
     {
@@ -6697,6 +6735,14 @@
     },
     {
       "name": "sapir vabshet",
+      "calcPts": 93,
+      "apiPts": 93,
+      "calcExacts": 7,
+      "apiExacts": 7,
+      "ok": true
+    },
+    {
+      "name": "Lorena Brofman",
       "calcPts": 91,
       "apiPts": 91,
       "calcExacts": 7,
@@ -6704,17 +6750,9 @@
       "ok": true
     },
     {
-      "name": "Lorena Brofman",
-      "calcPts": 89,
-      "apiPts": 89,
-      "calcExacts": 7,
-      "apiExacts": 7,
-      "ok": true
-    },
-    {
       "name": "Maayan Golan",
-      "calcPts": 81,
-      "apiPts": 81,
+      "calcPts": 83,
+      "apiPts": 83,
       "calcExacts": 5,
       "apiExacts": 5,
       "ok": true
