@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T22:19:45.974Z",
+  "updatedAt": "2026-06-29T23:30:21.034Z",
   "league": {
     "id": 196754,
     "game": 772026,
@@ -12,7 +12,7 @@
     "miss": 0
   },
   "target": "Gonzalo Aguiar",
-  "finishedCount": 74,
+  "finishedCount": 75,
   "teamsEs": {
     "USA": "EE. UU.",
     "Australia": "Australia",
@@ -70,7 +70,7 @@
       "rank": 1,
       "points": 107,
       "exacts": 13,
-      "avg": 1.45,
+      "avg": 1.43,
       "isTarget": false
     },
     {
@@ -79,7 +79,7 @@
       "rank": 2,
       "points": 100,
       "exacts": 10,
-      "avg": 1.35,
+      "avg": 1.33,
       "isTarget": false
     },
     {
@@ -88,7 +88,7 @@
       "rank": 3,
       "points": 96,
       "exacts": 8,
-      "avg": 1.3,
+      "avg": 1.28,
       "isTarget": false
     },
     {
@@ -97,7 +97,7 @@
       "rank": 4,
       "points": 96,
       "exacts": 6,
-      "avg": 1.3,
+      "avg": 1.28,
       "isTarget": true
     },
     {
@@ -106,7 +106,7 @@
       "rank": 5,
       "points": 94,
       "exacts": 8,
-      "avg": 1.27,
+      "avg": 1.25,
       "isTarget": false
     },
     {
@@ -115,7 +115,7 @@
       "rank": 6,
       "points": 86,
       "exacts": 6,
-      "avg": 1.16,
+      "avg": 1.15,
       "isTarget": false
     }
   ],
@@ -3528,42 +3528,45 @@
       "id": 74,
       "matchId": "4653703",
       "date": "2026-06-29T20:30:00.000Z",
-      "status": "upcoming",
+      "status": "finished",
       "home": "Germany",
       "away": "Paraguay",
       "homeEs": "Alemania",
       "awayEs": "Paraguay",
-      "result": null,
+      "result": {
+        "h": 1,
+        "a": 1
+      },
       "predictions": {
         "kevin": {
           "ph": 3,
           "pa": 0,
-          "pts": null
+          "pts": 0
         },
         "thomas fridman": {
           "ph": 3,
           "pa": 1,
-          "pts": null
+          "pts": 0
         },
         "sapir vabshet": {
           "ph": 2,
           "pa": 0,
-          "pts": null
+          "pts": 0
         },
         "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 1,
-          "pts": null
+          "pts": 0
         },
         "Lorena Brofman": {
           "ph": 4,
           "pa": 2,
-          "pts": null
+          "pts": 0
         },
         "Maayan Golan": {
           "ph": 3,
           "pa": 1,
-          "pts": null
+          "pts": 0
         }
       }
     }
@@ -4759,6 +4762,13 @@
           "away": "Japan",
           "targetPts": 0,
           "rivalPts": 0
+        },
+        {
+          "id": 74,
+          "home": "Germany",
+          "away": "Paraguay",
+          "targetPts": 0,
+          "rivalPts": 0
         }
       ]
     },
@@ -5283,6 +5293,13 @@
           "id": 73,
           "home": "Brazil",
           "away": "Japan",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 74,
+          "home": "Germany",
+          "away": "Paraguay",
           "targetPts": 0,
           "rivalPts": 0
         }
@@ -5811,6 +5828,13 @@
           "away": "Japan",
           "targetPts": 0,
           "rivalPts": 3
+        },
+        {
+          "id": 74,
+          "home": "Germany",
+          "away": "Paraguay",
+          "targetPts": 0,
+          "rivalPts": 0
         }
       ]
     },
@@ -6337,6 +6361,13 @@
           "away": "Japan",
           "targetPts": 0,
           "rivalPts": 3
+        },
+        {
+          "id": 74,
+          "home": "Germany",
+          "away": "Paraguay",
+          "targetPts": 0,
+          "rivalPts": 0
         }
       ]
     },
@@ -6863,6 +6894,13 @@
           "away": "Japan",
           "targetPts": 0,
           "rivalPts": 3
+        },
+        {
+          "id": 74,
+          "home": "Germany",
+          "away": "Paraguay",
+          "targetPts": 0,
+          "rivalPts": 0
         }
       ]
     }
