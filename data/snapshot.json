@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T19:27:11.044Z",
+  "updatedAt": "2026-06-29T21:08:42.959Z",
   "league": {
     "id": 196754,
     "game": 772026,
@@ -3521,6 +3521,49 @@
           "ph": 2,
           "pa": 1,
           "pts": 3
+        }
+      }
+    },
+    {
+      "id": 74,
+      "matchId": "4653703",
+      "date": "2026-06-29T20:30:00.000Z",
+      "status": "upcoming",
+      "home": "Germany",
+      "away": "Paraguay",
+      "homeEs": "Alemania",
+      "awayEs": "Paraguay",
+      "result": null,
+      "predictions": {
+        "kevin": {
+          "ph": 3,
+          "pa": 0,
+          "pts": null
+        },
+        "thomas fridman": {
+          "ph": 3,
+          "pa": 1,
+          "pts": null
+        },
+        "sapir vabshet": {
+          "ph": 2,
+          "pa": 0,
+          "pts": null
+        },
+        "Gonzalo Aguiar": {
+          "ph": 2,
+          "pa": 1,
+          "pts": null
+        },
+        "Lorena Brofman": {
+          "ph": 4,
+          "pa": 2,
+          "pts": null
+        },
+        "Maayan Golan": {
+          "ph": 3,
+          "pa": 1,
+          "pts": null
         }
       }
     }
