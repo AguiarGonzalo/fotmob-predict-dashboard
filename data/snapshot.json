@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T15:02:50.287Z",
+  "updatedAt": "2026-06-29T17:46:50.019Z",
   "league": {
     "id": 196754,
     "game": 772026,
@@ -3475,6 +3475,49 @@
           "ph": 0,
           "pa": 2,
           "pts": 2
+        }
+      }
+    },
+    {
+      "id": 73,
+      "matchId": "4653711",
+      "date": "2026-06-29T17:00:00.000Z",
+      "status": "upcoming",
+      "home": "Brazil",
+      "away": "Japan",
+      "homeEs": "Brasil",
+      "awayEs": "Japón",
+      "result": null,
+      "predictions": {
+        "kevin": {
+          "ph": 1,
+          "pa": 1,
+          "pts": null
+        },
+        "thomas fridman": {
+          "ph": 1,
+          "pa": 1,
+          "pts": null
+        },
+        "Gonzalo Aguiar": {
+          "ph": 1,
+          "pa": 1,
+          "pts": null
+        },
+        "sapir vabshet": {
+          "ph": 2,
+          "pa": 1,
+          "pts": null
+        },
+        "Lorena Brofman": {
+          "ph": 2,
+          "pa": 1,
+          "pts": null
+        },
+        "Maayan Golan": {
+          "ph": 2,
+          "pa": 1,
+          "pts": null
         }
       }
     }
