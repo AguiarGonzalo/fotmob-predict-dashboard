@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T16:38:01.096Z",
+  "updatedAt": "2026-06-30T18:22:50.768Z",
   "league": {
     "id": 196754,
     "game": 772026,
@@ -3613,6 +3613,49 @@
           "ph": 2,
           "pa": 2,
           "pts": 2
+        }
+      }
+    },
+    {
+      "id": 76,
+      "matchId": "4653712",
+      "date": "2026-06-30T17:00:00.000Z",
+      "status": "upcoming",
+      "home": "Ivory Coast",
+      "away": "Norway",
+      "homeEs": "Costa de Marfil",
+      "awayEs": "Noruega",
+      "result": null,
+      "predictions": {
+        "kevin": {
+          "ph": 1,
+          "pa": 1,
+          "pts": null
+        },
+        "thomas fridman": {
+          "ph": 0,
+          "pa": 2,
+          "pts": null
+        },
+        "sapir vabshet": {
+          "ph": 1,
+          "pa": 2,
+          "pts": null
+        },
+        "Gonzalo Aguiar": {
+          "ph": 2,
+          "pa": 2,
+          "pts": null
+        },
+        "Lorena Brofman": {
+          "ph": 0,
+          "pa": 1,
+          "pts": null
+        },
+        "Maayan Golan": {
+          "ph": 1,
+          "pa": 2,
+          "pts": null
         }
       }
     }
