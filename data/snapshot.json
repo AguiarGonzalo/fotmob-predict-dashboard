@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T23:30:21.034Z",
+  "updatedAt": "2026-06-30T01:33:05.555Z",
   "league": {
     "id": 196754,
     "game": 772026,
@@ -3567,6 +3567,49 @@
           "ph": 3,
           "pa": 1,
           "pts": 0
+        }
+      }
+    },
+    {
+      "id": 75,
+      "matchId": "4653706",
+      "date": "2026-06-30T01:00:00.000Z",
+      "status": "upcoming",
+      "home": "Netherlands",
+      "away": "Morocco",
+      "homeEs": "Países Bajos",
+      "awayEs": "Marruecos",
+      "result": null,
+      "predictions": {
+        "kevin": {
+          "ph": 1,
+          "pa": 0,
+          "pts": null
+        },
+        "thomas fridman": {
+          "ph": 2,
+          "pa": 2,
+          "pts": null
+        },
+        "sapir vabshet": {
+          "ph": 1,
+          "pa": 1,
+          "pts": null
+        },
+        "Gonzalo Aguiar": {
+          "ph": 1,
+          "pa": 1,
+          "pts": null
+        },
+        "Lorena Brofman": {
+          "ph": 2,
+          "pa": 2,
+          "pts": null
+        },
+        "Maayan Golan": {
+          "ph": 2,
+          "pa": 2,
+          "pts": null
         }
       }
     }
