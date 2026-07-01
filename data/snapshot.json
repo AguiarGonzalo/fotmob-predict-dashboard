@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T15:33:15.780Z",
+  "updatedAt": "2026-07-01T17:32:53.546Z",
   "league": {
     "id": 196754,
     "game": 772026,
@@ -3751,6 +3751,49 @@
           "ph": 3,
           "pa": 1,
           "pts": 2
+        }
+      }
+    },
+    {
+      "id": 79,
+      "matchId": "4653714",
+      "date": "2026-07-01T16:00:00.000Z",
+      "status": "upcoming",
+      "home": "England",
+      "away": "DR Congo",
+      "homeEs": "Inglaterra",
+      "awayEs": "R. D. del Congo",
+      "result": null,
+      "predictions": {
+        "kevin": {
+          "ph": 2,
+          "pa": 1,
+          "pts": null
+        },
+        "thomas fridman": {
+          "ph": 2,
+          "pa": 1,
+          "pts": null
+        },
+        "sapir vabshet": {
+          "ph": 3,
+          "pa": 1,
+          "pts": null
+        },
+        "Lorena Brofman": {
+          "ph": 2,
+          "pa": 0,
+          "pts": null
+        },
+        "Gonzalo Aguiar": {
+          "ph": 2,
+          "pa": 0,
+          "pts": null
+        },
+        "Maayan Golan": {
+          "ph": 3,
+          "pa": 0,
+          "pts": null
         }
       }
     }
