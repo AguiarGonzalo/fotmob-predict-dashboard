@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T22:38:43.382Z",
+  "updatedAt": "2026-07-01T23:54:34.118Z",
   "league": {
     "id": 196754,
     "game": 772026,
@@ -12,7 +12,7 @@
     "miss": 0
   },
   "target": "Gonzalo Aguiar",
-  "finishedCount": 80,
+  "finishedCount": 81,
   "teamsEs": {
     "USA": "EE. UU.",
     "Australia": "Australia",
@@ -70,7 +70,7 @@
       "rank": 1,
       "points": 114,
       "exacts": 14,
-      "avg": 1.43,
+      "avg": 1.41,
       "isTarget": false
     },
     {
@@ -79,7 +79,7 @@
       "rank": 2,
       "points": 109,
       "exacts": 11,
-      "avg": 1.36,
+      "avg": 1.35,
       "isTarget": false
     },
     {
@@ -88,34 +88,34 @@
       "rank": 3,
       "points": 108,
       "exacts": 10,
-      "avg": 1.35,
-      "isTarget": false
-    },
-    {
-      "id": "2_109384509403978234765",
-      "name": "Lorena Brofman",
-      "rank": 4,
-      "points": 104,
-      "exacts": 8,
-      "avg": 1.3,
+      "avg": 1.33,
       "isTarget": false
     },
     {
       "id": "2_112563509372036390748",
       "name": "Gonzalo Aguiar",
-      "rank": 5,
-      "points": 103,
+      "rank": 4,
+      "points": 105,
       "exacts": 7,
-      "avg": 1.29,
+      "avg": 1.3,
       "isTarget": true
+    },
+    {
+      "id": "2_109384509403978234765",
+      "name": "Lorena Brofman",
+      "rank": 5,
+      "points": 104,
+      "exacts": 8,
+      "avg": 1.28,
+      "isTarget": false
     },
     {
       "id": "2_114073492760604569894",
       "name": "Maayan Golan",
       "rank": 6,
-      "points": 97,
+      "points": 99,
       "exacts": 7,
-      "avg": 1.21,
+      "avg": 1.22,
       "isTarget": false
     }
   ],
@@ -149,14 +149,14 @@
           "pa": null,
           "pts": 0
         },
-        "Lorena Brofman": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 0,
+          "pts": 2
+        },
+        "Lorena Brofman": {
+          "ph": 2,
+          "pa": 1,
           "pts": 2
         },
         "Maayan Golan": {
@@ -195,12 +195,12 @@
           "pa": 0,
           "pts": 0
         },
-        "Lorena Brofman": {
+        "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 0,
           "pts": 2
         },
-        "Gonzalo Aguiar": {
+        "Lorena Brofman": {
           "ph": 2,
           "pa": 0,
           "pts": 2
@@ -241,14 +241,14 @@
           "pa": 0,
           "pts": 0
         },
-        "Lorena Brofman": {
-          "ph": 1,
-          "pa": 0,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 3,
           "pa": 1,
+          "pts": 0
+        },
+        "Lorena Brofman": {
+          "ph": 1,
+          "pa": 0,
           "pts": 0
         },
         "Maayan Golan": {
@@ -287,12 +287,12 @@
           "pa": 0,
           "pts": 2
         },
-        "Lorena Brofman": {
+        "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 1,
           "pts": 0
         },
-        "Gonzalo Aguiar": {
+        "Lorena Brofman": {
           "ph": 1,
           "pa": 1,
           "pts": 0
@@ -333,13 +333,13 @@
           "pa": 2,
           "pts": 0
         },
-        "Lorena Brofman": {
-          "ph": 1,
+        "Gonzalo Aguiar": {
+          "ph": 0,
           "pa": 2,
           "pts": 0
         },
-        "Gonzalo Aguiar": {
-          "ph": 0,
+        "Lorena Brofman": {
+          "ph": 1,
           "pa": 2,
           "pts": 0
         },
@@ -379,14 +379,14 @@
           "pa": 0,
           "pts": 0
         },
-        "Lorena Brofman": {
-          "ph": 3,
-          "pa": 2,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 3,
           "pa": 0,
+          "pts": 0
+        },
+        "Lorena Brofman": {
+          "ph": 3,
+          "pa": 2,
           "pts": 0
         },
         "Maayan Golan": {
@@ -425,15 +425,15 @@
           "pa": 1,
           "pts": 3
         },
-        "Lorena Brofman": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 2,
           "pts": 2
+        },
+        "Lorena Brofman": {
+          "ph": 1,
+          "pa": 1,
+          "pts": 0
         },
         "Maayan Golan": {
           "ph": 0,
@@ -471,12 +471,12 @@
           "pa": 0,
           "pts": 0
         },
-        "Lorena Brofman": {
+        "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 2,
           "pts": 0
         },
-        "Gonzalo Aguiar": {
+        "Lorena Brofman": {
           "ph": 1,
           "pa": 2,
           "pts": 0
@@ -517,13 +517,13 @@
           "pa": 0,
           "pts": 2
         },
-        "Lorena Brofman": {
-          "ph": 2,
+        "Gonzalo Aguiar": {
+          "ph": 5,
           "pa": 0,
           "pts": 2
         },
-        "Gonzalo Aguiar": {
-          "ph": 5,
+        "Lorena Brofman": {
+          "ph": 2,
           "pa": 0,
           "pts": 2
         },
@@ -563,12 +563,12 @@
           "pa": 1,
           "pts": 2
         },
-        "Lorena Brofman": {
+        "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 1,
           "pts": 0
         },
-        "Gonzalo Aguiar": {
+        "Lorena Brofman": {
           "ph": 2,
           "pa": 1,
           "pts": 0
@@ -609,14 +609,14 @@
           "pa": 1,
           "pts": 0
         },
-        "Lorena Brofman": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 1,
+          "pts": 0
+        },
+        "Lorena Brofman": {
+          "ph": 0,
+          "pa": 2,
           "pts": 0
         },
         "Maayan Golan": {
@@ -655,12 +655,12 @@
           "pa": 1,
           "pts": 2
         },
-        "Lorena Brofman": {
+        "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 0,
           "pts": 2
         },
-        "Gonzalo Aguiar": {
+        "Lorena Brofman": {
           "ph": 2,
           "pa": 0,
           "pts": 2
@@ -701,12 +701,12 @@
           "pa": 0,
           "pts": 0
         },
-        "Lorena Brofman": {
+        "Gonzalo Aguiar": {
           "ph": 3,
           "pa": 0,
           "pts": 0
         },
-        "Gonzalo Aguiar": {
+        "Lorena Brofman": {
           "ph": 3,
           "pa": 0,
           "pts": 0
@@ -747,13 +747,13 @@
           "pa": 0,
           "pts": 0
         },
-        "Lorena Brofman": {
-          "ph": 3,
+        "Gonzalo Aguiar": {
+          "ph": 2,
           "pa": 1,
           "pts": 0
         },
-        "Gonzalo Aguiar": {
-          "ph": 2,
+        "Lorena Brofman": {
+          "ph": 3,
           "pa": 1,
           "pts": 0
         },
@@ -793,15 +793,15 @@
           "pa": 3,
           "pts": 0
         },
-        "Lorena Brofman": {
-          "ph": 1,
-          "pa": 2,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 1,
           "pts": 3
+        },
+        "Lorena Brofman": {
+          "ph": 1,
+          "pa": 2,
+          "pts": 0
         },
         "Maayan Golan": {
           "ph": 2,
@@ -839,14 +839,14 @@
           "pa": 0,
           "pts": 2
         },
-        "Lorena Brofman": {
-          "ph": 0,
-          "pa": 1,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 0,
+          "pts": 0
+        },
+        "Lorena Brofman": {
+          "ph": 0,
+          "pa": 1,
           "pts": 0
         },
         "Maayan Golan": {
@@ -885,14 +885,14 @@
           "pa": 1,
           "pts": 3
         },
-        "Lorena Brofman": {
-          "ph": 3,
-          "pa": 2,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 0,
+          "pts": 2
+        },
+        "Lorena Brofman": {
+          "ph": 3,
+          "pa": 2,
           "pts": 2
         },
         "Maayan Golan": {
@@ -931,14 +931,14 @@
           "pa": 3,
           "pts": 2
         },
-        "Lorena Brofman": {
-          "ph": 0,
-          "pa": 1,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 3,
+          "pts": 2
+        },
+        "Lorena Brofman": {
+          "ph": 0,
+          "pa": 1,
           "pts": 2
         },
         "Maayan Golan": {
@@ -977,15 +977,15 @@
           "pa": 1,
           "pts": 2
         },
-        "Lorena Brofman": {
-          "ph": 3,
-          "pa": 0,
-          "pts": 3
-        },
         "Gonzalo Aguiar": {
           "ph": 4,
           "pa": 1,
           "pts": 2
+        },
+        "Lorena Brofman": {
+          "ph": 3,
+          "pa": 0,
+          "pts": 3
         },
         "Maayan Golan": {
           "ph": 3,
@@ -1023,13 +1023,13 @@
           "pa": 0,
           "pts": 2
         },
-        "Lorena Brofman": {
-          "ph": 1,
+        "Gonzalo Aguiar": {
+          "ph": 2,
           "pa": 0,
           "pts": 2
         },
-        "Gonzalo Aguiar": {
-          "ph": 2,
+        "Lorena Brofman": {
+          "ph": 1,
           "pa": 0,
           "pts": 2
         },
@@ -1069,13 +1069,13 @@
           "pa": 1,
           "pts": 0
         },
-        "Lorena Brofman": {
-          "ph": 2,
+        "Gonzalo Aguiar": {
+          "ph": 4,
           "pa": 0,
           "pts": 0
         },
-        "Gonzalo Aguiar": {
-          "ph": 4,
+        "Lorena Brofman": {
+          "ph": 2,
           "pa": 0,
           "pts": 0
         },
@@ -1115,12 +1115,12 @@
           "pa": 1,
           "pts": 0
         },
-        "Lorena Brofman": {
+        "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 1,
           "pts": 2
         },
-        "Gonzalo Aguiar": {
+        "Lorena Brofman": {
           "ph": 2,
           "pa": 1,
           "pts": 2
@@ -1161,15 +1161,15 @@
           "pa": 1,
           "pts": 0
         },
-        "Lorena Brofman": {
-          "ph": 1,
-          "pa": 0,
-          "pts": 3
-        },
         "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 2,
           "pts": 0
+        },
+        "Lorena Brofman": {
+          "ph": 1,
+          "pa": 0,
+          "pts": 3
         },
         "Maayan Golan": {
           "ph": 1,
@@ -1207,12 +1207,12 @@
           "pa": 2,
           "pts": 2
         },
-        "Lorena Brofman": {
+        "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 2,
           "pts": 2
         },
-        "Gonzalo Aguiar": {
+        "Lorena Brofman": {
           "ph": 0,
           "pa": 2,
           "pts": 2
@@ -1253,14 +1253,14 @@
           "pa": 0,
           "pts": 2
         },
-        "Lorena Brofman": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 0,
+          "pts": 0
+        },
+        "Lorena Brofman": {
+          "ph": 2,
+          "pa": 1,
           "pts": 0
         },
         "Maayan Golan": {
@@ -1299,15 +1299,15 @@
           "pa": null,
           "pts": 0
         },
-        "Lorena Brofman": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 2,
           "pts": 0
+        },
+        "Lorena Brofman": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 2
         },
         "Maayan Golan": {
           "ph": 1,
@@ -1345,14 +1345,14 @@
           "pa": 1,
           "pts": 2
         },
-        "Lorena Brofman": {
-          "ph": 1,
-          "pa": 0,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 1,
+          "pts": 2
+        },
+        "Lorena Brofman": {
+          "ph": 1,
+          "pa": 0,
           "pts": 2
         },
         "Maayan Golan": {
@@ -1391,12 +1391,12 @@
           "pa": 0,
           "pts": 3
         },
-        "Lorena Brofman": {
+        "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 1,
           "pts": 2
         },
-        "Gonzalo Aguiar": {
+        "Lorena Brofman": {
           "ph": 2,
           "pa": 1,
           "pts": 2
@@ -1437,13 +1437,13 @@
           "pa": 1,
           "pts": 0
         },
-        "Lorena Brofman": {
-          "ph": 2,
+        "Gonzalo Aguiar": {
+          "ph": 3,
           "pa": 1,
           "pts": 2
         },
-        "Gonzalo Aguiar": {
-          "ph": 3,
+        "Lorena Brofman": {
+          "ph": 2,
           "pa": 1,
           "pts": 2
         },
@@ -1483,14 +1483,14 @@
           "pa": 1,
           "pts": 3
         },
-        "Lorena Brofman": {
-          "ph": 0,
-          "pa": 3,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 2,
+          "pts": 2
+        },
+        "Lorena Brofman": {
+          "ph": 0,
+          "pa": 3,
           "pts": 2
         },
         "Maayan Golan": {
@@ -1529,13 +1529,13 @@
           "pa": 1,
           "pts": 2
         },
-        "Lorena Brofman": {
-          "ph": 2,
+        "Gonzalo Aguiar": {
+          "ph": 4,
           "pa": 0,
           "pts": 2
         },
-        "Gonzalo Aguiar": {
-          "ph": 4,
+        "Lorena Brofman": {
+          "ph": 2,
           "pa": 0,
           "pts": 2
         },
@@ -1575,13 +1575,13 @@
           "pa": 0,
           "pts": 0
         },
-        "Lorena Brofman": {
-          "ph": 2,
+        "Gonzalo Aguiar": {
+          "ph": 1,
           "pa": 1,
           "pts": 0
         },
-        "Gonzalo Aguiar": {
-          "ph": 1,
+        "Lorena Brofman": {
+          "ph": 2,
           "pa": 1,
           "pts": 0
         },
@@ -1621,12 +1621,12 @@
           "pa": 0,
           "pts": 2
         },
-        "Lorena Brofman": {
+        "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 1,
           "pts": 2
         },
-        "Gonzalo Aguiar": {
+        "Lorena Brofman": {
           "ph": 2,
           "pa": 1,
           "pts": 2
@@ -1667,13 +1667,13 @@
           "pa": 0,
           "pts": 2
         },
-        "Lorena Brofman": {
-          "ph": 4,
+        "Gonzalo Aguiar": {
+          "ph": 3,
           "pa": 0,
           "pts": 2
         },
-        "Gonzalo Aguiar": {
-          "ph": 3,
+        "Lorena Brofman": {
+          "ph": 4,
           "pa": 0,
           "pts": 2
         },
@@ -1713,12 +1713,12 @@
           "pa": 0,
           "pts": 0
         },
-        "Lorena Brofman": {
+        "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 0,
           "pts": 0
         },
-        "Gonzalo Aguiar": {
+        "Lorena Brofman": {
           "ph": 2,
           "pa": 0,
           "pts": 0
@@ -1759,15 +1759,15 @@
           "pa": 1,
           "pts": 2
         },
-        "Lorena Brofman": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 2,
           "pts": 2
+        },
+        "Lorena Brofman": {
+          "ph": 1,
+          "pa": 1,
+          "pts": 0
         },
         "Maayan Golan": {
           "ph": 0,
@@ -1805,13 +1805,13 @@
           "pa": 0,
           "pts": 2
         },
-        "Lorena Brofman": {
-          "ph": 2,
+        "Gonzalo Aguiar": {
+          "ph": 3,
           "pa": 1,
           "pts": 2
         },
-        "Gonzalo Aguiar": {
-          "ph": 3,
+        "Lorena Brofman": {
+          "ph": 2,
           "pa": 1,
           "pts": 2
         },
@@ -1851,13 +1851,13 @@
           "pa": 1,
           "pts": 0
         },
-        "Lorena Brofman": {
-          "ph": 3,
+        "Gonzalo Aguiar": {
+          "ph": 2,
           "pa": 0,
           "pts": 0
         },
-        "Gonzalo Aguiar": {
-          "ph": 2,
+        "Lorena Brofman": {
+          "ph": 3,
           "pa": 0,
           "pts": 0
         },
@@ -1897,12 +1897,12 @@
           "pa": 1,
           "pts": 0
         },
-        "Lorena Brofman": {
+        "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 0,
           "pts": 0
         },
-        "Gonzalo Aguiar": {
+        "Lorena Brofman": {
           "ph": 2,
           "pa": 0,
           "pts": 0
@@ -1943,14 +1943,14 @@
           "pa": 1,
           "pts": 0
         },
-        "Lorena Brofman": {
-          "ph": 0,
-          "pa": 1,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 2,
+          "pts": 2
+        },
+        "Lorena Brofman": {
+          "ph": 0,
+          "pa": 1,
           "pts": 2
         },
         "Maayan Golan": {
@@ -1989,14 +1989,14 @@
           "pa": 1,
           "pts": 2
         },
-        "Lorena Brofman": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 4,
           "pa": 0,
+          "pts": 2
+        },
+        "Lorena Brofman": {
+          "ph": 2,
+          "pa": 1,
           "pts": 2
         },
         "Maayan Golan": {
@@ -2035,12 +2035,12 @@
           "pa": 0,
           "pts": 2
         },
-        "Lorena Brofman": {
+        "Gonzalo Aguiar": {
           "ph": 3,
           "pa": 0,
           "pts": 3
         },
-        "Gonzalo Aguiar": {
+        "Lorena Brofman": {
           "ph": 3,
           "pa": 0,
           "pts": 3
@@ -2081,15 +2081,15 @@
           "pa": 1,
           "pts": 0
         },
-        "Lorena Brofman": {
-          "ph": 0,
-          "pa": 1,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 1,
           "pts": 2
+        },
+        "Lorena Brofman": {
+          "ph": 0,
+          "pa": 1,
+          "pts": 0
         },
         "Maayan Golan": {
           "ph": 1,
@@ -2127,14 +2127,14 @@
           "pa": null,
           "pts": 0
         },
-        "Lorena Brofman": {
-          "ph": 0,
-          "pa": 1,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 2,
+          "pts": 2
+        },
+        "Lorena Brofman": {
+          "ph": 0,
+          "pa": 1,
           "pts": 2
         },
         "Maayan Golan": {
@@ -2173,14 +2173,14 @@
           "pa": 0,
           "pts": 2
         },
-        "Lorena Brofman": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 3,
           "pa": 0,
+          "pts": 2
+        },
+        "Lorena Brofman": {
+          "ph": 2,
+          "pa": 1,
           "pts": 2
         },
         "Maayan Golan": {
@@ -2219,14 +2219,14 @@
           "pa": 0,
           "pts": 0
         },
-        "Lorena Brofman": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 0,
+          "pts": 0
+        },
+        "Lorena Brofman": {
+          "ph": 2,
+          "pa": 1,
           "pts": 0
         },
         "Maayan Golan": {
@@ -2265,15 +2265,15 @@
           "pa": 1,
           "pts": 3
         },
-        "Lorena Brofman": {
-          "ph": 0,
-          "pa": 1,
-          "pts": 3
-        },
         "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 2,
           "pts": 2
+        },
+        "Lorena Brofman": {
+          "ph": 0,
+          "pa": 1,
+          "pts": 3
         },
         "Maayan Golan": {
           "ph": 1,
@@ -2311,15 +2311,15 @@
           "pa": 1,
           "pts": 2
         },
-        "Lorena Brofman": {
-          "ph": 3,
-          "pa": 0,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 0,
           "pts": 3
+        },
+        "Lorena Brofman": {
+          "ph": 3,
+          "pa": 0,
+          "pts": 2
         },
         "Maayan Golan": {
           "ph": 2,
@@ -2357,15 +2357,15 @@
           "pa": 0,
           "pts": 0
         },
-        "Lorena Brofman": {
-          "ph": 1,
-          "pa": 0,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 1,
           "pts": 0
+        },
+        "Lorena Brofman": {
+          "ph": 1,
+          "pa": 0,
+          "pts": 2
         },
         "Maayan Golan": {
           "ph": 0,
@@ -2403,15 +2403,15 @@
           "pa": 1,
           "pts": 2
         },
-        "Lorena Brofman": {
-          "ph": 0,
-          "pa": 1,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 0,
           "pts": 2
+        },
+        "Lorena Brofman": {
+          "ph": 0,
+          "pa": 1,
+          "pts": 0
         },
         "Maayan Golan": {
           "ph": 1,
@@ -2449,15 +2449,15 @@
           "pa": 3,
           "pts": 2
         },
-        "Lorena Brofman": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 3,
           "pts": 3
+        },
+        "Lorena Brofman": {
+          "ph": 0,
+          "pa": 2,
+          "pts": 2
         },
         "Maayan Golan": {
           "ph": 0,
@@ -2495,13 +2495,13 @@
           "pa": 0,
           "pts": 2
         },
-        "Lorena Brofman": {
-          "ph": 2,
+        "Gonzalo Aguiar": {
+          "ph": 3,
           "pa": 0,
           "pts": 2
         },
-        "Gonzalo Aguiar": {
-          "ph": 3,
+        "Lorena Brofman": {
+          "ph": 2,
           "pa": 0,
           "pts": 2
         },
@@ -2541,13 +2541,13 @@
           "pa": 1,
           "pts": 2
         },
-        "Lorena Brofman": {
-          "ph": 0,
+        "Gonzalo Aguiar": {
+          "ph": 1,
           "pa": 2,
           "pts": 2
         },
-        "Gonzalo Aguiar": {
-          "ph": 1,
+        "Lorena Brofman": {
+          "ph": 0,
           "pa": 2,
           "pts": 2
         },
@@ -2587,14 +2587,14 @@
           "pa": 1,
           "pts": 0
         },
-        "Lorena Brofman": {
-          "ph": 1,
-          "pa": 2,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 1,
+          "pts": 0
+        },
+        "Lorena Brofman": {
+          "ph": 1,
+          "pa": 2,
           "pts": 0
         },
         "Maayan Golan": {
@@ -2633,13 +2633,13 @@
           "pa": 2,
           "pts": 0
         },
-        "Lorena Brofman": {
-          "ph": 1,
+        "Gonzalo Aguiar": {
+          "ph": 0,
           "pa": 4,
           "pts": 0
         },
-        "Gonzalo Aguiar": {
-          "ph": 0,
+        "Lorena Brofman": {
+          "ph": 1,
           "pa": 4,
           "pts": 0
         },
@@ -2679,15 +2679,15 @@
           "pa": 3,
           "pts": 2
         },
-        "Lorena Brofman": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 1,
           "pts": 2
+        },
+        "Lorena Brofman": {
+          "ph": 1,
+          "pa": 1,
+          "pts": 0
         },
         "Maayan Golan": {
           "ph": 0,
@@ -2725,12 +2725,12 @@
           "pa": 3,
           "pts": 2
         },
-        "Lorena Brofman": {
+        "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 2,
           "pts": 2
         },
-        "Gonzalo Aguiar": {
+        "Lorena Brofman": {
           "ph": 0,
           "pa": 2,
           "pts": 2
@@ -2771,15 +2771,15 @@
           "pa": 1,
           "pts": 3
         },
-        "Lorena Brofman": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 3
-        },
         "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 1,
           "pts": 0
+        },
+        "Lorena Brofman": {
+          "ph": 1,
+          "pa": 1,
+          "pts": 3
         },
         "Maayan Golan": {
           "ph": 0,
@@ -2817,12 +2817,12 @@
           "pa": 1,
           "pts": 0
         },
-        "Lorena Brofman": {
+        "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 2,
           "pts": 0
         },
-        "Gonzalo Aguiar": {
+        "Lorena Brofman": {
           "ph": 1,
           "pa": 2,
           "pts": 0
@@ -2863,12 +2863,12 @@
           "pa": 1,
           "pts": 2
         },
-        "Lorena Brofman": {
+        "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 1,
           "pts": 2
         },
-        "Gonzalo Aguiar": {
+        "Lorena Brofman": {
           "ph": 1,
           "pa": 1,
           "pts": 2
@@ -2909,14 +2909,14 @@
           "pa": 3,
           "pts": 2
         },
-        "Lorena Brofman": {
-          "ph": 1,
-          "pa": 3,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 2,
+          "pts": 2
+        },
+        "Lorena Brofman": {
+          "ph": 1,
+          "pa": 3,
           "pts": 2
         },
         "Maayan Golan": {
@@ -2955,12 +2955,12 @@
           "pa": 0,
           "pts": 2
         },
-        "Lorena Brofman": {
+        "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 0,
           "pts": 2
         },
-        "Gonzalo Aguiar": {
+        "Lorena Brofman": {
           "ph": 2,
           "pa": 0,
           "pts": 2
@@ -3001,15 +3001,15 @@
           "pa": 2,
           "pts": 2
         },
-        "Lorena Brofman": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 2,
           "pts": 2
+        },
+        "Lorena Brofman": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 0
         },
         "Maayan Golan": {
           "ph": 2,
@@ -3047,13 +3047,13 @@
           "pa": 0,
           "pts": 0
         },
-        "Lorena Brofman": {
-          "ph": 0,
+        "Gonzalo Aguiar": {
+          "ph": 1,
           "pa": 2,
           "pts": 0
         },
-        "Gonzalo Aguiar": {
-          "ph": 1,
+        "Lorena Brofman": {
+          "ph": 0,
           "pa": 2,
           "pts": 0
         },
@@ -3093,14 +3093,14 @@
           "pa": 2,
           "pts": 2
         },
-        "Lorena Brofman": {
-          "ph": 1,
-          "pa": 2,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 1,
+          "pts": 2
+        },
+        "Lorena Brofman": {
+          "ph": 1,
+          "pa": 2,
           "pts": 2
         },
         "Maayan Golan": {
@@ -3139,14 +3139,14 @@
           "pa": 0,
           "pts": 0
         },
-        "Lorena Brofman": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 1,
+          "pts": 0
+        },
+        "Lorena Brofman": {
+          "ph": 0,
+          "pa": 2,
           "pts": 0
         },
         "Maayan Golan": {
@@ -3185,12 +3185,12 @@
           "pa": 2,
           "pts": 3
         },
-        "Lorena Brofman": {
+        "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 2,
           "pts": 3
         },
-        "Gonzalo Aguiar": {
+        "Lorena Brofman": {
           "ph": 0,
           "pa": 2,
           "pts": 3
@@ -3231,12 +3231,12 @@
           "pa": 0,
           "pts": 2
         },
-        "Lorena Brofman": {
+        "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 1,
           "pts": 3
         },
-        "Gonzalo Aguiar": {
+        "Lorena Brofman": {
           "ph": 2,
           "pa": 1,
           "pts": 3
@@ -3277,14 +3277,14 @@
           "pa": 2,
           "pts": 0
         },
-        "Lorena Brofman": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 2,
+          "pts": 0
+        },
+        "Lorena Brofman": {
+          "ph": 2,
+          "pa": 1,
           "pts": 0
         },
         "Maayan Golan": {
@@ -3323,12 +3323,12 @@
           "pa": 1,
           "pts": 2
         },
-        "Lorena Brofman": {
+        "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 1,
           "pts": 2
         },
-        "Gonzalo Aguiar": {
+        "Lorena Brofman": {
           "ph": 2,
           "pa": 1,
           "pts": 2
@@ -3369,14 +3369,14 @@
           "pa": 2,
           "pts": 2
         },
-        "Lorena Brofman": {
-          "ph": 0,
-          "pa": 4,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 3,
+          "pts": 2
+        },
+        "Lorena Brofman": {
+          "ph": 0,
+          "pa": 4,
           "pts": 2
         },
         "Maayan Golan": {
@@ -3415,15 +3415,15 @@
           "pa": 0,
           "pts": 2
         },
-        "Lorena Brofman": {
-          "ph": 1,
-          "pa": 2,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 1,
           "pts": 2
+        },
+        "Lorena Brofman": {
+          "ph": 1,
+          "pa": 2,
+          "pts": 0
         },
         "Maayan Golan": {
           "ph": 0,
@@ -3461,15 +3461,15 @@
           "pa": 2,
           "pts": 2
         },
-        "Lorena Brofman": {
-          "ph": 1,
-          "pa": 2,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 1,
           "pts": 0
+        },
+        "Lorena Brofman": {
+          "ph": 1,
+          "pa": 2,
+          "pts": 2
         },
         "Maayan Golan": {
           "ph": 0,
@@ -3507,15 +3507,15 @@
           "pa": 1,
           "pts": 3
         },
-        "Lorena Brofman": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 3
-        },
         "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 1,
           "pts": 0
+        },
+        "Lorena Brofman": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 3
         },
         "Maayan Golan": {
           "ph": 2,
@@ -3553,14 +3553,14 @@
           "pa": 0,
           "pts": 0
         },
-        "Lorena Brofman": {
-          "ph": 4,
-          "pa": 2,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 1,
+          "pts": 0
+        },
+        "Lorena Brofman": {
+          "ph": 4,
+          "pa": 2,
           "pts": 0
         },
         "Maayan Golan": {
@@ -3599,15 +3599,15 @@
           "pa": 1,
           "pts": 3
         },
-        "Lorena Brofman": {
-          "ph": 2,
-          "pa": 2,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 1,
           "pts": 3
+        },
+        "Lorena Brofman": {
+          "ph": 2,
+          "pa": 2,
+          "pts": 2
         },
         "Maayan Golan": {
           "ph": 2,
@@ -3645,15 +3645,15 @@
           "pa": 2,
           "pts": 3
         },
-        "Lorena Brofman": {
-          "ph": 0,
-          "pa": 1,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 2,
           "pts": 0
+        },
+        "Lorena Brofman": {
+          "ph": 0,
+          "pa": 1,
+          "pts": 2
         },
         "Maayan Golan": {
           "ph": 1,
@@ -3691,12 +3691,12 @@
           "pa": 0,
           "pts": 2
         },
-        "Lorena Brofman": {
+        "Gonzalo Aguiar": {
           "ph": 3,
           "pa": 1,
           "pts": 2
         },
-        "Gonzalo Aguiar": {
+        "Lorena Brofman": {
           "ph": 3,
           "pa": 1,
           "pts": 2
@@ -3737,15 +3737,15 @@
           "pa": 1,
           "pts": 2
         },
-        "Lorena Brofman": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 2,
           "pts": 0
+        },
+        "Lorena Brofman": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 2
         },
         "Maayan Golan": {
           "ph": 3,
@@ -3783,12 +3783,12 @@
           "pa": 1,
           "pts": 2
         },
-        "Lorena Brofman": {
+        "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 0,
           "pts": 2
         },
-        "Gonzalo Aguiar": {
+        "Lorena Brofman": {
           "ph": 2,
           "pa": 0,
           "pts": 2
@@ -3804,42 +3804,45 @@
       "id": 80,
       "matchId": "4653710",
       "date": "2026-07-01T20:00:00.000Z",
-      "status": "upcoming",
+      "status": "finished",
       "home": "Belgium",
       "away": "Senegal",
       "homeEs": "Bélgica",
       "awayEs": "Senegal",
-      "result": null,
+      "result": {
+        "h": 2,
+        "a": 2
+      },
       "predictions": {
         "kevin": {
           "ph": 1,
           "pa": 2,
-          "pts": null
+          "pts": 0
         },
         "thomas fridman": {
           "ph": 2,
           "pa": 1,
-          "pts": null
+          "pts": 0
         },
         "sapir vabshet": {
           "ph": 2,
           "pa": 1,
-          "pts": null
-        },
-        "Lorena Brofman": {
-          "ph": 1,
-          "pa": 2,
-          "pts": null
+          "pts": 0
         },
         "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 1,
-          "pts": null
+          "pts": 2
+        },
+        "Lorena Brofman": {
+          "ph": 1,
+          "pa": 2,
+          "pts": 0
         },
         "Maayan Golan": {
           "ph": 1,
           "pa": 1,
-          "pts": null
+          "pts": 2
         }
       }
     }
@@ -3859,12 +3862,12 @@
           "pos": 2
         },
         {
-          "name": "Lorena Brofman",
+          "name": "Gonzalo Aguiar",
           "cum": 2,
           "pos": 3
         },
         {
-          "name": "Gonzalo Aguiar",
+          "name": "Lorena Brofman",
           "cum": 2,
           "pos": 4
         },
@@ -3894,12 +3897,12 @@
           "pos": 2
         },
         {
-          "name": "Lorena Brofman",
+          "name": "Gonzalo Aguiar",
           "cum": 4,
           "pos": 3
         },
         {
-          "name": "Gonzalo Aguiar",
+          "name": "Lorena Brofman",
           "cum": 4,
           "pos": 4
         },
@@ -3929,12 +3932,12 @@
           "pos": 2
         },
         {
-          "name": "Lorena Brofman",
+          "name": "Gonzalo Aguiar",
           "cum": 4,
           "pos": 3
         },
         {
-          "name": "Gonzalo Aguiar",
+          "name": "Lorena Brofman",
           "cum": 4,
           "pos": 4
         },
@@ -4564,18 +4567,18 @@
           "pos": 3
         },
         {
-          "name": "Lorena Brofman",
-          "cum": 104,
+          "name": "Gonzalo Aguiar",
+          "cum": 105,
           "pos": 4
         },
         {
-          "name": "Gonzalo Aguiar",
-          "cum": 103,
+          "name": "Lorena Brofman",
+          "cum": 104,
           "pos": 5
         },
         {
           "name": "Maayan Golan",
-          "cum": 97,
+          "cum": 99,
           "pos": 6
         }
       ]
@@ -4584,9 +4587,9 @@
   "headToHead": [
     {
       "name": "kevin",
-      "targetPts": 103,
+      "targetPts": 105,
       "rivalPts": 114,
-      "diff": -11,
+      "diff": -9,
       "byMatch": [
         {
           "id": 0,
@@ -5147,14 +5150,21 @@
           "away": "DR Congo",
           "targetPts": 2,
           "rivalPts": 3
+        },
+        {
+          "id": 80,
+          "home": "Belgium",
+          "away": "Senegal",
+          "targetPts": 2,
+          "rivalPts": 0
         }
       ]
     },
     {
       "name": "thomas fridman",
-      "targetPts": 103,
+      "targetPts": 105,
       "rivalPts": 109,
-      "diff": -6,
+      "diff": -4,
       "byMatch": [
         {
           "id": 0,
@@ -5715,14 +5725,21 @@
           "away": "DR Congo",
           "targetPts": 2,
           "rivalPts": 3
+        },
+        {
+          "id": 80,
+          "home": "Belgium",
+          "away": "Senegal",
+          "targetPts": 2,
+          "rivalPts": 0
         }
       ]
     },
     {
       "name": "sapir vabshet",
-      "targetPts": 103,
+      "targetPts": 105,
       "rivalPts": 108,
-      "diff": -5,
+      "diff": -3,
       "byMatch": [
         {
           "id": 0,
@@ -6283,14 +6300,21 @@
           "away": "DR Congo",
           "targetPts": 2,
           "rivalPts": 2
+        },
+        {
+          "id": 80,
+          "home": "Belgium",
+          "away": "Senegal",
+          "targetPts": 2,
+          "rivalPts": 0
         }
       ]
     },
     {
       "name": "Lorena Brofman",
-      "targetPts": 103,
+      "targetPts": 105,
       "rivalPts": 104,
-      "diff": -1,
+      "diff": 1,
       "byMatch": [
         {
           "id": 0,
@@ -6851,13 +6875,20 @@
           "away": "DR Congo",
           "targetPts": 2,
           "rivalPts": 2
+        },
+        {
+          "id": 80,
+          "home": "Belgium",
+          "away": "Senegal",
+          "targetPts": 2,
+          "rivalPts": 0
         }
       ]
     },
     {
       "name": "Maayan Golan",
-      "targetPts": 103,
-      "rivalPts": 97,
+      "targetPts": 105,
+      "rivalPts": 99,
       "diff": 6,
       "byMatch": [
         {
@@ -7419,6 +7450,13 @@
           "away": "DR Congo",
           "targetPts": 2,
           "rivalPts": 2
+        },
+        {
+          "id": 80,
+          "home": "Belgium",
+          "away": "Senegal",
+          "targetPts": 2,
+          "rivalPts": 2
         }
       ]
     }
@@ -7449,6 +7487,14 @@
       "ok": true
     },
     {
+      "name": "Gonzalo Aguiar",
+      "calcPts": 105,
+      "apiPts": 105,
+      "calcExacts": 7,
+      "apiExacts": 7,
+      "ok": true
+    },
+    {
       "name": "Lorena Brofman",
       "calcPts": 104,
       "apiPts": 104,
@@ -7457,17 +7503,9 @@
       "ok": true
     },
     {
-      "name": "Gonzalo Aguiar",
-      "calcPts": 103,
-      "apiPts": 103,
-      "calcExacts": 7,
-      "apiExacts": 7,
-      "ok": true
-    },
-    {
       "name": "Maayan Golan",
-      "calcPts": 97,
-      "apiPts": 97,
+      "calcPts": 99,
+      "apiPts": 99,
       "calcExacts": 7,
       "apiExacts": 7,
       "ok": true
