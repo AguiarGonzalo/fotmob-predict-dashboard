@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T19:22:58.454Z",
+  "updatedAt": "2026-07-01T21:04:40.662Z",
   "league": {
     "id": 196754,
     "game": 772026,
@@ -3797,6 +3797,49 @@
           "ph": 3,
           "pa": 0,
           "pts": 2
+        }
+      }
+    },
+    {
+      "id": 80,
+      "matchId": "4653710",
+      "date": "2026-07-01T20:00:00.000Z",
+      "status": "upcoming",
+      "home": "Belgium",
+      "away": "Senegal",
+      "homeEs": "Bélgica",
+      "awayEs": "Senegal",
+      "result": null,
+      "predictions": {
+        "kevin": {
+          "ph": 1,
+          "pa": 2,
+          "pts": null
+        },
+        "thomas fridman": {
+          "ph": 2,
+          "pa": 1,
+          "pts": null
+        },
+        "sapir vabshet": {
+          "ph": 2,
+          "pa": 1,
+          "pts": null
+        },
+        "Lorena Brofman": {
+          "ph": 1,
+          "pa": 2,
+          "pts": null
+        },
+        "Gonzalo Aguiar": {
+          "ph": 1,
+          "pa": 1,
+          "pts": null
+        },
+        "Maayan Golan": {
+          "ph": 1,
+          "pa": 1,
+          "pts": null
         }
       }
     }
