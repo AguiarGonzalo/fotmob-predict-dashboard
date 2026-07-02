@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T18:03:40.748Z",
+  "updatedAt": "2026-07-02T19:47:01.961Z",
   "league": {
     "id": 196754,
     "game": 772026,
@@ -3889,6 +3889,49 @@
           "ph": 3,
           "pa": 0,
           "pts": 2
+        }
+      }
+    },
+    {
+      "id": 82,
+      "matchId": "4653708",
+      "date": "2026-07-02T19:00:00.000Z",
+      "status": "upcoming",
+      "home": "Spain",
+      "away": "Austria",
+      "homeEs": "España",
+      "awayEs": "Austria",
+      "result": null,
+      "predictions": {
+        "kevin": {
+          "ph": 1,
+          "pa": 0,
+          "pts": null
+        },
+        "thomas fridman": {
+          "ph": 2,
+          "pa": 0,
+          "pts": null
+        },
+        "sapir vabshet": {
+          "ph": 2,
+          "pa": 0,
+          "pts": null
+        },
+        "Gonzalo Aguiar": {
+          "ph": 3,
+          "pa": 0,
+          "pts": null
+        },
+        "Lorena Brofman": {
+          "ph": 1,
+          "pa": 1,
+          "pts": null
+        },
+        "Maayan Golan": {
+          "ph": 1,
+          "pa": 1,
+          "pts": null
         }
       }
     }
