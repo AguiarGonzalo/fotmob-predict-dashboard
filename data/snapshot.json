@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T21:53:28.405Z",
+  "updatedAt": "2026-07-02T23:00:48.905Z",
   "league": {
     "id": 196754,
     "game": 772026,
@@ -3935,6 +3935,49 @@
           "ph": 1,
           "pa": 1,
           "pts": 0
+        }
+      }
+    },
+    {
+      "id": 83,
+      "matchId": "4653707",
+      "date": "2026-07-02T23:00:00.000Z",
+      "status": "upcoming",
+      "home": "Portugal",
+      "away": "Croatia",
+      "homeEs": "Portugal",
+      "awayEs": "Croacia",
+      "result": null,
+      "predictions": {
+        "kevin": {
+          "ph": 2,
+          "pa": 3,
+          "pts": null
+        },
+        "thomas fridman": {
+          "ph": 1,
+          "pa": 1,
+          "pts": null
+        },
+        "sapir vabshet": {
+          "ph": 2,
+          "pa": 1,
+          "pts": null
+        },
+        "Gonzalo Aguiar": {
+          "ph": 2,
+          "pa": 1,
+          "pts": null
+        },
+        "Lorena Brofman": {
+          "ph": 1,
+          "pa": 2,
+          "pts": null
+        },
+        "Maayan Golan": {
+          "ph": 2,
+          "pa": 1,
+          "pts": null
         }
       }
     }
