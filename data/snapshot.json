@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T00:17:10.873Z",
+  "updatedAt": "2026-07-03T04:13:14.312Z",
   "league": {
     "id": 196754,
     "game": 772026,
@@ -12,7 +12,7 @@
     "miss": 0
   },
   "target": "Gonzalo Aguiar",
-  "finishedCount": 83,
+  "finishedCount": 84,
   "teamsEs": {
     "USA": "EE. UU.",
     "Australia": "Australia",
@@ -70,35 +70,35 @@
       "rank": 1,
       "points": 118,
       "exacts": 14,
-      "avg": 1.42,
-      "isTarget": false
-    },
-    {
-      "id": "2_108825978723927201255",
-      "name": "thomas fridman",
-      "rank": 2,
-      "points": 113,
-      "exacts": 11,
-      "avg": 1.36,
+      "avg": 1.4,
       "isTarget": false
     },
     {
       "id": "2_110807909424767304523",
       "name": "sapir vabshet",
       "rank": 2,
-      "points": 113,
-      "exacts": 11,
-      "avg": 1.36,
+      "points": 116,
+      "exacts": 12,
+      "avg": 1.38,
       "isTarget": false
     },
     {
       "id": "2_112563509372036390748",
       "name": "Gonzalo Aguiar",
-      "rank": 4,
-      "points": 111,
-      "exacts": 9,
-      "avg": 1.34,
+      "rank": 3,
+      "points": 114,
+      "exacts": 10,
+      "avg": 1.36,
       "isTarget": true
+    },
+    {
+      "id": "2_108825978723927201255",
+      "name": "thomas fridman",
+      "rank": 4,
+      "points": 113,
+      "exacts": 11,
+      "avg": 1.35,
+      "isTarget": false
     },
     {
       "id": "2_109384509403978234765",
@@ -106,16 +106,16 @@
       "rank": 5,
       "points": 106,
       "exacts": 8,
-      "avg": 1.28,
+      "avg": 1.26,
       "isTarget": false
     },
     {
       "id": "2_114073492760604569894",
       "name": "Maayan Golan",
       "rank": 6,
-      "points": 101,
-      "exacts": 7,
-      "avg": 1.22,
+      "points": 104,
+      "exacts": 8,
+      "avg": 1.24,
       "isTarget": false
     }
   ],
@@ -139,11 +139,6 @@
           "pa": 0,
           "pts": 2
         },
-        "thomas fridman": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 3
-        },
         "sapir vabshet": {
           "ph": null,
           "pa": null,
@@ -153,6 +148,11 @@
           "ph": 1,
           "pa": 0,
           "pts": 2
+        },
+        "thomas fridman": {
+          "ph": 2,
+          "pa": 0,
+          "pts": 3
         },
         "Lorena Brofman": {
           "ph": 2,
@@ -185,11 +185,6 @@
           "pa": 0,
           "pts": 2
         },
-        "thomas fridman": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 3
-        },
         "sapir vabshet": {
           "ph": 0,
           "pa": 0,
@@ -199,6 +194,11 @@
           "ph": 2,
           "pa": 0,
           "pts": 2
+        },
+        "thomas fridman": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 3
         },
         "Lorena Brofman": {
           "ph": 2,
@@ -231,11 +231,6 @@
           "pa": 1,
           "pts": 3
         },
-        "thomas fridman": {
-          "ph": 0,
-          "pa": 1,
-          "pts": 0
-        },
         "sapir vabshet": {
           "ph": 1,
           "pa": 0,
@@ -243,6 +238,11 @@
         },
         "Gonzalo Aguiar": {
           "ph": 3,
+          "pa": 1,
+          "pts": 0
+        },
+        "thomas fridman": {
+          "ph": 0,
           "pa": 1,
           "pts": 0
         },
@@ -277,11 +277,6 @@
           "pa": 0,
           "pts": 2
         },
-        "thomas fridman": {
-          "ph": 1,
-          "pa": 2,
-          "pts": 0
-        },
         "sapir vabshet": {
           "ph": 2,
           "pa": 0,
@@ -290,6 +285,11 @@
         "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 1,
+          "pts": 0
+        },
+        "thomas fridman": {
+          "ph": 1,
+          "pa": 2,
           "pts": 0
         },
         "Lorena Brofman": {
@@ -323,11 +323,6 @@
           "pa": 3,
           "pts": 0
         },
-        "thomas fridman": {
-          "ph": 0,
-          "pa": 3,
-          "pts": 0
-        },
         "sapir vabshet": {
           "ph": 0,
           "pa": 2,
@@ -336,6 +331,11 @@
         "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 2,
+          "pts": 0
+        },
+        "thomas fridman": {
+          "ph": 0,
+          "pa": 3,
           "pts": 0
         },
         "Lorena Brofman": {
@@ -369,11 +369,6 @@
           "pa": 1,
           "pts": 3
         },
-        "thomas fridman": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 3
-        },
         "sapir vabshet": {
           "ph": 2,
           "pa": 0,
@@ -383,6 +378,11 @@
           "ph": 3,
           "pa": 0,
           "pts": 0
+        },
+        "thomas fridman": {
+          "ph": 1,
+          "pa": 1,
+          "pts": 3
         },
         "Lorena Brofman": {
           "ph": 3,
@@ -415,17 +415,17 @@
           "pa": 2,
           "pts": 2
         },
-        "thomas fridman": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 2
-        },
         "sapir vabshet": {
           "ph": 0,
           "pa": 1,
           "pts": 3
         },
         "Gonzalo Aguiar": {
+          "ph": 0,
+          "pa": 2,
+          "pts": 2
+        },
+        "thomas fridman": {
           "ph": 0,
           "pa": 2,
           "pts": 2
@@ -461,17 +461,17 @@
           "pa": 1,
           "pts": 0
         },
-        "thomas fridman": {
-          "ph": 1,
-          "pa": 2,
-          "pts": 0
-        },
         "sapir vabshet": {
           "ph": 0,
           "pa": 0,
           "pts": 0
         },
         "Gonzalo Aguiar": {
+          "ph": 1,
+          "pa": 2,
+          "pts": 0
+        },
+        "thomas fridman": {
           "ph": 1,
           "pa": 2,
           "pts": 0
@@ -507,17 +507,17 @@
           "pa": 0,
           "pts": 2
         },
-        "thomas fridman": {
-          "ph": 5,
-          "pa": 0,
-          "pts": 2
-        },
         "sapir vabshet": {
           "ph": 3,
           "pa": 0,
           "pts": 2
         },
         "Gonzalo Aguiar": {
+          "ph": 5,
+          "pa": 0,
+          "pts": 2
+        },
+        "thomas fridman": {
           "ph": 5,
           "pa": 0,
           "pts": 2
@@ -553,17 +553,17 @@
           "pa": 1,
           "pts": 0
         },
-        "thomas fridman": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 0
-        },
         "sapir vabshet": {
           "ph": 1,
           "pa": 1,
           "pts": 2
         },
         "Gonzalo Aguiar": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 0
+        },
+        "thomas fridman": {
           "ph": 2,
           "pa": 1,
           "pts": 0
@@ -599,17 +599,17 @@
           "pa": 0,
           "pts": 3
         },
-        "thomas fridman": {
-          "ph": 0,
-          "pa": 1,
-          "pts": 0
-        },
         "sapir vabshet": {
           "ph": 0,
           "pa": 1,
           "pts": 0
         },
         "Gonzalo Aguiar": {
+          "ph": 0,
+          "pa": 1,
+          "pts": 0
+        },
+        "thomas fridman": {
           "ph": 0,
           "pa": 1,
           "pts": 0
@@ -645,11 +645,6 @@
           "pa": 1,
           "pts": 2
         },
-        "thomas fridman": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
-        },
         "sapir vabshet": {
           "ph": 2,
           "pa": 1,
@@ -658,6 +653,11 @@
         "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 0,
+          "pts": 2
+        },
+        "thomas fridman": {
+          "ph": 2,
+          "pa": 1,
           "pts": 2
         },
         "Lorena Brofman": {
@@ -691,11 +691,6 @@
           "pa": 0,
           "pts": 0
         },
-        "thomas fridman": {
-          "ph": 5,
-          "pa": 0,
-          "pts": 0
-        },
         "sapir vabshet": {
           "ph": 2,
           "pa": 0,
@@ -703,6 +698,11 @@
         },
         "Gonzalo Aguiar": {
           "ph": 3,
+          "pa": 0,
+          "pts": 0
+        },
+        "thomas fridman": {
+          "ph": 5,
           "pa": 0,
           "pts": 0
         },
@@ -737,11 +737,6 @@
           "pa": 1,
           "pts": 0
         },
-        "thomas fridman": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 3
-        },
         "sapir vabshet": {
           "ph": 1,
           "pa": 0,
@@ -751,6 +746,11 @@
           "ph": 2,
           "pa": 1,
           "pts": 0
+        },
+        "thomas fridman": {
+          "ph": 1,
+          "pa": 1,
+          "pts": 3
         },
         "Lorena Brofman": {
           "ph": 3,
@@ -783,11 +783,6 @@
           "pa": 1,
           "pts": 0
         },
-        "thomas fridman": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 0
-        },
         "sapir vabshet": {
           "ph": 1,
           "pa": 3,
@@ -797,6 +792,11 @@
           "ph": 1,
           "pa": 1,
           "pts": 3
+        },
+        "thomas fridman": {
+          "ph": 0,
+          "pa": 2,
+          "pts": 0
         },
         "Lorena Brofman": {
           "ph": 1,
@@ -829,11 +829,6 @@
           "pa": 1,
           "pts": 0
         },
-        "thomas fridman": {
-          "ph": 1,
-          "pa": 0,
-          "pts": 0
-        },
         "sapir vabshet": {
           "ph": 0,
           "pa": 0,
@@ -841,6 +836,11 @@
         },
         "Gonzalo Aguiar": {
           "ph": 2,
+          "pa": 0,
+          "pts": 0
+        },
+        "thomas fridman": {
+          "ph": 1,
           "pa": 0,
           "pts": 0
         },
@@ -875,11 +875,6 @@
           "pa": 0,
           "pts": 2
         },
-        "thomas fridman": {
-          "ph": 3,
-          "pa": 1,
-          "pts": 3
-        },
         "sapir vabshet": {
           "ph": 3,
           "pa": 1,
@@ -889,6 +884,11 @@
           "ph": 2,
           "pa": 0,
           "pts": 2
+        },
+        "thomas fridman": {
+          "ph": 3,
+          "pa": 1,
+          "pts": 3
         },
         "Lorena Brofman": {
           "ph": 3,
@@ -921,17 +921,17 @@
           "pa": 2,
           "pts": 2
         },
-        "thomas fridman": {
-          "ph": 0,
-          "pa": 3,
-          "pts": 2
-        },
         "sapir vabshet": {
           "ph": 0,
           "pa": 3,
           "pts": 2
         },
         "Gonzalo Aguiar": {
+          "ph": 0,
+          "pa": 3,
+          "pts": 2
+        },
+        "thomas fridman": {
           "ph": 0,
           "pa": 3,
           "pts": 2
@@ -967,11 +967,6 @@
           "pa": 1,
           "pts": 2
         },
-        "thomas fridman": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
-        },
         "sapir vabshet": {
           "ph": 2,
           "pa": 1,
@@ -980,6 +975,11 @@
         "Gonzalo Aguiar": {
           "ph": 4,
           "pa": 1,
+          "pts": 2
+        },
+        "thomas fridman": {
+          "ph": 2,
+          "pa": 0,
           "pts": 2
         },
         "Lorena Brofman": {
@@ -1013,17 +1013,17 @@
           "pa": 0,
           "pts": 2
         },
-        "thomas fridman": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
-        },
         "sapir vabshet": {
           "ph": 2,
           "pa": 0,
           "pts": 2
         },
         "Gonzalo Aguiar": {
+          "ph": 2,
+          "pa": 0,
+          "pts": 2
+        },
+        "thomas fridman": {
           "ph": 2,
           "pa": 0,
           "pts": 2
@@ -1059,11 +1059,6 @@
           "pa": 0,
           "pts": 0
         },
-        "thomas fridman": {
-          "ph": 3,
-          "pa": 1,
-          "pts": 0
-        },
         "sapir vabshet": {
           "ph": 2,
           "pa": 1,
@@ -1072,6 +1067,11 @@
         "Gonzalo Aguiar": {
           "ph": 4,
           "pa": 0,
+          "pts": 0
+        },
+        "thomas fridman": {
+          "ph": 3,
+          "pa": 1,
           "pts": 0
         },
         "Lorena Brofman": {
@@ -1105,11 +1105,6 @@
           "pa": 1,
           "pts": 0
         },
-        "thomas fridman": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 0
-        },
         "sapir vabshet": {
           "ph": 0,
           "pa": 1,
@@ -1119,6 +1114,11 @@
           "ph": 2,
           "pa": 1,
           "pts": 2
+        },
+        "thomas fridman": {
+          "ph": 1,
+          "pa": 1,
+          "pts": 0
         },
         "Lorena Brofman": {
           "ph": 2,
@@ -1151,11 +1151,6 @@
           "pa": 1,
           "pts": 0
         },
-        "thomas fridman": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
-        },
         "sapir vabshet": {
           "ph": 1,
           "pa": 1,
@@ -1165,6 +1160,11 @@
           "ph": 0,
           "pa": 2,
           "pts": 0
+        },
+        "thomas fridman": {
+          "ph": 2,
+          "pa": 0,
+          "pts": 2
         },
         "Lorena Brofman": {
           "ph": 1,
@@ -1197,11 +1197,6 @@
           "pa": 2,
           "pts": 2
         },
-        "thomas fridman": {
-          "ph": 1,
-          "pa": 3,
-          "pts": 3
-        },
         "sapir vabshet": {
           "ph": 0,
           "pa": 2,
@@ -1211,6 +1206,11 @@
           "ph": 0,
           "pa": 2,
           "pts": 2
+        },
+        "thomas fridman": {
+          "ph": 1,
+          "pa": 3,
+          "pts": 3
         },
         "Lorena Brofman": {
           "ph": 0,
@@ -1243,17 +1243,17 @@
           "pa": 1,
           "pts": 3
         },
-        "thomas fridman": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 0
-        },
         "sapir vabshet": {
           "ph": 0,
           "pa": 0,
           "pts": 2
         },
         "Gonzalo Aguiar": {
+          "ph": 2,
+          "pa": 0,
+          "pts": 0
+        },
+        "thomas fridman": {
           "ph": 2,
           "pa": 0,
           "pts": 0
@@ -1289,11 +1289,6 @@
           "pa": 1,
           "pts": 0
         },
-        "thomas fridman": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 0
-        },
         "sapir vabshet": {
           "ph": null,
           "pa": null,
@@ -1302,6 +1297,11 @@
         "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 2,
+          "pts": 0
+        },
+        "thomas fridman": {
+          "ph": 1,
+          "pa": 1,
           "pts": 0
         },
         "Lorena Brofman": {
@@ -1335,11 +1335,6 @@
           "pa": 1,
           "pts": 2
         },
-        "thomas fridman": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
-        },
         "sapir vabshet": {
           "ph": 2,
           "pa": 1,
@@ -1348,6 +1343,11 @@
         "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 1,
+          "pts": 2
+        },
+        "thomas fridman": {
+          "ph": 2,
+          "pa": 0,
           "pts": 2
         },
         "Lorena Brofman": {
@@ -1381,11 +1381,6 @@
           "pa": 0,
           "pts": 2
         },
-        "thomas fridman": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 0
-        },
         "sapir vabshet": {
           "ph": 1,
           "pa": 0,
@@ -1395,6 +1390,11 @@
           "ph": 2,
           "pa": 1,
           "pts": 2
+        },
+        "thomas fridman": {
+          "ph": 1,
+          "pa": 1,
+          "pts": 0
         },
         "Lorena Brofman": {
           "ph": 2,
@@ -1427,11 +1427,6 @@
           "pa": 0,
           "pts": 3
         },
-        "thomas fridman": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
-        },
         "sapir vabshet": {
           "ph": 1,
           "pa": 1,
@@ -1439,6 +1434,11 @@
         },
         "Gonzalo Aguiar": {
           "ph": 3,
+          "pa": 1,
+          "pts": 2
+        },
+        "thomas fridman": {
+          "ph": 2,
           "pa": 1,
           "pts": 2
         },
@@ -1473,11 +1473,6 @@
           "pa": 1,
           "pts": 3
         },
-        "thomas fridman": {
-          "ph": 1,
-          "pa": 2,
-          "pts": 2
-        },
         "sapir vabshet": {
           "ph": 0,
           "pa": 1,
@@ -1485,6 +1480,11 @@
         },
         "Gonzalo Aguiar": {
           "ph": 0,
+          "pa": 2,
+          "pts": 2
+        },
+        "thomas fridman": {
+          "ph": 1,
           "pa": 2,
           "pts": 2
         },
@@ -1519,11 +1519,6 @@
           "pa": 0,
           "pts": 2
         },
-        "thomas fridman": {
-          "ph": 3,
-          "pa": 0,
-          "pts": 3
-        },
         "sapir vabshet": {
           "ph": 3,
           "pa": 1,
@@ -1533,6 +1528,11 @@
           "ph": 4,
           "pa": 0,
           "pts": 2
+        },
+        "thomas fridman": {
+          "ph": 3,
+          "pa": 0,
+          "pts": 3
         },
         "Lorena Brofman": {
           "ph": 2,
@@ -1565,11 +1565,6 @@
           "pa": 1,
           "pts": 0
         },
-        "thomas fridman": {
-          "ph": 1,
-          "pa": 2,
-          "pts": 2
-        },
         "sapir vabshet": {
           "ph": 1,
           "pa": 0,
@@ -1579,6 +1574,11 @@
           "ph": 1,
           "pa": 1,
           "pts": 0
+        },
+        "thomas fridman": {
+          "ph": 1,
+          "pa": 2,
+          "pts": 2
         },
         "Lorena Brofman": {
           "ph": 2,
@@ -1611,17 +1611,17 @@
           "pa": 0,
           "pts": 2
         },
-        "thomas fridman": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
-        },
         "sapir vabshet": {
           "ph": 1,
           "pa": 0,
           "pts": 2
         },
         "Gonzalo Aguiar": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 2
+        },
+        "thomas fridman": {
           "ph": 2,
           "pa": 1,
           "pts": 2
@@ -1657,17 +1657,17 @@
           "pa": 1,
           "pts": 2
         },
-        "thomas fridman": {
-          "ph": 3,
-          "pa": 0,
-          "pts": 2
-        },
         "sapir vabshet": {
           "ph": 2,
           "pa": 0,
           "pts": 2
         },
         "Gonzalo Aguiar": {
+          "ph": 3,
+          "pa": 0,
+          "pts": 2
+        },
+        "thomas fridman": {
           "ph": 3,
           "pa": 0,
           "pts": 2
@@ -1703,11 +1703,6 @@
           "pa": 0,
           "pts": 0
         },
-        "thomas fridman": {
-          "ph": 3,
-          "pa": 0,
-          "pts": 0
-        },
         "sapir vabshet": {
           "ph": 2,
           "pa": 0,
@@ -1715,6 +1710,11 @@
         },
         "Gonzalo Aguiar": {
           "ph": 2,
+          "pa": 0,
+          "pts": 0
+        },
+        "thomas fridman": {
+          "ph": 3,
           "pa": 0,
           "pts": 0
         },
@@ -1749,11 +1749,6 @@
           "pa": 2,
           "pts": 2
         },
-        "thomas fridman": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 2
-        },
         "sapir vabshet": {
           "ph": 0,
           "pa": 1,
@@ -1761,6 +1756,11 @@
         },
         "Gonzalo Aguiar": {
           "ph": 1,
+          "pa": 2,
+          "pts": 2
+        },
+        "thomas fridman": {
+          "ph": 0,
           "pa": 2,
           "pts": 2
         },
@@ -1795,11 +1795,6 @@
           "pa": 0,
           "pts": 2
         },
-        "thomas fridman": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 0
-        },
         "sapir vabshet": {
           "ph": 3,
           "pa": 0,
@@ -1809,6 +1804,11 @@
           "ph": 3,
           "pa": 1,
           "pts": 2
+        },
+        "thomas fridman": {
+          "ph": 1,
+          "pa": 1,
+          "pts": 0
         },
         "Lorena Brofman": {
           "ph": 2,
@@ -1841,17 +1841,17 @@
           "pa": 0,
           "pts": 0
         },
-        "thomas fridman": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 0
-        },
         "sapir vabshet": {
           "ph": 2,
           "pa": 1,
           "pts": 0
         },
         "Gonzalo Aguiar": {
+          "ph": 2,
+          "pa": 0,
+          "pts": 0
+        },
+        "thomas fridman": {
           "ph": 2,
           "pa": 0,
           "pts": 0
@@ -1887,11 +1887,6 @@
           "pa": 0,
           "pts": 0
         },
-        "thomas fridman": {
-          "ph": 3,
-          "pa": 0,
-          "pts": 0
-        },
         "sapir vabshet": {
           "ph": 2,
           "pa": 1,
@@ -1899,6 +1894,11 @@
         },
         "Gonzalo Aguiar": {
           "ph": 2,
+          "pa": 0,
+          "pts": 0
+        },
+        "thomas fridman": {
+          "ph": 3,
           "pa": 0,
           "pts": 0
         },
@@ -1933,11 +1933,6 @@
           "pa": 1,
           "pts": 0
         },
-        "thomas fridman": {
-          "ph": 1,
-          "pa": 2,
-          "pts": 2
-        },
         "sapir vabshet": {
           "ph": 1,
           "pa": 1,
@@ -1945,6 +1940,11 @@
         },
         "Gonzalo Aguiar": {
           "ph": 0,
+          "pa": 2,
+          "pts": 2
+        },
+        "thomas fridman": {
+          "ph": 1,
           "pa": 2,
           "pts": 2
         },
@@ -1979,11 +1979,6 @@
           "pa": 0,
           "pts": 3
         },
-        "thomas fridman": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 3
-        },
         "sapir vabshet": {
           "ph": 2,
           "pa": 1,
@@ -1993,6 +1988,11 @@
           "ph": 4,
           "pa": 0,
           "pts": 2
+        },
+        "thomas fridman": {
+          "ph": 2,
+          "pa": 0,
+          "pts": 3
         },
         "Lorena Brofman": {
           "ph": 2,
@@ -2025,11 +2025,6 @@
           "pa": 0,
           "pts": 2
         },
-        "thomas fridman": {
-          "ph": 5,
-          "pa": 0,
-          "pts": 2
-        },
         "sapir vabshet": {
           "ph": 4,
           "pa": 0,
@@ -2039,6 +2034,11 @@
           "ph": 3,
           "pa": 0,
           "pts": 3
+        },
+        "thomas fridman": {
+          "ph": 5,
+          "pa": 0,
+          "pts": 2
         },
         "Lorena Brofman": {
           "ph": 3,
@@ -2071,11 +2071,6 @@
           "pa": 1,
           "pts": 2
         },
-        "thomas fridman": {
-          "ph": 3,
-          "pa": 1,
-          "pts": 2
-        },
         "sapir vabshet": {
           "ph": 1,
           "pa": 1,
@@ -2083,6 +2078,11 @@
         },
         "Gonzalo Aguiar": {
           "ph": 2,
+          "pa": 1,
+          "pts": 2
+        },
+        "thomas fridman": {
+          "ph": 3,
           "pa": 1,
           "pts": 2
         },
@@ -2117,17 +2117,17 @@
           "pa": 2,
           "pts": 3
         },
-        "thomas fridman": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 2
-        },
         "sapir vabshet": {
           "ph": null,
           "pa": null,
           "pts": 0
         },
         "Gonzalo Aguiar": {
+          "ph": 0,
+          "pa": 2,
+          "pts": 2
+        },
+        "thomas fridman": {
           "ph": 0,
           "pa": 2,
           "pts": 2
@@ -2163,11 +2163,6 @@
           "pa": 0,
           "pts": 2
         },
-        "thomas fridman": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
-        },
         "sapir vabshet": {
           "ph": 2,
           "pa": 0,
@@ -2175,6 +2170,11 @@
         },
         "Gonzalo Aguiar": {
           "ph": 3,
+          "pa": 0,
+          "pts": 2
+        },
+        "thomas fridman": {
+          "ph": 2,
           "pa": 0,
           "pts": 2
         },
@@ -2209,11 +2209,6 @@
           "pa": 0,
           "pts": 0
         },
-        "thomas fridman": {
-          "ph": 3,
-          "pa": 1,
-          "pts": 0
-        },
         "sapir vabshet": {
           "ph": 1,
           "pa": 0,
@@ -2222,6 +2217,11 @@
         "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 0,
+          "pts": 0
+        },
+        "thomas fridman": {
+          "ph": 3,
+          "pa": 1,
           "pts": 0
         },
         "Lorena Brofman": {
@@ -2255,11 +2255,6 @@
           "pa": 2,
           "pts": 2
         },
-        "thomas fridman": {
-          "ph": 1,
-          "pa": 2,
-          "pts": 2
-        },
         "sapir vabshet": {
           "ph": 0,
           "pa": 1,
@@ -2267,6 +2262,11 @@
         },
         "Gonzalo Aguiar": {
           "ph": 0,
+          "pa": 2,
+          "pts": 2
+        },
+        "thomas fridman": {
+          "ph": 1,
           "pa": 2,
           "pts": 2
         },
@@ -2301,11 +2301,6 @@
           "pa": 0,
           "pts": 3
         },
-        "thomas fridman": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
-        },
         "sapir vabshet": {
           "ph": 2,
           "pa": 1,
@@ -2315,6 +2310,11 @@
           "ph": 1,
           "pa": 0,
           "pts": 3
+        },
+        "thomas fridman": {
+          "ph": 2,
+          "pa": 0,
+          "pts": 2
         },
         "Lorena Brofman": {
           "ph": 3,
@@ -2347,11 +2347,6 @@
           "pa": 1,
           "pts": 0
         },
-        "thomas fridman": {
-          "ph": 2,
-          "pa": 2,
-          "pts": 0
-        },
         "sapir vabshet": {
           "ph": 0,
           "pa": 0,
@@ -2360,6 +2355,11 @@
         "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 1,
+          "pts": 0
+        },
+        "thomas fridman": {
+          "ph": 2,
+          "pa": 2,
           "pts": 0
         },
         "Lorena Brofman": {
@@ -2393,17 +2393,17 @@
           "pa": 1,
           "pts": 2
         },
-        "thomas fridman": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
-        },
         "sapir vabshet": {
           "ph": 2,
           "pa": 1,
           "pts": 2
         },
         "Gonzalo Aguiar": {
+          "ph": 2,
+          "pa": 0,
+          "pts": 2
+        },
+        "thomas fridman": {
           "ph": 2,
           "pa": 0,
           "pts": 2
@@ -2439,11 +2439,6 @@
           "pa": 4,
           "pts": 2
         },
-        "thomas fridman": {
-          "ph": 1,
-          "pa": 2,
-          "pts": 2
-        },
         "sapir vabshet": {
           "ph": 1,
           "pa": 3,
@@ -2453,6 +2448,11 @@
           "ph": 0,
           "pa": 3,
           "pts": 3
+        },
+        "thomas fridman": {
+          "ph": 1,
+          "pa": 2,
+          "pts": 2
         },
         "Lorena Brofman": {
           "ph": 0,
@@ -2485,11 +2485,6 @@
           "pa": 0,
           "pts": 2
         },
-        "thomas fridman": {
-          "ph": 3,
-          "pa": 1,
-          "pts": 2
-        },
         "sapir vabshet": {
           "ph": 3,
           "pa": 0,
@@ -2498,6 +2493,11 @@
         "Gonzalo Aguiar": {
           "ph": 3,
           "pa": 0,
+          "pts": 2
+        },
+        "thomas fridman": {
+          "ph": 3,
+          "pa": 1,
           "pts": 2
         },
         "Lorena Brofman": {
@@ -2531,11 +2531,6 @@
           "pa": 1,
           "pts": 0
         },
-        "thomas fridman": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 0
-        },
         "sapir vabshet": {
           "ph": 0,
           "pa": 1,
@@ -2545,6 +2540,11 @@
           "ph": 1,
           "pa": 2,
           "pts": 2
+        },
+        "thomas fridman": {
+          "ph": 1,
+          "pa": 1,
+          "pts": 0
         },
         "Lorena Brofman": {
           "ph": 0,
@@ -2577,11 +2577,6 @@
           "pa": 1,
           "pts": 2
         },
-        "thomas fridman": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 0
-        },
         "sapir vabshet": {
           "ph": 0,
           "pa": 1,
@@ -2590,6 +2585,11 @@
         "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 1,
+          "pts": 0
+        },
+        "thomas fridman": {
+          "ph": 0,
+          "pa": 2,
           "pts": 0
         },
         "Lorena Brofman": {
@@ -2623,11 +2623,6 @@
           "pa": 2,
           "pts": 0
         },
-        "thomas fridman": {
-          "ph": 1,
-          "pa": 2,
-          "pts": 0
-        },
         "sapir vabshet": {
           "ph": 1,
           "pa": 2,
@@ -2636,6 +2631,11 @@
         "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 4,
+          "pts": 0
+        },
+        "thomas fridman": {
+          "ph": 1,
+          "pa": 2,
           "pts": 0
         },
         "Lorena Brofman": {
@@ -2669,11 +2669,6 @@
           "pa": 2,
           "pts": 3
         },
-        "thomas fridman": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 3
-        },
         "sapir vabshet": {
           "ph": 0,
           "pa": 3,
@@ -2683,6 +2678,11 @@
           "ph": 0,
           "pa": 1,
           "pts": 2
+        },
+        "thomas fridman": {
+          "ph": 0,
+          "pa": 2,
+          "pts": 3
         },
         "Lorena Brofman": {
           "ph": 1,
@@ -2715,11 +2715,6 @@
           "pa": 2,
           "pts": 2
         },
-        "thomas fridman": {
-          "ph": 0,
-          "pa": 3,
-          "pts": 2
-        },
         "sapir vabshet": {
           "ph": 0,
           "pa": 3,
@@ -2728,6 +2723,11 @@
         "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 2,
+          "pts": 2
+        },
+        "thomas fridman": {
+          "ph": 0,
+          "pa": 3,
           "pts": 2
         },
         "Lorena Brofman": {
@@ -2761,11 +2761,6 @@
           "pa": 2,
           "pts": 2
         },
-        "thomas fridman": {
-          "ph": 1,
-          "pa": 0,
-          "pts": 0
-        },
         "sapir vabshet": {
           "ph": 1,
           "pa": 1,
@@ -2774,6 +2769,11 @@
         "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 1,
+          "pts": 0
+        },
+        "thomas fridman": {
+          "ph": 1,
+          "pa": 0,
           "pts": 0
         },
         "Lorena Brofman": {
@@ -2807,17 +2807,17 @@
           "pa": 2,
           "pts": 0
         },
-        "thomas fridman": {
-          "ph": 1,
-          "pa": 2,
-          "pts": 0
-        },
         "sapir vabshet": {
           "ph": 0,
           "pa": 1,
           "pts": 0
         },
         "Gonzalo Aguiar": {
+          "ph": 1,
+          "pa": 2,
+          "pts": 0
+        },
+        "thomas fridman": {
           "ph": 1,
           "pa": 2,
           "pts": 0
@@ -2853,11 +2853,6 @@
           "pa": 1,
           "pts": 0
         },
-        "thomas fridman": {
-          "ph": 1,
-          "pa": 0,
-          "pts": 0
-        },
         "sapir vabshet": {
           "ph": 1,
           "pa": 1,
@@ -2867,6 +2862,11 @@
           "ph": 1,
           "pa": 1,
           "pts": 2
+        },
+        "thomas fridman": {
+          "ph": 1,
+          "pa": 0,
+          "pts": 0
         },
         "Lorena Brofman": {
           "ph": 1,
@@ -2899,11 +2899,6 @@
           "pa": 3,
           "pts": 2
         },
-        "thomas fridman": {
-          "ph": 1,
-          "pa": 2,
-          "pts": 2
-        },
         "sapir vabshet": {
           "ph": 1,
           "pa": 3,
@@ -2911,6 +2906,11 @@
         },
         "Gonzalo Aguiar": {
           "ph": 0,
+          "pa": 2,
+          "pts": 2
+        },
+        "thomas fridman": {
+          "ph": 1,
           "pa": 2,
           "pts": 2
         },
@@ -2945,17 +2945,17 @@
           "pa": 1,
           "pts": 2
         },
-        "thomas fridman": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
-        },
         "sapir vabshet": {
           "ph": 2,
           "pa": 0,
           "pts": 2
         },
         "Gonzalo Aguiar": {
+          "ph": 2,
+          "pa": 0,
+          "pts": 2
+        },
+        "thomas fridman": {
           "ph": 2,
           "pa": 0,
           "pts": 2
@@ -2991,17 +2991,17 @@
           "pa": 2,
           "pts": 2
         },
-        "thomas fridman": {
-          "ph": 1,
-          "pa": 2,
-          "pts": 2
-        },
         "sapir vabshet": {
           "ph": 1,
           "pa": 2,
           "pts": 2
         },
         "Gonzalo Aguiar": {
+          "ph": 1,
+          "pa": 2,
+          "pts": 2
+        },
+        "thomas fridman": {
           "ph": 1,
           "pa": 2,
           "pts": 2
@@ -3037,11 +3037,6 @@
           "pa": 2,
           "pts": 0
         },
-        "thomas fridman": {
-          "ph": 0,
-          "pa": 1,
-          "pts": 0
-        },
         "sapir vabshet": {
           "ph": 2,
           "pa": 0,
@@ -3050,6 +3045,11 @@
         "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 2,
+          "pts": 0
+        },
+        "thomas fridman": {
+          "ph": 0,
+          "pa": 1,
           "pts": 0
         },
         "Lorena Brofman": {
@@ -3083,11 +3083,6 @@
           "pa": 2,
           "pts": 2
         },
-        "thomas fridman": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 2
-        },
         "sapir vabshet": {
           "ph": 0,
           "pa": 2,
@@ -3096,6 +3091,11 @@
         "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 1,
+          "pts": 2
+        },
+        "thomas fridman": {
+          "ph": 0,
+          "pa": 2,
           "pts": 2
         },
         "Lorena Brofman": {
@@ -3129,11 +3129,6 @@
           "pa": 0,
           "pts": 0
         },
-        "thomas fridman": {
-          "ph": 1,
-          "pa": 0,
-          "pts": 0
-        },
         "sapir vabshet": {
           "ph": 1,
           "pa": 0,
@@ -3142,6 +3137,11 @@
         "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 1,
+          "pts": 0
+        },
+        "thomas fridman": {
+          "ph": 1,
+          "pa": 0,
           "pts": 0
         },
         "Lorena Brofman": {
@@ -3175,11 +3175,6 @@
           "pa": 2,
           "pts": 3
         },
-        "thomas fridman": {
-          "ph": 0,
-          "pa": 3,
-          "pts": 2
-        },
         "sapir vabshet": {
           "ph": 0,
           "pa": 2,
@@ -3189,6 +3184,11 @@
           "ph": 0,
           "pa": 2,
           "pts": 3
+        },
+        "thomas fridman": {
+          "ph": 0,
+          "pa": 3,
+          "pts": 2
         },
         "Lorena Brofman": {
           "ph": 0,
@@ -3221,11 +3221,6 @@
           "pa": 0,
           "pts": 2
         },
-        "thomas fridman": {
-          "ph": 1,
-          "pa": 0,
-          "pts": 2
-        },
         "sapir vabshet": {
           "ph": 1,
           "pa": 0,
@@ -3235,6 +3230,11 @@
           "ph": 2,
           "pa": 1,
           "pts": 3
+        },
+        "thomas fridman": {
+          "ph": 1,
+          "pa": 0,
+          "pts": 2
         },
         "Lorena Brofman": {
           "ph": 2,
@@ -3267,11 +3267,6 @@
           "pa": 1,
           "pts": 0
         },
-        "thomas fridman": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 2
-        },
         "sapir vabshet": {
           "ph": 0,
           "pa": 2,
@@ -3281,6 +3276,11 @@
           "ph": 1,
           "pa": 2,
           "pts": 0
+        },
+        "thomas fridman": {
+          "ph": 1,
+          "pa": 1,
+          "pts": 2
         },
         "Lorena Brofman": {
           "ph": 2,
@@ -3313,11 +3313,6 @@
           "pa": 0,
           "pts": 2
         },
-        "thomas fridman": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
-        },
         "sapir vabshet": {
           "ph": 2,
           "pa": 1,
@@ -3326,6 +3321,11 @@
         "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 1,
+          "pts": 2
+        },
+        "thomas fridman": {
+          "ph": 2,
+          "pa": 0,
           "pts": 2
         },
         "Lorena Brofman": {
@@ -3359,11 +3359,6 @@
           "pa": 3,
           "pts": 3
         },
-        "thomas fridman": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 2
-        },
         "sapir vabshet": {
           "ph": 0,
           "pa": 2,
@@ -3372,6 +3367,11 @@
         "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 3,
+          "pts": 2
+        },
+        "thomas fridman": {
+          "ph": 0,
+          "pa": 2,
           "pts": 2
         },
         "Lorena Brofman": {
@@ -3405,17 +3405,17 @@
           "pa": 1,
           "pts": 0
         },
-        "thomas fridman": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 2
-        },
         "sapir vabshet": {
           "ph": 0,
           "pa": 0,
           "pts": 2
         },
         "Gonzalo Aguiar": {
+          "ph": 1,
+          "pa": 1,
+          "pts": 2
+        },
+        "thomas fridman": {
           "ph": 1,
           "pa": 1,
           "pts": 2
@@ -3451,11 +3451,6 @@
           "pa": 1,
           "pts": 3
         },
-        "thomas fridman": {
-          "ph": 0,
-          "pa": 1,
-          "pts": 3
-        },
         "sapir vabshet": {
           "ph": 0,
           "pa": 2,
@@ -3465,6 +3460,11 @@
           "ph": 1,
           "pa": 1,
           "pts": 0
+        },
+        "thomas fridman": {
+          "ph": 0,
+          "pa": 1,
+          "pts": 3
         },
         "Lorena Brofman": {
           "ph": 1,
@@ -3497,17 +3497,17 @@
           "pa": 1,
           "pts": 0
         },
-        "thomas fridman": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 0
-        },
         "sapir vabshet": {
           "ph": 2,
           "pa": 1,
           "pts": 3
         },
         "Gonzalo Aguiar": {
+          "ph": 1,
+          "pa": 1,
+          "pts": 0
+        },
+        "thomas fridman": {
           "ph": 1,
           "pa": 1,
           "pts": 0
@@ -3543,11 +3543,6 @@
           "pa": 0,
           "pts": 0
         },
-        "thomas fridman": {
-          "ph": 3,
-          "pa": 1,
-          "pts": 0
-        },
         "sapir vabshet": {
           "ph": 2,
           "pa": 0,
@@ -3555,6 +3550,11 @@
         },
         "Gonzalo Aguiar": {
           "ph": 2,
+          "pa": 1,
+          "pts": 0
+        },
+        "thomas fridman": {
+          "ph": 3,
           "pa": 1,
           "pts": 0
         },
@@ -3589,11 +3589,6 @@
           "pa": 0,
           "pts": 0
         },
-        "thomas fridman": {
-          "ph": 2,
-          "pa": 2,
-          "pts": 2
-        },
         "sapir vabshet": {
           "ph": 1,
           "pa": 1,
@@ -3603,6 +3598,11 @@
           "ph": 1,
           "pa": 1,
           "pts": 3
+        },
+        "thomas fridman": {
+          "ph": 2,
+          "pa": 2,
+          "pts": 2
         },
         "Lorena Brofman": {
           "ph": 2,
@@ -3635,11 +3635,6 @@
           "pa": 1,
           "pts": 0
         },
-        "thomas fridman": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 2
-        },
         "sapir vabshet": {
           "ph": 1,
           "pa": 2,
@@ -3649,6 +3644,11 @@
           "ph": 2,
           "pa": 2,
           "pts": 0
+        },
+        "thomas fridman": {
+          "ph": 0,
+          "pa": 2,
+          "pts": 2
         },
         "Lorena Brofman": {
           "ph": 0,
@@ -3681,17 +3681,17 @@
           "pa": 1,
           "pts": 2
         },
-        "thomas fridman": {
-          "ph": 3,
-          "pa": 1,
-          "pts": 2
-        },
         "sapir vabshet": {
           "ph": 4,
           "pa": 0,
           "pts": 2
         },
         "Gonzalo Aguiar": {
+          "ph": 3,
+          "pa": 1,
+          "pts": 2
+        },
+        "thomas fridman": {
           "ph": 3,
           "pa": 1,
           "pts": 2
@@ -3727,11 +3727,6 @@
           "pa": 0,
           "pts": 2
         },
-        "thomas fridman": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 0
-        },
         "sapir vabshet": {
           "ph": 2,
           "pa": 1,
@@ -3740,6 +3735,11 @@
         "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 2,
+          "pts": 0
+        },
+        "thomas fridman": {
+          "ph": 1,
+          "pa": 1,
           "pts": 0
         },
         "Lorena Brofman": {
@@ -3773,11 +3773,6 @@
           "pa": 1,
           "pts": 3
         },
-        "thomas fridman": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 3
-        },
         "sapir vabshet": {
           "ph": 3,
           "pa": 1,
@@ -3787,6 +3782,11 @@
           "ph": 2,
           "pa": 0,
           "pts": 2
+        },
+        "thomas fridman": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 3
         },
         "Lorena Brofman": {
           "ph": 2,
@@ -3819,11 +3819,6 @@
           "pa": 2,
           "pts": 0
         },
-        "thomas fridman": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 0
-        },
         "sapir vabshet": {
           "ph": 2,
           "pa": 1,
@@ -3833,6 +3828,11 @@
           "ph": 1,
           "pa": 1,
           "pts": 2
+        },
+        "thomas fridman": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 0
         },
         "Lorena Brofman": {
           "ph": 1,
@@ -3865,11 +3865,6 @@
           "pa": 1,
           "pts": 2
         },
-        "thomas fridman": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
-        },
         "sapir vabshet": {
           "ph": 2,
           "pa": 0,
@@ -3879,6 +3874,11 @@
           "ph": 2,
           "pa": 0,
           "pts": 3
+        },
+        "thomas fridman": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 2
         },
         "Lorena Brofman": {
           "ph": 2,
@@ -3911,11 +3911,6 @@
           "pa": 0,
           "pts": 2
         },
-        "thomas fridman": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
-        },
         "sapir vabshet": {
           "ph": 2,
           "pa": 0,
@@ -3925,6 +3920,11 @@
           "ph": 3,
           "pa": 0,
           "pts": 3
+        },
+        "thomas fridman": {
+          "ph": 2,
+          "pa": 0,
+          "pts": 2
         },
         "Lorena Brofman": {
           "ph": 1,
@@ -3942,21 +3942,62 @@
       "id": 83,
       "matchId": "4653707",
       "date": "2026-07-02T23:00:00.000Z",
-      "status": "upcoming",
+      "status": "finished",
       "home": "Portugal",
       "away": "Croatia",
       "homeEs": "Portugal",
       "awayEs": "Croacia",
-      "result": null,
+      "result": {
+        "h": 2,
+        "a": 1
+      },
       "predictions": {
         "kevin": {
           "ph": 2,
           "pa": 3,
-          "pts": null
+          "pts": 0
+        },
+        "sapir vabshet": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 3
+        },
+        "Gonzalo Aguiar": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 3
         },
         "thomas fridman": {
           "ph": 1,
           "pa": 1,
+          "pts": 0
+        },
+        "Lorena Brofman": {
+          "ph": 1,
+          "pa": 2,
+          "pts": 0
+        },
+        "Maayan Golan": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 3
+        }
+      }
+    },
+    {
+      "id": 84,
+      "matchId": "4653717",
+      "date": "2026-07-03T03:00:00.000Z",
+      "status": "upcoming",
+      "home": "Switzerland",
+      "away": "Algeria",
+      "homeEs": "Suiza",
+      "awayEs": "Argelia",
+      "result": null,
+      "predictions": {
+        "kevin": {
+          "ph": 1,
+          "pa": 0,
           "pts": null
         },
         "sapir vabshet": {
@@ -3969,14 +4010,19 @@
           "pa": 1,
           "pts": null
         },
-        "Lorena Brofman": {
+        "thomas fridman": {
           "ph": 1,
-          "pa": 2,
+          "pa": 1,
+          "pts": null
+        },
+        "Lorena Brofman": {
+          "ph": 2,
+          "pa": 1,
           "pts": null
         },
         "Maayan Golan": {
-          "ph": 2,
-          "pa": 1,
+          "ph": 1,
+          "pa": 2,
           "pts": null
         }
       }
@@ -4727,18 +4773,18 @@
           "pos": 1
         },
         {
-          "name": "thomas fridman",
-          "cum": 113,
+          "name": "sapir vabshet",
+          "cum": 116,
           "pos": 2
         },
         {
-          "name": "sapir vabshet",
-          "cum": 113,
+          "name": "Gonzalo Aguiar",
+          "cum": 114,
           "pos": 3
         },
         {
-          "name": "Gonzalo Aguiar",
-          "cum": 111,
+          "name": "thomas fridman",
+          "cum": 113,
           "pos": 4
         },
         {
@@ -4748,7 +4794,7 @@
         },
         {
           "name": "Maayan Golan",
-          "cum": 101,
+          "cum": 104,
           "pos": 6
         }
       ]
@@ -4757,9 +4803,9 @@
   "headToHead": [
     {
       "name": "kevin",
-      "targetPts": 111,
+      "targetPts": 114,
       "rivalPts": 118,
-      "diff": -7,
+      "diff": -4,
       "byMatch": [
         {
           "id": 0,
@@ -5341,602 +5387,20 @@
           "away": "Austria",
           "targetPts": 3,
           "rivalPts": 2
-        }
-      ]
-    },
-    {
-      "name": "thomas fridman",
-      "targetPts": 111,
-      "rivalPts": 113,
-      "diff": -2,
-      "byMatch": [
-        {
-          "id": 0,
-          "home": "Mexico",
-          "away": "South Africa",
-          "targetPts": 2,
-          "rivalPts": 3
         },
         {
-          "id": 1,
-          "home": "South Korea",
-          "away": "Czechia",
-          "targetPts": 2,
-          "rivalPts": 3
-        },
-        {
-          "id": 2,
-          "home": "Canada",
-          "away": "Bosnia and Herzegovina",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 3,
-          "home": "USA",
-          "away": "Paraguay",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 4,
-          "home": "Qatar",
-          "away": "Switzerland",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 5,
-          "home": "Brazil",
-          "away": "Morocco",
-          "targetPts": 0,
-          "rivalPts": 3
-        },
-        {
-          "id": 6,
-          "home": "Haiti",
-          "away": "Scotland",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 7,
-          "home": "Australia",
-          "away": "Turkiye",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 8,
-          "home": "Germany",
-          "away": "Curacao",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 9,
-          "home": "Netherlands",
-          "away": "Japan",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 10,
-          "home": "Ivory Coast",
-          "away": "Ecuador",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 11,
-          "home": "Sweden",
-          "away": "Tunisia",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 12,
-          "home": "Spain",
-          "away": "Cape Verde",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 13,
-          "home": "Belgium",
-          "away": "Egypt",
-          "targetPts": 0,
-          "rivalPts": 3
-        },
-        {
-          "id": 14,
-          "home": "Saudi Arabia",
-          "away": "Uruguay",
-          "targetPts": 3,
-          "rivalPts": 0
-        },
-        {
-          "id": 15,
-          "home": "Iran",
-          "away": "New Zealand",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 16,
-          "home": "France",
-          "away": "Senegal",
-          "targetPts": 2,
-          "rivalPts": 3
-        },
-        {
-          "id": 17,
-          "home": "Iraq",
-          "away": "Norway",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 18,
-          "home": "Argentina",
-          "away": "Algeria",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 19,
-          "home": "Austria",
-          "away": "Jordan",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 20,
+          "id": 83,
           "home": "Portugal",
-          "away": "DR Congo",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 21,
-          "home": "England",
           "away": "Croatia",
-          "targetPts": 2,
-          "rivalPts": 0
-        },
-        {
-          "id": 22,
-          "home": "Ghana",
-          "away": "Panama",
-          "targetPts": 0,
-          "rivalPts": 2
-        },
-        {
-          "id": 23,
-          "home": "Uzbekistan",
-          "away": "Colombia",
-          "targetPts": 2,
-          "rivalPts": 3
-        },
-        {
-          "id": 24,
-          "home": "Czechia",
-          "away": "South Africa",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 25,
-          "home": "Switzerland",
-          "away": "Bosnia and Herzegovina",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 26,
-          "home": "Canada",
-          "away": "Qatar",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 27,
-          "home": "Mexico",
-          "away": "South Korea",
-          "targetPts": 2,
-          "rivalPts": 0
-        },
-        {
-          "id": 28,
-          "home": "USA",
-          "away": "Australia",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 29,
-          "home": "Scotland",
-          "away": "Morocco",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 30,
-          "home": "Brazil",
-          "away": "Haiti",
-          "targetPts": 2,
-          "rivalPts": 3
-        },
-        {
-          "id": 31,
-          "home": "Turkiye",
-          "away": "Paraguay",
-          "targetPts": 0,
-          "rivalPts": 2
-        },
-        {
-          "id": 32,
-          "home": "Netherlands",
-          "away": "Sweden",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 33,
-          "home": "Germany",
-          "away": "Ivory Coast",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 34,
-          "home": "Ecuador",
-          "away": "Curacao",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 35,
-          "home": "Tunisia",
-          "away": "Japan",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 36,
-          "home": "Spain",
-          "away": "Saudi Arabia",
-          "targetPts": 2,
-          "rivalPts": 0
-        },
-        {
-          "id": 37,
-          "home": "Belgium",
-          "away": "Iran",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 38,
-          "home": "Uruguay",
-          "away": "Cape Verde",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 39,
-          "home": "New Zealand",
-          "away": "Egypt",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 40,
-          "home": "Argentina",
-          "away": "Austria",
-          "targetPts": 2,
-          "rivalPts": 3
-        },
-        {
-          "id": 41,
-          "home": "France",
-          "away": "Iraq",
           "targetPts": 3,
-          "rivalPts": 2
-        },
-        {
-          "id": 42,
-          "home": "Norway",
-          "away": "Senegal",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 43,
-          "home": "Jordan",
-          "away": "Algeria",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 44,
-          "home": "Portugal",
-          "away": "Uzbekistan",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 45,
-          "home": "England",
-          "away": "Ghana",
-          "targetPts": 0,
           "rivalPts": 0
-        },
-        {
-          "id": 46,
-          "home": "Panama",
-          "away": "Croatia",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 47,
-          "home": "Colombia",
-          "away": "DR Congo",
-          "targetPts": 3,
-          "rivalPts": 2
-        },
-        {
-          "id": 48,
-          "home": "Switzerland",
-          "away": "Canada",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 49,
-          "home": "Bosnia and Herzegovina",
-          "away": "Qatar",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 50,
-          "home": "Scotland",
-          "away": "Brazil",
-          "targetPts": 3,
-          "rivalPts": 2
-        },
-        {
-          "id": 51,
-          "home": "Morocco",
-          "away": "Haiti",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 52,
-          "home": "Czechia",
-          "away": "Mexico",
-          "targetPts": 2,
-          "rivalPts": 0
-        },
-        {
-          "id": 53,
-          "home": "South Africa",
-          "away": "South Korea",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 54,
-          "home": "Ecuador",
-          "away": "Germany",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 55,
-          "home": "Curacao",
-          "away": "Ivory Coast",
-          "targetPts": 2,
-          "rivalPts": 3
-        },
-        {
-          "id": 56,
-          "home": "Tunisia",
-          "away": "Netherlands",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 57,
-          "home": "Japan",
-          "away": "Sweden",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 58,
-          "home": "Turkiye",
-          "away": "USA",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 59,
-          "home": "Paraguay",
-          "away": "Australia",
-          "targetPts": 2,
-          "rivalPts": 0
-        },
-        {
-          "id": 60,
-          "home": "Norway",
-          "away": "France",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 61,
-          "home": "Senegal",
-          "away": "Iraq",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 62,
-          "home": "Uruguay",
-          "away": "Spain",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 63,
-          "home": "Cape Verde",
-          "away": "Saudi Arabia",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 64,
-          "home": "New Zealand",
-          "away": "Belgium",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 65,
-          "home": "Egypt",
-          "away": "Iran",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 66,
-          "home": "Panama",
-          "away": "England",
-          "targetPts": 3,
-          "rivalPts": 2
-        },
-        {
-          "id": 67,
-          "home": "Croatia",
-          "away": "Ghana",
-          "targetPts": 3,
-          "rivalPts": 2
-        },
-        {
-          "id": 68,
-          "home": "Colombia",
-          "away": "Portugal",
-          "targetPts": 0,
-          "rivalPts": 2
-        },
-        {
-          "id": 69,
-          "home": "DR Congo",
-          "away": "Uzbekistan",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 70,
-          "home": "Jordan",
-          "away": "Argentina",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 71,
-          "home": "Algeria",
-          "away": "Austria",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 72,
-          "home": "South Africa",
-          "away": "Canada",
-          "targetPts": 0,
-          "rivalPts": 3
-        },
-        {
-          "id": 73,
-          "home": "Brazil",
-          "away": "Japan",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 74,
-          "home": "Germany",
-          "away": "Paraguay",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 75,
-          "home": "Netherlands",
-          "away": "Morocco",
-          "targetPts": 3,
-          "rivalPts": 2
-        },
-        {
-          "id": 76,
-          "home": "Ivory Coast",
-          "away": "Norway",
-          "targetPts": 0,
-          "rivalPts": 2
-        },
-        {
-          "id": 77,
-          "home": "France",
-          "away": "Sweden",
-          "targetPts": 2,
-          "rivalPts": 2
-        },
-        {
-          "id": 78,
-          "home": "Mexico",
-          "away": "Ecuador",
-          "targetPts": 0,
-          "rivalPts": 0
-        },
-        {
-          "id": 79,
-          "home": "England",
-          "away": "DR Congo",
-          "targetPts": 2,
-          "rivalPts": 3
-        },
-        {
-          "id": 80,
-          "home": "Belgium",
-          "away": "Senegal",
-          "targetPts": 2,
-          "rivalPts": 0
-        },
-        {
-          "id": 81,
-          "home": "USA",
-          "away": "Bosnia and Herzegovina",
-          "targetPts": 3,
-          "rivalPts": 2
-        },
-        {
-          "id": 82,
-          "home": "Spain",
-          "away": "Austria",
-          "targetPts": 3,
-          "rivalPts": 2
         }
       ]
     },
     {
       "name": "sapir vabshet",
-      "targetPts": 111,
-      "rivalPts": 113,
+      "targetPts": 114,
+      "rivalPts": 116,
       "diff": -2,
       "byMatch": [
         {
@@ -6519,14 +5983,617 @@
           "away": "Austria",
           "targetPts": 3,
           "rivalPts": 2
+        },
+        {
+          "id": 83,
+          "home": "Portugal",
+          "away": "Croatia",
+          "targetPts": 3,
+          "rivalPts": 3
+        }
+      ]
+    },
+    {
+      "name": "thomas fridman",
+      "targetPts": 114,
+      "rivalPts": 113,
+      "diff": 1,
+      "byMatch": [
+        {
+          "id": 0,
+          "home": "Mexico",
+          "away": "South Africa",
+          "targetPts": 2,
+          "rivalPts": 3
+        },
+        {
+          "id": 1,
+          "home": "South Korea",
+          "away": "Czechia",
+          "targetPts": 2,
+          "rivalPts": 3
+        },
+        {
+          "id": 2,
+          "home": "Canada",
+          "away": "Bosnia and Herzegovina",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 3,
+          "home": "USA",
+          "away": "Paraguay",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 4,
+          "home": "Qatar",
+          "away": "Switzerland",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 5,
+          "home": "Brazil",
+          "away": "Morocco",
+          "targetPts": 0,
+          "rivalPts": 3
+        },
+        {
+          "id": 6,
+          "home": "Haiti",
+          "away": "Scotland",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 7,
+          "home": "Australia",
+          "away": "Turkiye",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 8,
+          "home": "Germany",
+          "away": "Curacao",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 9,
+          "home": "Netherlands",
+          "away": "Japan",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 10,
+          "home": "Ivory Coast",
+          "away": "Ecuador",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 11,
+          "home": "Sweden",
+          "away": "Tunisia",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 12,
+          "home": "Spain",
+          "away": "Cape Verde",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 13,
+          "home": "Belgium",
+          "away": "Egypt",
+          "targetPts": 0,
+          "rivalPts": 3
+        },
+        {
+          "id": 14,
+          "home": "Saudi Arabia",
+          "away": "Uruguay",
+          "targetPts": 3,
+          "rivalPts": 0
+        },
+        {
+          "id": 15,
+          "home": "Iran",
+          "away": "New Zealand",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 16,
+          "home": "France",
+          "away": "Senegal",
+          "targetPts": 2,
+          "rivalPts": 3
+        },
+        {
+          "id": 17,
+          "home": "Iraq",
+          "away": "Norway",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 18,
+          "home": "Argentina",
+          "away": "Algeria",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 19,
+          "home": "Austria",
+          "away": "Jordan",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 20,
+          "home": "Portugal",
+          "away": "DR Congo",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 21,
+          "home": "England",
+          "away": "Croatia",
+          "targetPts": 2,
+          "rivalPts": 0
+        },
+        {
+          "id": 22,
+          "home": "Ghana",
+          "away": "Panama",
+          "targetPts": 0,
+          "rivalPts": 2
+        },
+        {
+          "id": 23,
+          "home": "Uzbekistan",
+          "away": "Colombia",
+          "targetPts": 2,
+          "rivalPts": 3
+        },
+        {
+          "id": 24,
+          "home": "Czechia",
+          "away": "South Africa",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 25,
+          "home": "Switzerland",
+          "away": "Bosnia and Herzegovina",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 26,
+          "home": "Canada",
+          "away": "Qatar",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 27,
+          "home": "Mexico",
+          "away": "South Korea",
+          "targetPts": 2,
+          "rivalPts": 0
+        },
+        {
+          "id": 28,
+          "home": "USA",
+          "away": "Australia",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 29,
+          "home": "Scotland",
+          "away": "Morocco",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 30,
+          "home": "Brazil",
+          "away": "Haiti",
+          "targetPts": 2,
+          "rivalPts": 3
+        },
+        {
+          "id": 31,
+          "home": "Turkiye",
+          "away": "Paraguay",
+          "targetPts": 0,
+          "rivalPts": 2
+        },
+        {
+          "id": 32,
+          "home": "Netherlands",
+          "away": "Sweden",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 33,
+          "home": "Germany",
+          "away": "Ivory Coast",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 34,
+          "home": "Ecuador",
+          "away": "Curacao",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 35,
+          "home": "Tunisia",
+          "away": "Japan",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 36,
+          "home": "Spain",
+          "away": "Saudi Arabia",
+          "targetPts": 2,
+          "rivalPts": 0
+        },
+        {
+          "id": 37,
+          "home": "Belgium",
+          "away": "Iran",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 38,
+          "home": "Uruguay",
+          "away": "Cape Verde",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 39,
+          "home": "New Zealand",
+          "away": "Egypt",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 40,
+          "home": "Argentina",
+          "away": "Austria",
+          "targetPts": 2,
+          "rivalPts": 3
+        },
+        {
+          "id": 41,
+          "home": "France",
+          "away": "Iraq",
+          "targetPts": 3,
+          "rivalPts": 2
+        },
+        {
+          "id": 42,
+          "home": "Norway",
+          "away": "Senegal",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 43,
+          "home": "Jordan",
+          "away": "Algeria",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 44,
+          "home": "Portugal",
+          "away": "Uzbekistan",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 45,
+          "home": "England",
+          "away": "Ghana",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 46,
+          "home": "Panama",
+          "away": "Croatia",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 47,
+          "home": "Colombia",
+          "away": "DR Congo",
+          "targetPts": 3,
+          "rivalPts": 2
+        },
+        {
+          "id": 48,
+          "home": "Switzerland",
+          "away": "Canada",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 49,
+          "home": "Bosnia and Herzegovina",
+          "away": "Qatar",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 50,
+          "home": "Scotland",
+          "away": "Brazil",
+          "targetPts": 3,
+          "rivalPts": 2
+        },
+        {
+          "id": 51,
+          "home": "Morocco",
+          "away": "Haiti",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 52,
+          "home": "Czechia",
+          "away": "Mexico",
+          "targetPts": 2,
+          "rivalPts": 0
+        },
+        {
+          "id": 53,
+          "home": "South Africa",
+          "away": "South Korea",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 54,
+          "home": "Ecuador",
+          "away": "Germany",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 55,
+          "home": "Curacao",
+          "away": "Ivory Coast",
+          "targetPts": 2,
+          "rivalPts": 3
+        },
+        {
+          "id": 56,
+          "home": "Tunisia",
+          "away": "Netherlands",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 57,
+          "home": "Japan",
+          "away": "Sweden",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 58,
+          "home": "Turkiye",
+          "away": "USA",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 59,
+          "home": "Paraguay",
+          "away": "Australia",
+          "targetPts": 2,
+          "rivalPts": 0
+        },
+        {
+          "id": 60,
+          "home": "Norway",
+          "away": "France",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 61,
+          "home": "Senegal",
+          "away": "Iraq",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 62,
+          "home": "Uruguay",
+          "away": "Spain",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 63,
+          "home": "Cape Verde",
+          "away": "Saudi Arabia",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 64,
+          "home": "New Zealand",
+          "away": "Belgium",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 65,
+          "home": "Egypt",
+          "away": "Iran",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 66,
+          "home": "Panama",
+          "away": "England",
+          "targetPts": 3,
+          "rivalPts": 2
+        },
+        {
+          "id": 67,
+          "home": "Croatia",
+          "away": "Ghana",
+          "targetPts": 3,
+          "rivalPts": 2
+        },
+        {
+          "id": 68,
+          "home": "Colombia",
+          "away": "Portugal",
+          "targetPts": 0,
+          "rivalPts": 2
+        },
+        {
+          "id": 69,
+          "home": "DR Congo",
+          "away": "Uzbekistan",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 70,
+          "home": "Jordan",
+          "away": "Argentina",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 71,
+          "home": "Algeria",
+          "away": "Austria",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 72,
+          "home": "South Africa",
+          "away": "Canada",
+          "targetPts": 0,
+          "rivalPts": 3
+        },
+        {
+          "id": 73,
+          "home": "Brazil",
+          "away": "Japan",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 74,
+          "home": "Germany",
+          "away": "Paraguay",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 75,
+          "home": "Netherlands",
+          "away": "Morocco",
+          "targetPts": 3,
+          "rivalPts": 2
+        },
+        {
+          "id": 76,
+          "home": "Ivory Coast",
+          "away": "Norway",
+          "targetPts": 0,
+          "rivalPts": 2
+        },
+        {
+          "id": 77,
+          "home": "France",
+          "away": "Sweden",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 78,
+          "home": "Mexico",
+          "away": "Ecuador",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 79,
+          "home": "England",
+          "away": "DR Congo",
+          "targetPts": 2,
+          "rivalPts": 3
+        },
+        {
+          "id": 80,
+          "home": "Belgium",
+          "away": "Senegal",
+          "targetPts": 2,
+          "rivalPts": 0
+        },
+        {
+          "id": 81,
+          "home": "USA",
+          "away": "Bosnia and Herzegovina",
+          "targetPts": 3,
+          "rivalPts": 2
+        },
+        {
+          "id": 82,
+          "home": "Spain",
+          "away": "Austria",
+          "targetPts": 3,
+          "rivalPts": 2
+        },
+        {
+          "id": 83,
+          "home": "Portugal",
+          "away": "Croatia",
+          "targetPts": 3,
+          "rivalPts": 0
         }
       ]
     },
     {
       "name": "Lorena Brofman",
-      "targetPts": 111,
+      "targetPts": 114,
       "rivalPts": 106,
-      "diff": 5,
+      "diff": 8,
       "byMatch": [
         {
           "id": 0,
@@ -7106,6 +7173,13 @@
           "id": 82,
           "home": "Spain",
           "away": "Austria",
+          "targetPts": 3,
+          "rivalPts": 0
+        },
+        {
+          "id": 83,
+          "home": "Portugal",
+          "away": "Croatia",
           "targetPts": 3,
           "rivalPts": 0
         }
@@ -7113,8 +7187,8 @@
     },
     {
       "name": "Maayan Golan",
-      "targetPts": 111,
-      "rivalPts": 101,
+      "targetPts": 114,
+      "rivalPts": 104,
       "diff": 10,
       "byMatch": [
         {
@@ -7697,6 +7771,13 @@
           "away": "Austria",
           "targetPts": 3,
           "rivalPts": 0
+        },
+        {
+          "id": 83,
+          "home": "Portugal",
+          "away": "Croatia",
+          "targetPts": 3,
+          "rivalPts": 3
         }
       ]
     }
@@ -7711,27 +7792,27 @@
       "ok": true
     },
     {
+      "name": "sapir vabshet",
+      "calcPts": 116,
+      "apiPts": 116,
+      "calcExacts": 12,
+      "apiExacts": 12,
+      "ok": true
+    },
+    {
+      "name": "Gonzalo Aguiar",
+      "calcPts": 114,
+      "apiPts": 114,
+      "calcExacts": 10,
+      "apiExacts": 10,
+      "ok": true
+    },
+    {
       "name": "thomas fridman",
       "calcPts": 113,
       "apiPts": 113,
       "calcExacts": 11,
       "apiExacts": 11,
-      "ok": true
-    },
-    {
-      "name": "sapir vabshet",
-      "calcPts": 113,
-      "apiPts": 113,
-      "calcExacts": 11,
-      "apiExacts": 11,
-      "ok": true
-    },
-    {
-      "name": "Gonzalo Aguiar",
-      "calcPts": 111,
-      "apiPts": 111,
-      "calcExacts": 9,
-      "apiExacts": 9,
       "ok": true
     },
     {
@@ -7744,10 +7825,10 @@
     },
     {
       "name": "Maayan Golan",
-      "calcPts": 101,
-      "apiPts": 101,
-      "calcExacts": 7,
-      "apiExacts": 7,
+      "calcPts": 104,
+      "apiPts": 104,
+      "calcExacts": 8,
+      "apiExacts": 8,
       "ok": true
     }
   ]
