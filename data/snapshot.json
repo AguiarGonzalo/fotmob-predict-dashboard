@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T21:43:06.029Z",
+  "updatedAt": "2026-07-03T22:45:15.174Z",
   "league": {
     "id": 196754,
     "game": 772026,
@@ -4073,6 +4073,49 @@
           "ph": 1,
           "pa": 2,
           "pts": 0
+        }
+      }
+    },
+    {
+      "id": 86,
+      "matchId": "4653715",
+      "date": "2026-07-03T22:00:00.000Z",
+      "status": "upcoming",
+      "home": "Argentina",
+      "away": "Cape Verde",
+      "homeEs": "Argentina",
+      "awayEs": "Cabo Verde",
+      "result": null,
+      "predictions": {
+        "sapir vabshet": {
+          "ph": 2,
+          "pa": 1,
+          "pts": null
+        },
+        "kevin": {
+          "ph": 2,
+          "pa": 0,
+          "pts": null
+        },
+        "Gonzalo Aguiar": {
+          "ph": 3,
+          "pa": 0,
+          "pts": null
+        },
+        "thomas fridman": {
+          "ph": 3,
+          "pa": 0,
+          "pts": null
+        },
+        "Lorena Brofman": {
+          "ph": 3,
+          "pa": 0,
+          "pts": null
+        },
+        "Maayan Golan": {
+          "ph": 3,
+          "pa": 0,
+          "pts": null
         }
       }
     }
