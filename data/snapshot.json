@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T20:51:50.232Z",
+  "updatedAt": "2026-07-04T21:55:04.078Z",
   "league": {
     "id": 196754,
     "game": 772026,
@@ -4211,6 +4211,49 @@
           "ph": 2,
           "pa": 2,
           "pts": 0
+        }
+      }
+    },
+    {
+      "id": 89,
+      "matchId": "4653842",
+      "date": "2026-07-04T21:00:00.000Z",
+      "status": "upcoming",
+      "home": "Paraguay",
+      "away": "France",
+      "homeEs": "Paraguay",
+      "awayEs": "Francia",
+      "result": null,
+      "predictions": {
+        "kevin": {
+          "ph": 0,
+          "pa": 4,
+          "pts": null
+        },
+        "sapir vabshet": {
+          "ph": 0,
+          "pa": 3,
+          "pts": null
+        },
+        "Gonzalo Aguiar": {
+          "ph": 0,
+          "pa": 3,
+          "pts": null
+        },
+        "thomas fridman": {
+          "ph": 0,
+          "pa": 3,
+          "pts": null
+        },
+        "Lorena Brofman": {
+          "ph": 2,
+          "pa": 2,
+          "pts": null
+        },
+        "Maayan Golan": {
+          "ph": 1,
+          "pa": 1,
+          "pts": null
         }
       }
     }
