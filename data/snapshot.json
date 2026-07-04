@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T22:54:31.816Z",
+  "updatedAt": "2026-07-04T23:58:28.879Z",
   "league": {
     "id": 196754,
     "game": 772026,
@@ -12,7 +12,7 @@
     "miss": 0
   },
   "target": "Gonzalo Aguiar",
-  "finishedCount": 89,
+  "finishedCount": 90,
   "teamsEs": {
     "USA": "EE. UU.",
     "Australia": "Australia",
@@ -68,36 +68,36 @@
       "id": "2_100513976122918931166",
       "name": "kevin",
       "rank": 1,
-      "points": 125,
+      "points": 127,
       "exacts": 15,
-      "avg": 1.4,
+      "avg": 1.41,
       "isTarget": false
     },
     {
       "id": "2_110807909424767304523",
       "name": "sapir vabshet",
       "rank": 2,
-      "points": 125,
+      "points": 127,
       "exacts": 13,
-      "avg": 1.4,
+      "avg": 1.41,
       "isTarget": false
     },
     {
       "id": "2_112563509372036390748",
       "name": "Gonzalo Aguiar",
       "rank": 3,
-      "points": 120,
+      "points": 122,
       "exacts": 10,
-      "avg": 1.35,
+      "avg": 1.36,
       "isTarget": true
     },
     {
       "id": "2_108825978723927201255",
       "name": "thomas fridman",
       "rank": 4,
-      "points": 117,
+      "points": 119,
       "exacts": 11,
-      "avg": 1.31,
+      "avg": 1.32,
       "isTarget": false
     },
     {
@@ -106,7 +106,7 @@
       "rank": 5,
       "points": 110,
       "exacts": 8,
-      "avg": 1.24,
+      "avg": 1.22,
       "isTarget": false
     },
     {
@@ -115,7 +115,7 @@
       "rank": 6,
       "points": 106,
       "exacts": 8,
-      "avg": 1.19,
+      "avg": 1.18,
       "isTarget": false
     }
   ],
@@ -4218,42 +4218,45 @@
       "id": 89,
       "matchId": "4653842",
       "date": "2026-07-04T21:00:00.000Z",
-      "status": "upcoming",
+      "status": "finished",
       "home": "Paraguay",
       "away": "France",
       "homeEs": "Paraguay",
       "awayEs": "Francia",
-      "result": null,
+      "result": {
+        "h": 0,
+        "a": 1
+      },
       "predictions": {
         "kevin": {
           "ph": 0,
           "pa": 4,
-          "pts": null
+          "pts": 2
         },
         "sapir vabshet": {
           "ph": 0,
           "pa": 3,
-          "pts": null
+          "pts": 2
         },
         "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 3,
-          "pts": null
+          "pts": 2
         },
         "thomas fridman": {
           "ph": 0,
           "pa": 3,
-          "pts": null
+          "pts": 2
         },
         "Lorena Brofman": {
           "ph": 2,
           "pa": 2,
-          "pts": null
+          "pts": 0
         },
         "Maayan Golan": {
           "ph": 1,
           "pa": 1,
-          "pts": null
+          "pts": 0
         }
       }
     }
@@ -5069,22 +5072,22 @@
       "ranking": [
         {
           "name": "kevin",
-          "cum": 125,
+          "cum": 127,
           "pos": 1
         },
         {
           "name": "sapir vabshet",
-          "cum": 125,
+          "cum": 127,
           "pos": 2
         },
         {
           "name": "Gonzalo Aguiar",
-          "cum": 120,
+          "cum": 122,
           "pos": 3
         },
         {
           "name": "thomas fridman",
-          "cum": 117,
+          "cum": 119,
           "pos": 4
         },
         {
@@ -5103,8 +5106,8 @@
   "headToHead": [
     {
       "name": "kevin",
-      "targetPts": 120,
-      "rivalPts": 125,
+      "targetPts": 122,
+      "rivalPts": 127,
       "diff": -5,
       "byMatch": [
         {
@@ -5727,6 +5730,13 @@
           "id": 88,
           "home": "Canada",
           "away": "Morocco",
+          "targetPts": 2,
+          "rivalPts": 2
+        },
+        {
+          "id": 89,
+          "home": "Paraguay",
+          "away": "France",
           "targetPts": 2,
           "rivalPts": 2
         }
@@ -5734,8 +5744,8 @@
     },
     {
       "name": "sapir vabshet",
-      "targetPts": 120,
-      "rivalPts": 125,
+      "targetPts": 122,
+      "rivalPts": 127,
       "diff": -5,
       "byMatch": [
         {
@@ -6360,13 +6370,20 @@
           "away": "Morocco",
           "targetPts": 2,
           "rivalPts": 2
+        },
+        {
+          "id": 89,
+          "home": "Paraguay",
+          "away": "France",
+          "targetPts": 2,
+          "rivalPts": 2
         }
       ]
     },
     {
       "name": "thomas fridman",
-      "targetPts": 120,
-      "rivalPts": 117,
+      "targetPts": 122,
+      "rivalPts": 119,
       "diff": 3,
       "byMatch": [
         {
@@ -6991,14 +7008,21 @@
           "away": "Morocco",
           "targetPts": 2,
           "rivalPts": 2
+        },
+        {
+          "id": 89,
+          "home": "Paraguay",
+          "away": "France",
+          "targetPts": 2,
+          "rivalPts": 2
         }
       ]
     },
     {
       "name": "Lorena Brofman",
-      "targetPts": 120,
+      "targetPts": 122,
       "rivalPts": 110,
-      "diff": 10,
+      "diff": 12,
       "byMatch": [
         {
           "id": 0,
@@ -7622,14 +7646,21 @@
           "away": "Morocco",
           "targetPts": 2,
           "rivalPts": 2
+        },
+        {
+          "id": 89,
+          "home": "Paraguay",
+          "away": "France",
+          "targetPts": 2,
+          "rivalPts": 0
         }
       ]
     },
     {
       "name": "Maayan Golan",
-      "targetPts": 120,
+      "targetPts": 122,
       "rivalPts": 106,
-      "diff": 14,
+      "diff": 16,
       "byMatch": [
         {
           "id": 0,
@@ -8251,6 +8282,13 @@
           "id": 88,
           "home": "Canada",
           "away": "Morocco",
+          "targetPts": 2,
+          "rivalPts": 0
+        },
+        {
+          "id": 89,
+          "home": "Paraguay",
+          "away": "France",
           "targetPts": 2,
           "rivalPts": 0
         }
@@ -8260,32 +8298,32 @@
   "validation": [
     {
       "name": "kevin",
-      "calcPts": 125,
-      "apiPts": 125,
+      "calcPts": 127,
+      "apiPts": 127,
       "calcExacts": 15,
       "apiExacts": 15,
       "ok": true
     },
     {
       "name": "sapir vabshet",
-      "calcPts": 125,
-      "apiPts": 125,
+      "calcPts": 127,
+      "apiPts": 127,
       "calcExacts": 13,
       "apiExacts": 13,
       "ok": true
     },
     {
       "name": "Gonzalo Aguiar",
-      "calcPts": 120,
-      "apiPts": 120,
+      "calcPts": 122,
+      "apiPts": 122,
       "calcExacts": 10,
       "apiExacts": 10,
       "ok": true
     },
     {
       "name": "thomas fridman",
-      "calcPts": 117,
-      "apiPts": 117,
+      "calcPts": 119,
+      "apiPts": 119,
       "calcExacts": 11,
       "apiExacts": 11,
       "ok": true
