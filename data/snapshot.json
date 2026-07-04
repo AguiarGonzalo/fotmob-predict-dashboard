@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T16:37:13.587Z",
+  "updatedAt": "2026-07-04T17:40:31.439Z",
   "league": {
     "id": 196754,
     "game": 772026,
@@ -4165,6 +4165,49 @@
           "ph": 2,
           "pa": 0,
           "pts": 2
+        }
+      }
+    },
+    {
+      "id": 88,
+      "matchId": "4653843",
+      "date": "2026-07-04T17:00:00.000Z",
+      "status": "upcoming",
+      "home": "Canada",
+      "away": "Morocco",
+      "homeEs": "Canadá",
+      "awayEs": "Marruecos",
+      "result": null,
+      "predictions": {
+        "kevin": {
+          "ph": 1,
+          "pa": 2,
+          "pts": null
+        },
+        "sapir vabshet": {
+          "ph": 1,
+          "pa": 2,
+          "pts": null
+        },
+        "Gonzalo Aguiar": {
+          "ph": 1,
+          "pa": 2,
+          "pts": null
+        },
+        "thomas fridman": {
+          "ph": 1,
+          "pa": 2,
+          "pts": null
+        },
+        "Lorena Brofman": {
+          "ph": 1,
+          "pa": 2,
+          "pts": null
+        },
+        "Maayan Golan": {
+          "ph": 2,
+          "pa": 2,
+          "pts": null
         }
       }
     }
