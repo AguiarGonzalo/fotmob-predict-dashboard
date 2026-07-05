@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T18:51:29.453Z",
+  "updatedAt": "2026-07-05T20:10:48.913Z",
   "league": {
     "id": 196754,
     "game": 772026,
@@ -4257,6 +4257,49 @@
           "ph": 1,
           "pa": 1,
           "pts": 0
+        }
+      }
+    },
+    {
+      "id": 90,
+      "matchId": "4653846",
+      "date": "2026-07-05T20:00:00.000Z",
+      "status": "upcoming",
+      "home": "Brazil",
+      "away": "Norway",
+      "homeEs": "Brasil",
+      "awayEs": "Noruega",
+      "result": null,
+      "predictions": {
+        "kevin": {
+          "ph": 2,
+          "pa": 1,
+          "pts": null
+        },
+        "sapir vabshet": {
+          "ph": 2,
+          "pa": 1,
+          "pts": null
+        },
+        "Gonzalo Aguiar": {
+          "ph": 2,
+          "pa": 1,
+          "pts": null
+        },
+        "thomas fridman": {
+          "ph": 2,
+          "pa": 1,
+          "pts": null
+        },
+        "Lorena Brofman": {
+          "ph": 3,
+          "pa": 1,
+          "pts": null
+        },
+        "Maayan Golan": {
+          "ph": null,
+          "pa": null,
+          "pts": null
         }
       }
     }
