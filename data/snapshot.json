@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T23:40:42.977Z",
+  "updatedAt": "2026-07-06T01:26:41.923Z",
   "league": {
     "id": 196754,
     "game": 772026,
@@ -4303,6 +4303,49 @@
           "ph": null,
           "pa": null,
           "pts": 0
+        }
+      }
+    },
+    {
+      "id": 91,
+      "matchId": "4653847",
+      "date": "2026-07-06T01:00:00.000Z",
+      "status": "upcoming",
+      "home": "Mexico",
+      "away": "England",
+      "homeEs": "México",
+      "awayEs": "Inglaterra",
+      "result": null,
+      "predictions": {
+        "kevin": {
+          "ph": 1,
+          "pa": 2,
+          "pts": null
+        },
+        "sapir vabshet": {
+          "ph": 1,
+          "pa": 1,
+          "pts": null
+        },
+        "Gonzalo Aguiar": {
+          "ph": 2,
+          "pa": 1,
+          "pts": null
+        },
+        "thomas fridman": {
+          "ph": 2,
+          "pa": 2,
+          "pts": null
+        },
+        "Lorena Brofman": {
+          "ph": 1,
+          "pa": 1,
+          "pts": null
+        },
+        "Maayan Golan": {
+          "ph": null,
+          "pa": null,
+          "pts": null
         }
       }
     }
