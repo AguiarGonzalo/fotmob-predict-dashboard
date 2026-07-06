@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T20:59:36.448Z",
+  "updatedAt": "2026-07-06T22:19:15.816Z",
   "league": {
     "id": 196754,
     "game": 772026,
@@ -12,7 +12,7 @@
     "miss": 0
   },
   "target": "Gonzalo Aguiar",
-  "finishedCount": 92,
+  "finishedCount": 93,
   "teamsEs": {
     "USA": "EE. UU.",
     "Australia": "Australia",
@@ -70,7 +70,7 @@
       "rank": 1,
       "points": 129,
       "exacts": 15,
-      "avg": 1.4,
+      "avg": 1.39,
       "isTarget": false
     },
     {
@@ -79,7 +79,7 @@
       "rank": 2,
       "points": 127,
       "exacts": 13,
-      "avg": 1.38,
+      "avg": 1.37,
       "isTarget": false
     },
     {
@@ -88,16 +88,16 @@
       "rank": 3,
       "points": 122,
       "exacts": 10,
-      "avg": 1.33,
+      "avg": 1.31,
       "isTarget": true
     },
     {
       "id": "2_108825978723927201255",
       "name": "thomas fridman",
       "rank": 4,
-      "points": 119,
+      "points": 121,
       "exacts": 11,
-      "avg": 1.29,
+      "avg": 1.3,
       "isTarget": false
     },
     {
@@ -106,16 +106,16 @@
       "rank": 5,
       "points": 110,
       "exacts": 8,
-      "avg": 1.2,
+      "avg": 1.18,
       "isTarget": false
     },
     {
       "id": "2_114073492760604569894",
       "name": "Maayan Golan",
       "rank": 6,
-      "points": 106,
+      "points": 108,
       "exacts": 8,
-      "avg": 1.15,
+      "avg": 1.16,
       "isTarget": false
     }
   ],
@@ -4356,42 +4356,45 @@
       "id": 92,
       "matchId": "4653844",
       "date": "2026-07-06T19:00:00.000Z",
-      "status": "upcoming",
+      "status": "finished",
       "home": "Portugal",
       "away": "Spain",
       "homeEs": "Portugal",
       "awayEs": "España",
-      "result": null,
+      "result": {
+        "h": 0,
+        "a": 1
+      },
       "predictions": {
         "kevin": {
           "ph": 1,
           "pa": 1,
-          "pts": null
+          "pts": 0
         },
         "sapir vabshet": {
           "ph": 1,
           "pa": 1,
-          "pts": null
+          "pts": 0
         },
         "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 1,
-          "pts": null
+          "pts": 0
         },
         "thomas fridman": {
           "ph": 1,
           "pa": 3,
-          "pts": null
+          "pts": 2
         },
         "Lorena Brofman": {
           "ph": 2,
           "pa": 2,
-          "pts": null
+          "pts": 0
         },
         "Maayan Golan": {
           "ph": 1,
           "pa": 2,
-          "pts": null
+          "pts": 2
         }
       }
     }
@@ -5292,7 +5295,7 @@
         },
         {
           "name": "thomas fridman",
-          "cum": 119,
+          "cum": 121,
           "pos": 4
         },
         {
@@ -5302,7 +5305,7 @@
         },
         {
           "name": "Maayan Golan",
-          "cum": 106,
+          "cum": 108,
           "pos": 6
         }
       ]
@@ -5958,6 +5961,13 @@
           "away": "England",
           "targetPts": 0,
           "rivalPts": 2
+        },
+        {
+          "id": 92,
+          "home": "Portugal",
+          "away": "Spain",
+          "targetPts": 0,
+          "rivalPts": 0
         }
       ]
     },
@@ -6610,14 +6620,21 @@
           "away": "England",
           "targetPts": 0,
           "rivalPts": 0
+        },
+        {
+          "id": 92,
+          "home": "Portugal",
+          "away": "Spain",
+          "targetPts": 0,
+          "rivalPts": 0
         }
       ]
     },
     {
       "name": "thomas fridman",
       "targetPts": 122,
-      "rivalPts": 119,
-      "diff": 3,
+      "rivalPts": 121,
+      "diff": 1,
       "byMatch": [
         {
           "id": 0,
@@ -7262,6 +7279,13 @@
           "away": "England",
           "targetPts": 0,
           "rivalPts": 0
+        },
+        {
+          "id": 92,
+          "home": "Portugal",
+          "away": "Spain",
+          "targetPts": 0,
+          "rivalPts": 2
         }
       ]
     },
@@ -7914,14 +7938,21 @@
           "away": "England",
           "targetPts": 0,
           "rivalPts": 0
+        },
+        {
+          "id": 92,
+          "home": "Portugal",
+          "away": "Spain",
+          "targetPts": 0,
+          "rivalPts": 0
         }
       ]
     },
     {
       "name": "Maayan Golan",
       "targetPts": 122,
-      "rivalPts": 106,
-      "diff": 16,
+      "rivalPts": 108,
+      "diff": 14,
       "byMatch": [
         {
           "id": 0,
@@ -8566,6 +8597,13 @@
           "away": "England",
           "targetPts": 0,
           "rivalPts": 0
+        },
+        {
+          "id": 92,
+          "home": "Portugal",
+          "away": "Spain",
+          "targetPts": 0,
+          "rivalPts": 2
         }
       ]
     }
@@ -8597,8 +8635,8 @@
     },
     {
       "name": "thomas fridman",
-      "calcPts": 119,
-      "apiPts": 119,
+      "calcPts": 121,
+      "apiPts": 121,
       "calcExacts": 11,
       "apiExacts": 11,
       "ok": true
@@ -8613,8 +8651,8 @@
     },
     {
       "name": "Maayan Golan",
-      "calcPts": 106,
-      "apiPts": 106,
+      "calcPts": 108,
+      "apiPts": 108,
       "calcExacts": 8,
       "apiExacts": 8,
       "ok": true
