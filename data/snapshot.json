@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T13:54:49.281Z",
+  "updatedAt": "2026-07-07T16:27:17.435Z",
   "league": {
     "id": 196754,
     "game": 772026,
@@ -4441,6 +4441,49 @@
           "ph": 2,
           "pa": 1,
           "pts": 0
+        }
+      }
+    },
+    {
+      "id": 94,
+      "matchId": "4653848",
+      "date": "2026-07-07T16:00:00.000Z",
+      "status": "upcoming",
+      "home": "Argentina",
+      "away": "Egypt",
+      "homeEs": "Argentina",
+      "awayEs": "Egipto",
+      "result": null,
+      "predictions": {
+        "kevin": {
+          "ph": 3,
+          "pa": 0,
+          "pts": null
+        },
+        "sapir vabshet": {
+          "ph": 2,
+          "pa": 1,
+          "pts": null
+        },
+        "Gonzalo Aguiar": {
+          "ph": 2,
+          "pa": 0,
+          "pts": null
+        },
+        "thomas fridman": {
+          "ph": 2,
+          "pa": 0,
+          "pts": null
+        },
+        "Lorena Brofman": {
+          "ph": 2,
+          "pa": 0,
+          "pts": null
+        },
+        "Maayan Golan": {
+          "ph": 3,
+          "pa": 0,
+          "pts": null
         }
       }
     }
