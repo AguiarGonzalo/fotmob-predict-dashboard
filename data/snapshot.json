@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T23:34:03.759Z",
+  "updatedAt": "2026-07-07T01:20:58.160Z",
   "league": {
     "id": 196754,
     "game": 772026,
@@ -4395,6 +4395,49 @@
           "ph": 1,
           "pa": 2,
           "pts": 2
+        }
+      }
+    },
+    {
+      "id": 93,
+      "matchId": "4653845",
+      "date": "2026-07-07T00:00:00.000Z",
+      "status": "upcoming",
+      "home": "USA",
+      "away": "Belgium",
+      "homeEs": "EE. UU.",
+      "awayEs": "Bélgica",
+      "result": null,
+      "predictions": {
+        "kevin": {
+          "ph": 2,
+          "pa": 1,
+          "pts": null
+        },
+        "sapir vabshet": {
+          "ph": 1,
+          "pa": 0,
+          "pts": null
+        },
+        "Gonzalo Aguiar": {
+          "ph": 1,
+          "pa": 2,
+          "pts": null
+        },
+        "thomas fridman": {
+          "ph": 1,
+          "pa": 1,
+          "pts": null
+        },
+        "Lorena Brofman": {
+          "ph": 1,
+          "pa": 0,
+          "pts": null
+        },
+        "Maayan Golan": {
+          "ph": 2,
+          "pa": 1,
+          "pts": null
         }
       }
     }
