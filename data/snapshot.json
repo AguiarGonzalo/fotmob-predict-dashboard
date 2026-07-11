@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T20:25:59.089Z",
+  "updatedAt": "2026-07-11T21:14:17.542Z",
   "league": {
     "id": 196754,
     "game": 772026,
@@ -4625,6 +4625,49 @@
           "ph": null,
           "pa": null,
           "pts": 0
+        }
+      }
+    },
+    {
+      "id": 98,
+      "matchId": "4653852",
+      "date": "2026-07-11T21:00:00.000Z",
+      "status": "upcoming",
+      "home": "Norway",
+      "away": "England",
+      "homeEs": "Noruega",
+      "awayEs": "Inglaterra",
+      "result": null,
+      "predictions": {
+        "kevin": {
+          "ph": 1,
+          "pa": 1,
+          "pts": null
+        },
+        "sapir vabshet": {
+          "ph": 1,
+          "pa": 2,
+          "pts": null
+        },
+        "Gonzalo Aguiar": {
+          "ph": 1,
+          "pa": 1,
+          "pts": null
+        },
+        "thomas fridman": {
+          "ph": 1,
+          "pa": 1,
+          "pts": null
+        },
+        "Lorena Brofman": {
+          "ph": 1,
+          "pa": 2,
+          "pts": null
+        },
+        "Maayan Golan": {
+          "ph": 2,
+          "pa": 1,
+          "pts": null
         }
       }
     }
