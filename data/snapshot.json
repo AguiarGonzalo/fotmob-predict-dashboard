@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T19:58:14.407Z",
+  "updatedAt": "2026-07-14T21:02:48.175Z",
   "league": {
     "id": 196754,
     "game": 772026,
@@ -12,7 +12,7 @@
     "miss": 0
   },
   "target": "Gonzalo Aguiar",
-  "finishedCount": 100,
+  "finishedCount": 101,
   "teamsEs": {
     "USA": "EE. UU.",
     "Australia": "Australia",
@@ -70,7 +70,7 @@
       "rank": 1,
       "points": 138,
       "exacts": 16,
-      "avg": 1.38,
+      "avg": 1.37,
       "isTarget": false
     },
     {
@@ -79,7 +79,7 @@
       "rank": 2,
       "points": 131,
       "exacts": 13,
-      "avg": 1.31,
+      "avg": 1.3,
       "isTarget": false
     },
     {
@@ -88,7 +88,7 @@
       "rank": 3,
       "points": 131,
       "exacts": 11,
-      "avg": 1.31,
+      "avg": 1.3,
       "isTarget": true
     },
     {
@@ -97,7 +97,7 @@
       "rank": 4,
       "points": 128,
       "exacts": 12,
-      "avg": 1.28,
+      "avg": 1.27,
       "isTarget": false
     },
     {
@@ -106,7 +106,7 @@
       "rank": 5,
       "points": 115,
       "exacts": 9,
-      "avg": 1.15,
+      "avg": 1.14,
       "isTarget": false
     },
     {
@@ -115,7 +115,7 @@
       "rank": 6,
       "points": 112,
       "exacts": 8,
-      "avg": 1.12,
+      "avg": 1.11,
       "isTarget": false
     }
   ],
@@ -4724,42 +4724,45 @@
       "id": 100,
       "matchId": "4653855",
       "date": "2026-07-14T19:00:00.000Z",
-      "status": "upcoming",
+      "status": "finished",
       "home": "France",
       "away": "Spain",
       "homeEs": "Francia",
       "awayEs": "España",
-      "result": null,
+      "result": {
+        "h": 0,
+        "a": 2
+      },
       "predictions": {
         "kevin": {
           "ph": 1,
           "pa": 0,
-          "pts": null
+          "pts": 0
         },
         "sapir vabshet": {
           "ph": 1,
           "pa": 1,
-          "pts": null
+          "pts": 0
         },
         "Gonzalo Aguiar": {
           "ph": null,
           "pa": null,
-          "pts": null
+          "pts": 0
         },
         "thomas fridman": {
           "ph": 1,
           "pa": 1,
-          "pts": null
+          "pts": 0
         },
         "Lorena Brofman": {
           "ph": 2,
           "pa": 2,
-          "pts": null
+          "pts": 0
         },
         "Maayan Golan": {
           "ph": 2,
           "pa": 0,
-          "pts": null
+          "pts": 0
         }
       }
     }
@@ -5849,6 +5852,41 @@
           "pos": 6
         }
       ]
+    },
+    {
+      "date": "2026-07-14",
+      "ranking": [
+        {
+          "name": "kevin",
+          "cum": 138,
+          "pos": 1
+        },
+        {
+          "name": "sapir vabshet",
+          "cum": 131,
+          "pos": 2
+        },
+        {
+          "name": "Gonzalo Aguiar",
+          "cum": 131,
+          "pos": 3
+        },
+        {
+          "name": "thomas fridman",
+          "cum": 128,
+          "pos": 4
+        },
+        {
+          "name": "Lorena Brofman",
+          "cum": 115,
+          "pos": 5
+        },
+        {
+          "name": "Maayan Golan",
+          "cum": 112,
+          "pos": 6
+        }
+      ]
     }
   ],
   "headToHead": [
@@ -6555,6 +6593,13 @@
           "id": 99,
           "home": "Argentina",
           "away": "Switzerland",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 100,
+          "home": "France",
+          "away": "Spain",
           "targetPts": 0,
           "rivalPts": 0
         }
@@ -7265,6 +7310,13 @@
           "away": "Switzerland",
           "targetPts": 0,
           "rivalPts": 0
+        },
+        {
+          "id": 100,
+          "home": "France",
+          "away": "Spain",
+          "targetPts": 0,
+          "rivalPts": 0
         }
       ]
     },
@@ -7971,6 +8023,13 @@
           "id": 99,
           "home": "Argentina",
           "away": "Switzerland",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 100,
+          "home": "France",
+          "away": "Spain",
           "targetPts": 0,
           "rivalPts": 0
         }
@@ -8681,6 +8740,13 @@
           "away": "Switzerland",
           "targetPts": 0,
           "rivalPts": 0
+        },
+        {
+          "id": 100,
+          "home": "France",
+          "away": "Spain",
+          "targetPts": 0,
+          "rivalPts": 0
         }
       ]
     },
@@ -9387,6 +9453,13 @@
           "id": 99,
           "home": "Argentina",
           "away": "Switzerland",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 100,
+          "home": "France",
+          "away": "Spain",
           "targetPts": 0,
           "rivalPts": 0
         }
