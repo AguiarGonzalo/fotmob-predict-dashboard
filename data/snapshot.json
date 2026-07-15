@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T19:56:12.727Z",
+  "updatedAt": "2026-07-15T22:02:13.376Z",
   "league": {
     "id": 196754,
     "game": 772026,
@@ -12,7 +12,7 @@
     "miss": 0
   },
   "target": "Gonzalo Aguiar",
-  "finishedCount": 101,
+  "finishedCount": 102,
   "teamsEs": {
     "USA": "EE. UU.",
     "Australia": "Australia",
@@ -68,34 +68,34 @@
       "id": "2_100513976122918931166",
       "name": "kevin",
       "rank": 1,
-      "points": 138,
+      "points": 140,
       "exacts": 16,
       "avg": 1.37,
       "isTarget": false
     },
     {
-      "id": "2_110807909424767304523",
-      "name": "sapir vabshet",
-      "rank": 2,
-      "points": 131,
-      "exacts": 13,
-      "avg": 1.3,
-      "isTarget": false
-    },
-    {
       "id": "2_112563509372036390748",
       "name": "Gonzalo Aguiar",
-      "rank": 3,
-      "points": 131,
+      "rank": 2,
+      "points": 133,
       "exacts": 11,
       "avg": 1.3,
       "isTarget": true
     },
     {
+      "id": "2_110807909424767304523",
+      "name": "sapir vabshet",
+      "rank": 3,
+      "points": 131,
+      "exacts": 13,
+      "avg": 1.28,
+      "isTarget": false
+    },
+    {
       "id": "2_108825978723927201255",
       "name": "thomas fridman",
       "rank": 4,
-      "points": 128,
+      "points": 130,
       "exacts": 12,
       "avg": 1.27,
       "isTarget": false
@@ -104,18 +104,18 @@
       "id": "2_109384509403978234765",
       "name": "Lorena Brofman",
       "rank": 5,
-      "points": 115,
+      "points": 117,
       "exacts": 9,
-      "avg": 1.14,
+      "avg": 1.15,
       "isTarget": false
     },
     {
       "id": "2_114073492760604569894",
       "name": "Maayan Golan",
       "rank": 6,
-      "points": 112,
+      "points": 114,
       "exacts": 8,
-      "avg": 1.11,
+      "avg": 1.12,
       "isTarget": false
     }
   ],
@@ -139,15 +139,15 @@
           "pa": 0,
           "pts": 2
         },
-        "sapir vabshet": {
-          "ph": null,
-          "pa": null,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 0,
           "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
           "ph": 2,
@@ -185,15 +185,15 @@
           "pa": 0,
           "pts": 2
         },
-        "sapir vabshet": {
-          "ph": 0,
-          "pa": 0,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 0,
           "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": 0,
+          "pa": 0,
+          "pts": 0
         },
         "thomas fridman": {
           "ph": 2,
@@ -231,14 +231,14 @@
           "pa": 1,
           "pts": 3
         },
-        "sapir vabshet": {
-          "ph": 1,
-          "pa": 0,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 3,
           "pa": 1,
+          "pts": 0
+        },
+        "sapir vabshet": {
+          "ph": 1,
+          "pa": 0,
           "pts": 0
         },
         "thomas fridman": {
@@ -277,15 +277,15 @@
           "pa": 0,
           "pts": 2
         },
-        "sapir vabshet": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 1,
           "pts": 0
+        },
+        "sapir vabshet": {
+          "ph": 2,
+          "pa": 0,
+          "pts": 2
         },
         "thomas fridman": {
           "ph": 1,
@@ -323,12 +323,12 @@
           "pa": 3,
           "pts": 0
         },
-        "sapir vabshet": {
+        "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 2,
           "pts": 0
         },
-        "Gonzalo Aguiar": {
+        "sapir vabshet": {
           "ph": 0,
           "pa": 2,
           "pts": 0
@@ -369,13 +369,13 @@
           "pa": 1,
           "pts": 3
         },
-        "sapir vabshet": {
-          "ph": 2,
+        "Gonzalo Aguiar": {
+          "ph": 3,
           "pa": 0,
           "pts": 0
         },
-        "Gonzalo Aguiar": {
-          "ph": 3,
+        "sapir vabshet": {
+          "ph": 2,
           "pa": 0,
           "pts": 0
         },
@@ -415,15 +415,15 @@
           "pa": 2,
           "pts": 2
         },
-        "sapir vabshet": {
-          "ph": 0,
-          "pa": 1,
-          "pts": 3
-        },
         "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 2,
           "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": 0,
+          "pa": 1,
+          "pts": 3
         },
         "thomas fridman": {
           "ph": 0,
@@ -461,14 +461,14 @@
           "pa": 1,
           "pts": 0
         },
-        "sapir vabshet": {
-          "ph": 0,
-          "pa": 0,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 2,
+          "pts": 0
+        },
+        "sapir vabshet": {
+          "ph": 0,
+          "pa": 0,
           "pts": 0
         },
         "thomas fridman": {
@@ -507,13 +507,13 @@
           "pa": 0,
           "pts": 2
         },
-        "sapir vabshet": {
-          "ph": 3,
+        "Gonzalo Aguiar": {
+          "ph": 5,
           "pa": 0,
           "pts": 2
         },
-        "Gonzalo Aguiar": {
-          "ph": 5,
+        "sapir vabshet": {
+          "ph": 3,
           "pa": 0,
           "pts": 2
         },
@@ -553,15 +553,15 @@
           "pa": 1,
           "pts": 0
         },
-        "sapir vabshet": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 1,
           "pts": 0
+        },
+        "sapir vabshet": {
+          "ph": 1,
+          "pa": 1,
+          "pts": 2
         },
         "thomas fridman": {
           "ph": 2,
@@ -599,12 +599,12 @@
           "pa": 0,
           "pts": 3
         },
-        "sapir vabshet": {
+        "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 1,
           "pts": 0
         },
-        "Gonzalo Aguiar": {
+        "sapir vabshet": {
           "ph": 0,
           "pa": 1,
           "pts": 0
@@ -645,14 +645,14 @@
           "pa": 1,
           "pts": 2
         },
-        "sapir vabshet": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 0,
+          "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": 2,
+          "pa": 1,
           "pts": 2
         },
         "thomas fridman": {
@@ -691,13 +691,13 @@
           "pa": 0,
           "pts": 0
         },
-        "sapir vabshet": {
-          "ph": 2,
+        "Gonzalo Aguiar": {
+          "ph": 3,
           "pa": 0,
           "pts": 0
         },
-        "Gonzalo Aguiar": {
-          "ph": 3,
+        "sapir vabshet": {
+          "ph": 2,
           "pa": 0,
           "pts": 0
         },
@@ -737,14 +737,14 @@
           "pa": 1,
           "pts": 0
         },
-        "sapir vabshet": {
-          "ph": 1,
-          "pa": 0,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 1,
+          "pts": 0
+        },
+        "sapir vabshet": {
+          "ph": 1,
+          "pa": 0,
           "pts": 0
         },
         "thomas fridman": {
@@ -783,15 +783,15 @@
           "pa": 1,
           "pts": 0
         },
-        "sapir vabshet": {
-          "ph": 1,
-          "pa": 3,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 1,
           "pts": 3
+        },
+        "sapir vabshet": {
+          "ph": 1,
+          "pa": 3,
+          "pts": 0
         },
         "thomas fridman": {
           "ph": 0,
@@ -829,15 +829,15 @@
           "pa": 1,
           "pts": 0
         },
-        "sapir vabshet": {
-          "ph": 0,
-          "pa": 0,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 0,
           "pts": 0
+        },
+        "sapir vabshet": {
+          "ph": 0,
+          "pa": 0,
+          "pts": 2
         },
         "thomas fridman": {
           "ph": 1,
@@ -875,15 +875,15 @@
           "pa": 0,
           "pts": 2
         },
-        "sapir vabshet": {
-          "ph": 3,
-          "pa": 1,
-          "pts": 3
-        },
         "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 0,
           "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": 3,
+          "pa": 1,
+          "pts": 3
         },
         "thomas fridman": {
           "ph": 3,
@@ -921,12 +921,12 @@
           "pa": 2,
           "pts": 2
         },
-        "sapir vabshet": {
+        "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 3,
           "pts": 2
         },
-        "Gonzalo Aguiar": {
+        "sapir vabshet": {
           "ph": 0,
           "pa": 3,
           "pts": 2
@@ -967,13 +967,13 @@
           "pa": 1,
           "pts": 2
         },
-        "sapir vabshet": {
-          "ph": 2,
+        "Gonzalo Aguiar": {
+          "ph": 4,
           "pa": 1,
           "pts": 2
         },
-        "Gonzalo Aguiar": {
-          "ph": 4,
+        "sapir vabshet": {
+          "ph": 2,
           "pa": 1,
           "pts": 2
         },
@@ -1013,12 +1013,12 @@
           "pa": 0,
           "pts": 2
         },
-        "sapir vabshet": {
+        "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 0,
           "pts": 2
         },
-        "Gonzalo Aguiar": {
+        "sapir vabshet": {
           "ph": 2,
           "pa": 0,
           "pts": 2
@@ -1059,14 +1059,14 @@
           "pa": 0,
           "pts": 0
         },
-        "sapir vabshet": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 4,
           "pa": 0,
+          "pts": 0
+        },
+        "sapir vabshet": {
+          "ph": 2,
+          "pa": 1,
           "pts": 0
         },
         "thomas fridman": {
@@ -1105,15 +1105,15 @@
           "pa": 1,
           "pts": 0
         },
-        "sapir vabshet": {
-          "ph": 0,
-          "pa": 1,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 1,
           "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": 0,
+          "pa": 1,
+          "pts": 0
         },
         "thomas fridman": {
           "ph": 1,
@@ -1151,14 +1151,14 @@
           "pa": 1,
           "pts": 0
         },
-        "sapir vabshet": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 2,
+          "pts": 0
+        },
+        "sapir vabshet": {
+          "ph": 1,
+          "pa": 1,
           "pts": 0
         },
         "thomas fridman": {
@@ -1197,12 +1197,12 @@
           "pa": 2,
           "pts": 2
         },
-        "sapir vabshet": {
+        "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 2,
           "pts": 2
         },
-        "Gonzalo Aguiar": {
+        "sapir vabshet": {
           "ph": 0,
           "pa": 2,
           "pts": 2
@@ -1243,15 +1243,15 @@
           "pa": 1,
           "pts": 3
         },
-        "sapir vabshet": {
-          "ph": 0,
-          "pa": 0,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 0,
           "pts": 0
+        },
+        "sapir vabshet": {
+          "ph": 0,
+          "pa": 0,
+          "pts": 2
         },
         "thomas fridman": {
           "ph": 2,
@@ -1289,14 +1289,14 @@
           "pa": 1,
           "pts": 0
         },
-        "sapir vabshet": {
-          "ph": null,
-          "pa": null,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 2,
+          "pts": 0
+        },
+        "sapir vabshet": {
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "thomas fridman": {
@@ -1335,12 +1335,12 @@
           "pa": 1,
           "pts": 2
         },
-        "sapir vabshet": {
+        "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 1,
           "pts": 2
         },
-        "Gonzalo Aguiar": {
+        "sapir vabshet": {
           "ph": 2,
           "pa": 1,
           "pts": 2
@@ -1381,15 +1381,15 @@
           "pa": 0,
           "pts": 2
         },
-        "sapir vabshet": {
-          "ph": 1,
-          "pa": 0,
-          "pts": 3
-        },
         "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 1,
           "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": 1,
+          "pa": 0,
+          "pts": 3
         },
         "thomas fridman": {
           "ph": 1,
@@ -1427,15 +1427,15 @@
           "pa": 0,
           "pts": 3
         },
-        "sapir vabshet": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 3,
           "pa": 1,
           "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": 1,
+          "pa": 1,
+          "pts": 0
         },
         "thomas fridman": {
           "ph": 2,
@@ -1473,15 +1473,15 @@
           "pa": 1,
           "pts": 3
         },
-        "sapir vabshet": {
-          "ph": 0,
-          "pa": 1,
-          "pts": 3
-        },
         "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 2,
           "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": 0,
+          "pa": 1,
+          "pts": 3
         },
         "thomas fridman": {
           "ph": 1,
@@ -1519,14 +1519,14 @@
           "pa": 0,
           "pts": 2
         },
-        "sapir vabshet": {
-          "ph": 3,
-          "pa": 1,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 4,
           "pa": 0,
+          "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": 3,
+          "pa": 1,
           "pts": 2
         },
         "thomas fridman": {
@@ -1565,14 +1565,14 @@
           "pa": 1,
           "pts": 0
         },
-        "sapir vabshet": {
-          "ph": 1,
-          "pa": 0,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 1,
+          "pts": 0
+        },
+        "sapir vabshet": {
+          "ph": 1,
+          "pa": 0,
           "pts": 0
         },
         "thomas fridman": {
@@ -1611,14 +1611,14 @@
           "pa": 0,
           "pts": 2
         },
-        "sapir vabshet": {
-          "ph": 1,
-          "pa": 0,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 1,
+          "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": 1,
+          "pa": 0,
           "pts": 2
         },
         "thomas fridman": {
@@ -1657,13 +1657,13 @@
           "pa": 1,
           "pts": 2
         },
-        "sapir vabshet": {
-          "ph": 2,
+        "Gonzalo Aguiar": {
+          "ph": 3,
           "pa": 0,
           "pts": 2
         },
-        "Gonzalo Aguiar": {
-          "ph": 3,
+        "sapir vabshet": {
+          "ph": 2,
           "pa": 0,
           "pts": 2
         },
@@ -1703,12 +1703,12 @@
           "pa": 0,
           "pts": 0
         },
-        "sapir vabshet": {
+        "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 0,
           "pts": 0
         },
-        "Gonzalo Aguiar": {
+        "sapir vabshet": {
           "ph": 2,
           "pa": 0,
           "pts": 0
@@ -1749,14 +1749,14 @@
           "pa": 2,
           "pts": 2
         },
-        "sapir vabshet": {
-          "ph": 0,
-          "pa": 1,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 2,
+          "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": 0,
+          "pa": 1,
           "pts": 2
         },
         "thomas fridman": {
@@ -1795,14 +1795,14 @@
           "pa": 0,
           "pts": 2
         },
-        "sapir vabshet": {
-          "ph": 3,
-          "pa": 0,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 3,
           "pa": 1,
+          "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": 3,
+          "pa": 0,
           "pts": 2
         },
         "thomas fridman": {
@@ -1841,14 +1841,14 @@
           "pa": 0,
           "pts": 0
         },
-        "sapir vabshet": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 0,
+          "pts": 0
+        },
+        "sapir vabshet": {
+          "ph": 2,
+          "pa": 1,
           "pts": 0
         },
         "thomas fridman": {
@@ -1887,14 +1887,14 @@
           "pa": 0,
           "pts": 0
         },
-        "sapir vabshet": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 0,
+          "pts": 0
+        },
+        "sapir vabshet": {
+          "ph": 2,
+          "pa": 1,
           "pts": 0
         },
         "thomas fridman": {
@@ -1933,15 +1933,15 @@
           "pa": 1,
           "pts": 0
         },
-        "sapir vabshet": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 2,
           "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": 1,
+          "pa": 1,
+          "pts": 0
         },
         "thomas fridman": {
           "ph": 1,
@@ -1979,14 +1979,14 @@
           "pa": 0,
           "pts": 3
         },
-        "sapir vabshet": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 4,
           "pa": 0,
+          "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": 2,
+          "pa": 1,
           "pts": 2
         },
         "thomas fridman": {
@@ -2025,15 +2025,15 @@
           "pa": 0,
           "pts": 2
         },
-        "sapir vabshet": {
-          "ph": 4,
-          "pa": 0,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 3,
           "pa": 0,
           "pts": 3
+        },
+        "sapir vabshet": {
+          "ph": 4,
+          "pa": 0,
+          "pts": 2
         },
         "thomas fridman": {
           "ph": 5,
@@ -2071,15 +2071,15 @@
           "pa": 1,
           "pts": 2
         },
-        "sapir vabshet": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 1,
           "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": 1,
+          "pa": 1,
+          "pts": 0
         },
         "thomas fridman": {
           "ph": 3,
@@ -2117,15 +2117,15 @@
           "pa": 2,
           "pts": 3
         },
-        "sapir vabshet": {
-          "ph": null,
-          "pa": null,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 2,
           "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
           "ph": 0,
@@ -2163,13 +2163,13 @@
           "pa": 0,
           "pts": 2
         },
-        "sapir vabshet": {
-          "ph": 2,
+        "Gonzalo Aguiar": {
+          "ph": 3,
           "pa": 0,
           "pts": 2
         },
-        "Gonzalo Aguiar": {
-          "ph": 3,
+        "sapir vabshet": {
+          "ph": 2,
           "pa": 0,
           "pts": 2
         },
@@ -2209,13 +2209,13 @@
           "pa": 0,
           "pts": 0
         },
-        "sapir vabshet": {
-          "ph": 1,
+        "Gonzalo Aguiar": {
+          "ph": 2,
           "pa": 0,
           "pts": 0
         },
-        "Gonzalo Aguiar": {
-          "ph": 2,
+        "sapir vabshet": {
+          "ph": 1,
           "pa": 0,
           "pts": 0
         },
@@ -2255,15 +2255,15 @@
           "pa": 2,
           "pts": 2
         },
-        "sapir vabshet": {
-          "ph": 0,
-          "pa": 1,
-          "pts": 3
-        },
         "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 2,
           "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": 0,
+          "pa": 1,
+          "pts": 3
         },
         "thomas fridman": {
           "ph": 1,
@@ -2301,15 +2301,15 @@
           "pa": 0,
           "pts": 3
         },
-        "sapir vabshet": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 0,
           "pts": 3
+        },
+        "sapir vabshet": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 2
         },
         "thomas fridman": {
           "ph": 2,
@@ -2347,14 +2347,14 @@
           "pa": 1,
           "pts": 0
         },
-        "sapir vabshet": {
-          "ph": 0,
-          "pa": 0,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 1,
+          "pts": 0
+        },
+        "sapir vabshet": {
+          "ph": 0,
+          "pa": 0,
           "pts": 0
         },
         "thomas fridman": {
@@ -2393,14 +2393,14 @@
           "pa": 1,
           "pts": 2
         },
-        "sapir vabshet": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 0,
+          "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": 2,
+          "pa": 1,
           "pts": 2
         },
         "thomas fridman": {
@@ -2439,15 +2439,15 @@
           "pa": 4,
           "pts": 2
         },
-        "sapir vabshet": {
-          "ph": 1,
-          "pa": 3,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 3,
           "pts": 3
+        },
+        "sapir vabshet": {
+          "ph": 1,
+          "pa": 3,
+          "pts": 2
         },
         "thomas fridman": {
           "ph": 1,
@@ -2485,12 +2485,12 @@
           "pa": 0,
           "pts": 2
         },
-        "sapir vabshet": {
+        "Gonzalo Aguiar": {
           "ph": 3,
           "pa": 0,
           "pts": 2
         },
-        "Gonzalo Aguiar": {
+        "sapir vabshet": {
           "ph": 3,
           "pa": 0,
           "pts": 2
@@ -2531,14 +2531,14 @@
           "pa": 1,
           "pts": 0
         },
-        "sapir vabshet": {
-          "ph": 0,
-          "pa": 1,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 2,
+          "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": 0,
+          "pa": 1,
           "pts": 2
         },
         "thomas fridman": {
@@ -2577,12 +2577,12 @@
           "pa": 1,
           "pts": 2
         },
-        "sapir vabshet": {
+        "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 1,
           "pts": 0
         },
-        "Gonzalo Aguiar": {
+        "sapir vabshet": {
           "ph": 0,
           "pa": 1,
           "pts": 0
@@ -2623,14 +2623,14 @@
           "pa": 2,
           "pts": 0
         },
-        "sapir vabshet": {
-          "ph": 1,
-          "pa": 2,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 4,
+          "pts": 0
+        },
+        "sapir vabshet": {
+          "ph": 1,
+          "pa": 2,
           "pts": 0
         },
         "thomas fridman": {
@@ -2669,14 +2669,14 @@
           "pa": 2,
           "pts": 3
         },
-        "sapir vabshet": {
-          "ph": 0,
-          "pa": 3,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 1,
+          "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": 0,
+          "pa": 3,
           "pts": 2
         },
         "thomas fridman": {
@@ -2715,14 +2715,14 @@
           "pa": 2,
           "pts": 2
         },
-        "sapir vabshet": {
-          "ph": 0,
-          "pa": 3,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 2,
+          "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": 0,
+          "pa": 3,
           "pts": 2
         },
         "thomas fridman": {
@@ -2761,15 +2761,15 @@
           "pa": 2,
           "pts": 2
         },
-        "sapir vabshet": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 3
-        },
         "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 1,
           "pts": 0
+        },
+        "sapir vabshet": {
+          "ph": 1,
+          "pa": 1,
+          "pts": 3
         },
         "thomas fridman": {
           "ph": 1,
@@ -2807,14 +2807,14 @@
           "pa": 2,
           "pts": 0
         },
-        "sapir vabshet": {
-          "ph": 0,
-          "pa": 1,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 2,
+          "pts": 0
+        },
+        "sapir vabshet": {
+          "ph": 0,
+          "pa": 1,
           "pts": 0
         },
         "thomas fridman": {
@@ -2853,12 +2853,12 @@
           "pa": 1,
           "pts": 0
         },
-        "sapir vabshet": {
+        "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 1,
           "pts": 2
         },
-        "Gonzalo Aguiar": {
+        "sapir vabshet": {
           "ph": 1,
           "pa": 1,
           "pts": 2
@@ -2899,14 +2899,14 @@
           "pa": 3,
           "pts": 2
         },
-        "sapir vabshet": {
-          "ph": 1,
-          "pa": 3,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 2,
+          "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": 1,
+          "pa": 3,
           "pts": 2
         },
         "thomas fridman": {
@@ -2945,12 +2945,12 @@
           "pa": 1,
           "pts": 2
         },
-        "sapir vabshet": {
+        "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 0,
           "pts": 2
         },
-        "Gonzalo Aguiar": {
+        "sapir vabshet": {
           "ph": 2,
           "pa": 0,
           "pts": 2
@@ -2991,12 +2991,12 @@
           "pa": 2,
           "pts": 2
         },
-        "sapir vabshet": {
+        "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 2,
           "pts": 2
         },
-        "Gonzalo Aguiar": {
+        "sapir vabshet": {
           "ph": 1,
           "pa": 2,
           "pts": 2
@@ -3037,14 +3037,14 @@
           "pa": 2,
           "pts": 0
         },
-        "sapir vabshet": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 2,
+          "pts": 0
+        },
+        "sapir vabshet": {
+          "ph": 2,
+          "pa": 0,
           "pts": 0
         },
         "thomas fridman": {
@@ -3083,14 +3083,14 @@
           "pa": 2,
           "pts": 2
         },
-        "sapir vabshet": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 1,
+          "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": 0,
+          "pa": 2,
           "pts": 2
         },
         "thomas fridman": {
@@ -3129,14 +3129,14 @@
           "pa": 0,
           "pts": 0
         },
-        "sapir vabshet": {
-          "ph": 1,
-          "pa": 0,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 1,
+          "pts": 0
+        },
+        "sapir vabshet": {
+          "ph": 1,
+          "pa": 0,
           "pts": 0
         },
         "thomas fridman": {
@@ -3175,12 +3175,12 @@
           "pa": 2,
           "pts": 3
         },
-        "sapir vabshet": {
+        "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 2,
           "pts": 3
         },
-        "Gonzalo Aguiar": {
+        "sapir vabshet": {
           "ph": 0,
           "pa": 2,
           "pts": 3
@@ -3221,15 +3221,15 @@
           "pa": 0,
           "pts": 2
         },
-        "sapir vabshet": {
-          "ph": 1,
-          "pa": 0,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 1,
           "pts": 3
+        },
+        "sapir vabshet": {
+          "ph": 1,
+          "pa": 0,
+          "pts": 2
         },
         "thomas fridman": {
           "ph": 1,
@@ -3267,13 +3267,13 @@
           "pa": 1,
           "pts": 0
         },
-        "sapir vabshet": {
-          "ph": 0,
+        "Gonzalo Aguiar": {
+          "ph": 1,
           "pa": 2,
           "pts": 0
         },
-        "Gonzalo Aguiar": {
-          "ph": 1,
+        "sapir vabshet": {
+          "ph": 0,
           "pa": 2,
           "pts": 0
         },
@@ -3313,12 +3313,12 @@
           "pa": 0,
           "pts": 2
         },
-        "sapir vabshet": {
+        "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 1,
           "pts": 2
         },
-        "Gonzalo Aguiar": {
+        "sapir vabshet": {
           "ph": 2,
           "pa": 1,
           "pts": 2
@@ -3359,14 +3359,14 @@
           "pa": 3,
           "pts": 3
         },
-        "sapir vabshet": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 3,
+          "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": 0,
+          "pa": 2,
           "pts": 2
         },
         "thomas fridman": {
@@ -3405,14 +3405,14 @@
           "pa": 1,
           "pts": 0
         },
-        "sapir vabshet": {
-          "ph": 0,
-          "pa": 0,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 1,
+          "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": 0,
+          "pa": 0,
           "pts": 2
         },
         "thomas fridman": {
@@ -3451,15 +3451,15 @@
           "pa": 1,
           "pts": 3
         },
-        "sapir vabshet": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 1,
           "pts": 0
+        },
+        "sapir vabshet": {
+          "ph": 0,
+          "pa": 2,
+          "pts": 2
         },
         "thomas fridman": {
           "ph": 0,
@@ -3497,15 +3497,15 @@
           "pa": 1,
           "pts": 0
         },
-        "sapir vabshet": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 3
-        },
         "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 1,
           "pts": 0
+        },
+        "sapir vabshet": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 3
         },
         "thomas fridman": {
           "ph": 1,
@@ -3543,14 +3543,14 @@
           "pa": 0,
           "pts": 0
         },
-        "sapir vabshet": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 1,
+          "pts": 0
+        },
+        "sapir vabshet": {
+          "ph": 2,
+          "pa": 0,
           "pts": 0
         },
         "thomas fridman": {
@@ -3589,12 +3589,12 @@
           "pa": 0,
           "pts": 0
         },
-        "sapir vabshet": {
+        "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 1,
           "pts": 3
         },
-        "Gonzalo Aguiar": {
+        "sapir vabshet": {
           "ph": 1,
           "pa": 1,
           "pts": 3
@@ -3635,15 +3635,15 @@
           "pa": 1,
           "pts": 0
         },
-        "sapir vabshet": {
-          "ph": 1,
-          "pa": 2,
-          "pts": 3
-        },
         "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 2,
           "pts": 0
+        },
+        "sapir vabshet": {
+          "ph": 1,
+          "pa": 2,
+          "pts": 3
         },
         "thomas fridman": {
           "ph": 0,
@@ -3681,14 +3681,14 @@
           "pa": 1,
           "pts": 2
         },
-        "sapir vabshet": {
-          "ph": 4,
-          "pa": 0,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 3,
           "pa": 1,
+          "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": 4,
+          "pa": 0,
           "pts": 2
         },
         "thomas fridman": {
@@ -3727,15 +3727,15 @@
           "pa": 0,
           "pts": 2
         },
-        "sapir vabshet": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 2,
           "pts": 0
+        },
+        "sapir vabshet": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 2
         },
         "thomas fridman": {
           "ph": 1,
@@ -3773,14 +3773,14 @@
           "pa": 1,
           "pts": 3
         },
-        "sapir vabshet": {
-          "ph": 3,
-          "pa": 1,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 0,
+          "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": 3,
+          "pa": 1,
           "pts": 2
         },
         "thomas fridman": {
@@ -3819,15 +3819,15 @@
           "pa": 2,
           "pts": 0
         },
-        "sapir vabshet": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 1,
           "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": 2,
+          "pa": 1,
+          "pts": 0
         },
         "thomas fridman": {
           "ph": 2,
@@ -3865,12 +3865,12 @@
           "pa": 1,
           "pts": 2
         },
-        "sapir vabshet": {
+        "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 0,
           "pts": 3
         },
-        "Gonzalo Aguiar": {
+        "sapir vabshet": {
           "ph": 2,
           "pa": 0,
           "pts": 3
@@ -3911,15 +3911,15 @@
           "pa": 0,
           "pts": 2
         },
-        "sapir vabshet": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 3,
           "pa": 0,
           "pts": 3
+        },
+        "sapir vabshet": {
+          "ph": 2,
+          "pa": 0,
+          "pts": 2
         },
         "thomas fridman": {
           "ph": 2,
@@ -3957,12 +3957,12 @@
           "pa": 3,
           "pts": 0
         },
-        "sapir vabshet": {
+        "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 1,
           "pts": 3
         },
-        "Gonzalo Aguiar": {
+        "sapir vabshet": {
           "ph": 2,
           "pa": 1,
           "pts": 3
@@ -4003,12 +4003,12 @@
           "pa": 0,
           "pts": 2
         },
-        "sapir vabshet": {
+        "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 1,
           "pts": 2
         },
-        "Gonzalo Aguiar": {
+        "sapir vabshet": {
           "ph": 2,
           "pa": 1,
           "pts": 2
@@ -4049,15 +4049,15 @@
           "pa": 0,
           "pts": 0
         },
-        "sapir vabshet": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 3
-        },
         "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 2,
           "pts": 0
+        },
+        "sapir vabshet": {
+          "ph": 1,
+          "pa": 1,
+          "pts": 3
         },
         "thomas fridman": {
           "ph": 1,
@@ -4095,14 +4095,14 @@
           "pa": 0,
           "pts": 0
         },
-        "sapir vabshet": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 3,
           "pa": 0,
+          "pts": 0
+        },
+        "sapir vabshet": {
+          "ph": 2,
+          "pa": 1,
           "pts": 0
         },
         "thomas fridman": {
@@ -4141,12 +4141,12 @@
           "pa": 0,
           "pts": 3
         },
-        "sapir vabshet": {
+        "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 1,
           "pts": 2
         },
-        "Gonzalo Aguiar": {
+        "sapir vabshet": {
           "ph": 2,
           "pa": 1,
           "pts": 2
@@ -4187,12 +4187,12 @@
           "pa": 2,
           "pts": 2
         },
-        "sapir vabshet": {
+        "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 2,
           "pts": 2
         },
-        "Gonzalo Aguiar": {
+        "sapir vabshet": {
           "ph": 1,
           "pa": 2,
           "pts": 2
@@ -4233,12 +4233,12 @@
           "pa": 4,
           "pts": 2
         },
-        "sapir vabshet": {
+        "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 3,
           "pts": 2
         },
-        "Gonzalo Aguiar": {
+        "sapir vabshet": {
           "ph": 0,
           "pa": 3,
           "pts": 2
@@ -4279,12 +4279,12 @@
           "pa": 1,
           "pts": 0
         },
-        "sapir vabshet": {
+        "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 1,
           "pts": 0
         },
-        "Gonzalo Aguiar": {
+        "sapir vabshet": {
           "ph": 2,
           "pa": 1,
           "pts": 0
@@ -4325,13 +4325,13 @@
           "pa": 2,
           "pts": 2
         },
-        "sapir vabshet": {
-          "ph": 1,
+        "Gonzalo Aguiar": {
+          "ph": 2,
           "pa": 1,
           "pts": 0
         },
-        "Gonzalo Aguiar": {
-          "ph": 2,
+        "sapir vabshet": {
+          "ph": 1,
           "pa": 1,
           "pts": 0
         },
@@ -4371,13 +4371,13 @@
           "pa": 1,
           "pts": 0
         },
-        "sapir vabshet": {
-          "ph": 1,
+        "Gonzalo Aguiar": {
+          "ph": 2,
           "pa": 1,
           "pts": 0
         },
-        "Gonzalo Aguiar": {
-          "ph": 2,
+        "sapir vabshet": {
+          "ph": 1,
           "pa": 1,
           "pts": 0
         },
@@ -4417,15 +4417,15 @@
           "pa": 1,
           "pts": 0
         },
-        "sapir vabshet": {
-          "ph": 1,
-          "pa": 0,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 2,
           "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": 1,
+          "pa": 0,
+          "pts": 0
         },
         "thomas fridman": {
           "ph": 1,
@@ -4463,14 +4463,14 @@
           "pa": 0,
           "pts": 2
         },
-        "sapir vabshet": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 0,
+          "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": 2,
+          "pa": 1,
           "pts": 2
         },
         "thomas fridman": {
@@ -4509,15 +4509,15 @@
           "pa": 0,
           "pts": 0
         },
-        "sapir vabshet": {
-          "ph": 0,
-          "pa": 1,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 1,
           "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": 0,
+          "pa": 1,
+          "pts": 0
         },
         "thomas fridman": {
           "ph": 1,
@@ -4555,15 +4555,15 @@
           "pa": 1,
           "pts": 2
         },
-        "sapir vabshet": {
-          "ph": 3,
-          "pa": 1,
-          "pts": 2
-        },
         "Gonzalo Aguiar": {
           "ph": 2,
           "pa": 2,
           "pts": 0
+        },
+        "sapir vabshet": {
+          "ph": 3,
+          "pa": 1,
+          "pts": 2
         },
         "thomas fridman": {
           "ph": 1,
@@ -4601,12 +4601,12 @@
           "pa": 0,
           "pts": 2
         },
-        "sapir vabshet": {
+        "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 1,
           "pts": 0
         },
-        "Gonzalo Aguiar": {
+        "sapir vabshet": {
           "ph": 1,
           "pa": 1,
           "pts": 0
@@ -4647,15 +4647,15 @@
           "pa": 1,
           "pts": 3
         },
-        "sapir vabshet": {
-          "ph": 1,
-          "pa": 2,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 1,
           "pa": 1,
           "pts": 3
+        },
+        "sapir vabshet": {
+          "ph": 1,
+          "pa": 2,
+          "pts": 0
         },
         "thomas fridman": {
           "ph": 1,
@@ -4693,14 +4693,14 @@
           "pa": 0,
           "pts": 0
         },
-        "sapir vabshet": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": 3,
           "pa": 0,
+          "pts": 0
+        },
+        "sapir vabshet": {
+          "ph": 2,
+          "pa": 1,
           "pts": 0
         },
         "thomas fridman": {
@@ -4739,14 +4739,14 @@
           "pa": 0,
           "pts": 0
         },
-        "sapir vabshet": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 0
-        },
         "Gonzalo Aguiar": {
           "ph": null,
           "pa": null,
+          "pts": 0
+        },
+        "sapir vabshet": {
+          "ph": 1,
+          "pa": 1,
           "pts": 0
         },
         "thomas fridman": {
@@ -4770,42 +4770,45 @@
       "id": 101,
       "matchId": "4653856",
       "date": "2026-07-15T19:00:00.000Z",
-      "status": "upcoming",
+      "status": "finished",
       "home": "England",
       "away": "Argentina",
       "homeEs": "Inglaterra",
       "awayEs": "Argentina",
-      "result": null,
+      "result": {
+        "h": 1,
+        "a": 2
+      },
       "predictions": {
         "kevin": {
           "ph": 0,
           "pa": 3,
-          "pts": null
-        },
-        "sapir vabshet": {
-          "ph": 1,
-          "pa": 1,
-          "pts": null
+          "pts": 2
         },
         "Gonzalo Aguiar": {
           "ph": 0,
           "pa": 3,
-          "pts": null
+          "pts": 2
+        },
+        "sapir vabshet": {
+          "ph": 1,
+          "pa": 1,
+          "pts": 0
         },
         "thomas fridman": {
           "ph": 0,
           "pa": 2,
-          "pts": null
+          "pts": 2
         },
         "Lorena Brofman": {
           "ph": 0,
           "pa": 2,
-          "pts": null
+          "pts": 2
         },
         "Maayan Golan": {
           "ph": 0,
           "pa": 3,
-          "pts": null
+          "pts": 2
         }
       }
     }
@@ -5455,12 +5458,12 @@
           "pos": 2
         },
         {
-          "name": "sapir vabshet",
+          "name": "Gonzalo Aguiar",
           "cum": 96,
           "pos": 3
         },
         {
-          "name": "Gonzalo Aguiar",
+          "name": "sapir vabshet",
           "cum": 96,
           "pos": 4
         },
@@ -5835,12 +5838,12 @@
           "pos": 1
         },
         {
-          "name": "sapir vabshet",
+          "name": "Gonzalo Aguiar",
           "cum": 131,
           "pos": 2
         },
         {
-          "name": "Gonzalo Aguiar",
+          "name": "sapir vabshet",
           "cum": 131,
           "pos": 3
         },
@@ -5870,12 +5873,12 @@
           "pos": 1
         },
         {
-          "name": "sapir vabshet",
+          "name": "Gonzalo Aguiar",
           "cum": 131,
           "pos": 2
         },
         {
-          "name": "Gonzalo Aguiar",
+          "name": "sapir vabshet",
           "cum": 131,
           "pos": 3
         },
@@ -5905,12 +5908,12 @@
           "pos": 1
         },
         {
-          "name": "sapir vabshet",
+          "name": "Gonzalo Aguiar",
           "cum": 131,
           "pos": 2
         },
         {
-          "name": "Gonzalo Aguiar",
+          "name": "sapir vabshet",
           "cum": 131,
           "pos": 3
         },
@@ -5930,13 +5933,48 @@
           "pos": 6
         }
       ]
+    },
+    {
+      "date": "2026-07-15",
+      "ranking": [
+        {
+          "name": "kevin",
+          "cum": 140,
+          "pos": 1
+        },
+        {
+          "name": "Gonzalo Aguiar",
+          "cum": 133,
+          "pos": 2
+        },
+        {
+          "name": "sapir vabshet",
+          "cum": 131,
+          "pos": 3
+        },
+        {
+          "name": "thomas fridman",
+          "cum": 130,
+          "pos": 4
+        },
+        {
+          "name": "Lorena Brofman",
+          "cum": 117,
+          "pos": 5
+        },
+        {
+          "name": "Maayan Golan",
+          "cum": 114,
+          "pos": 6
+        }
+      ]
     }
   ],
   "headToHead": [
     {
       "name": "kevin",
-      "targetPts": 131,
-      "rivalPts": 138,
+      "targetPts": 133,
+      "rivalPts": 140,
       "diff": -7,
       "byMatch": [
         {
@@ -6645,14 +6683,21 @@
           "away": "Spain",
           "targetPts": 0,
           "rivalPts": 0
+        },
+        {
+          "id": 101,
+          "home": "England",
+          "away": "Argentina",
+          "targetPts": 2,
+          "rivalPts": 2
         }
       ]
     },
     {
       "name": "sapir vabshet",
-      "targetPts": 131,
+      "targetPts": 133,
       "rivalPts": 131,
-      "diff": 0,
+      "diff": 2,
       "byMatch": [
         {
           "id": 0,
@@ -7360,13 +7405,20 @@
           "away": "Spain",
           "targetPts": 0,
           "rivalPts": 0
+        },
+        {
+          "id": 101,
+          "home": "England",
+          "away": "Argentina",
+          "targetPts": 2,
+          "rivalPts": 0
         }
       ]
     },
     {
       "name": "thomas fridman",
-      "targetPts": 131,
-      "rivalPts": 128,
+      "targetPts": 133,
+      "rivalPts": 130,
       "diff": 3,
       "byMatch": [
         {
@@ -8075,13 +8127,20 @@
           "away": "Spain",
           "targetPts": 0,
           "rivalPts": 0
+        },
+        {
+          "id": 101,
+          "home": "England",
+          "away": "Argentina",
+          "targetPts": 2,
+          "rivalPts": 2
         }
       ]
     },
     {
       "name": "Lorena Brofman",
-      "targetPts": 131,
-      "rivalPts": 115,
+      "targetPts": 133,
+      "rivalPts": 117,
       "diff": 16,
       "byMatch": [
         {
@@ -8790,13 +8849,20 @@
           "away": "Spain",
           "targetPts": 0,
           "rivalPts": 0
+        },
+        {
+          "id": 101,
+          "home": "England",
+          "away": "Argentina",
+          "targetPts": 2,
+          "rivalPts": 2
         }
       ]
     },
     {
       "name": "Maayan Golan",
-      "targetPts": 131,
-      "rivalPts": 112,
+      "targetPts": 133,
+      "rivalPts": 114,
       "diff": 19,
       "byMatch": [
         {
@@ -9505,6 +9571,13 @@
           "away": "Spain",
           "targetPts": 0,
           "rivalPts": 0
+        },
+        {
+          "id": 101,
+          "home": "England",
+          "away": "Argentina",
+          "targetPts": 2,
+          "rivalPts": 2
         }
       ]
     }
@@ -9512,10 +9585,18 @@
   "validation": [
     {
       "name": "kevin",
-      "calcPts": 138,
-      "apiPts": 138,
+      "calcPts": 140,
+      "apiPts": 140,
       "calcExacts": 16,
       "apiExacts": 16,
+      "ok": true
+    },
+    {
+      "name": "Gonzalo Aguiar",
+      "calcPts": 133,
+      "apiPts": 133,
+      "calcExacts": 11,
+      "apiExacts": 11,
       "ok": true
     },
     {
@@ -9527,33 +9608,25 @@
       "ok": true
     },
     {
-      "name": "Gonzalo Aguiar",
-      "calcPts": 131,
-      "apiPts": 131,
-      "calcExacts": 11,
-      "apiExacts": 11,
-      "ok": true
-    },
-    {
       "name": "thomas fridman",
-      "calcPts": 128,
-      "apiPts": 128,
+      "calcPts": 130,
+      "apiPts": 130,
       "calcExacts": 12,
       "apiExacts": 12,
       "ok": true
     },
     {
       "name": "Lorena Brofman",
-      "calcPts": 115,
-      "apiPts": 115,
+      "calcPts": 117,
+      "apiPts": 117,
       "calcExacts": 9,
       "apiExacts": 9,
       "ok": true
     },
     {
       "name": "Maayan Golan",
-      "calcPts": 112,
-      "apiPts": 112,
+      "calcPts": 114,
+      "apiPts": 114,
       "calcExacts": 8,
       "apiExacts": 8,
       "ok": true
