@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T20:22:47.165Z",
+  "updatedAt": "2026-07-18T21:13:32.450Z",
   "league": {
     "id": 196754,
     "game": 772026,
@@ -4299,6 +4299,44 @@
           "ph": 0,
           "pa": 3,
           "pts": 2
+        }
+      }
+    },
+    {
+      "id": 102,
+      "matchId": "4653857",
+      "date": "2026-07-18T21:00:00.000Z",
+      "status": "upcoming",
+      "home": "France",
+      "away": "England",
+      "homeEs": "Francia",
+      "awayEs": "Inglaterra",
+      "result": null,
+      "predictions": {
+        "kevin": {
+          "ph": 2,
+          "pa": 1,
+          "pts": null
+        },
+        "sapir vabshet": {
+          "ph": 2,
+          "pa": 1,
+          "pts": null
+        },
+        "thomas fridman": {
+          "ph": null,
+          "pa": null,
+          "pts": null
+        },
+        "Lorena Brofman": {
+          "ph": 1,
+          "pa": 0,
+          "pts": null
+        },
+        "Maayan Golan": {
+          "ph": 2,
+          "pa": 2,
+          "pts": null
         }
       }
     }
