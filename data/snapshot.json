@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T18:12:46.295Z",
+  "updatedAt": "2026-07-19T19:35:22.164Z",
   "league": {
     "id": 196754,
     "game": 772026,
@@ -4340,6 +4340,44 @@
           "ph": 2,
           "pa": 2,
           "pts": 0
+        }
+      }
+    },
+    {
+      "id": 103,
+      "matchId": "4653858",
+      "date": "2026-07-19T19:00:00.000Z",
+      "status": "upcoming",
+      "home": "Spain",
+      "away": "Argentina",
+      "homeEs": "España",
+      "awayEs": "Argentina",
+      "result": null,
+      "predictions": {
+        "kevin": {
+          "ph": 0,
+          "pa": 3,
+          "pts": null
+        },
+        "sapir vabshet": {
+          "ph": 1,
+          "pa": 2,
+          "pts": null
+        },
+        "thomas fridman": {
+          "ph": 0,
+          "pa": 2,
+          "pts": null
+        },
+        "Lorena Brofman": {
+          "ph": 0,
+          "pa": 3,
+          "pts": null
+        },
+        "Maayan Golan": {
+          "ph": 0,
+          "pa": 3,
+          "pts": null
         }
       }
     }
