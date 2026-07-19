@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T20:26:54.188Z",
+  "updatedAt": "2026-07-19T22:24:19.235Z",
   "league": {
     "id": 196754,
     "game": 772026,
@@ -12,7 +12,7 @@
     "miss": 0
   },
   "target": "Gonzalo Aguiar",
-  "finishedCount": 103,
+  "finishedCount": 104,
   "teamsEs": {
     "USA": "EE. UU.",
     "Australia": "Australia",
@@ -70,7 +70,7 @@
       "rank": 1,
       "points": 140,
       "exacts": 16,
-      "avg": 1.36,
+      "avg": 1.35,
       "isTarget": false
     },
     {
@@ -79,7 +79,7 @@
       "rank": 2,
       "points": 133,
       "exacts": 11,
-      "avg": 1.29,
+      "avg": 1.28,
       "isTarget": false
     },
     {
@@ -88,7 +88,7 @@
       "rank": 3,
       "points": 131,
       "exacts": 13,
-      "avg": 1.27,
+      "avg": 1.26,
       "isTarget": false
     },
     {
@@ -97,7 +97,7 @@
       "rank": 4,
       "points": 130,
       "exacts": 12,
-      "avg": 1.26,
+      "avg": 1.25,
       "isTarget": false
     },
     {
@@ -106,7 +106,7 @@
       "rank": 5,
       "points": 117,
       "exacts": 9,
-      "avg": 1.14,
+      "avg": 1.13,
       "isTarget": false
     },
     {
@@ -115,7 +115,7 @@
       "rank": 6,
       "points": 114,
       "exacts": 8,
-      "avg": 1.11,
+      "avg": 1.1,
       "isTarget": false
     }
   ],
@@ -135,9 +135,9 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 1,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
           "ph": null,
@@ -145,14 +145,14 @@
           "pts": 0
         },
         "thomas fridman": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
           "ph": null,
@@ -176,29 +176,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 0,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "thomas fridman": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -217,28 +217,28 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 3,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "sapir vabshet": {
-          "ph": 1,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "thomas fridman": {
-          "ph": 0,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 1,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 2,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -258,29 +258,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 1,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "sapir vabshet": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 1,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 1,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -299,28 +299,28 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 0,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "sapir vabshet": {
-          "ph": 0,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "thomas fridman": {
-          "ph": 0,
-          "pa": 3,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 1,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 0,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -340,28 +340,28 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 3,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "sapir vabshet": {
-          "ph": 2,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "thomas fridman": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 3,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 2,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -381,29 +381,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 0,
-          "pa": 1,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 1,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 0,
-          "pa": 1,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -422,29 +422,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 1,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "sapir vabshet": {
-          "ph": 0,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "thomas fridman": {
-          "ph": 1,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 1,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 1,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -463,29 +463,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 5,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 3,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 5,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 3,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -504,28 +504,28 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 2,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "sapir vabshet": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 2,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 2,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 2,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -545,28 +545,28 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 0,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "sapir vabshet": {
-          "ph": 0,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "thomas fridman": {
-          "ph": 0,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 0,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 0,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -586,29 +586,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 1,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -627,28 +627,28 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 3,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "sapir vabshet": {
-          "ph": 2,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "thomas fridman": {
-          "ph": 5,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 3,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 2,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -668,28 +668,28 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 2,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "sapir vabshet": {
-          "ph": 1,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "thomas fridman": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 3,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 2,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -709,28 +709,28 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 1,
-          "pa": 3,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "thomas fridman": {
-          "ph": 0,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 1,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 2,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -750,29 +750,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 2,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "sapir vabshet": {
-          "ph": 0,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 1,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 0,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -791,29 +791,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 3,
-          "pa": 1,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 3,
-          "pa": 1,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 3,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -832,29 +832,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 0,
-          "pa": 3,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 0,
-          "pa": 3,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 0,
-          "pa": 3,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 0,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -873,29 +873,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 4,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 3,
-          "pa": 0,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 3,
-          "pa": 0,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -914,29 +914,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 1,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 1,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -955,28 +955,28 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 4,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "sapir vabshet": {
-          "ph": 2,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "thomas fridman": {
-          "ph": 3,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 2,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 1,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -996,29 +996,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 0,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "thomas fridman": {
-          "ph": 1,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -1037,28 +1037,28 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 0,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "sapir vabshet": {
-          "ph": 1,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "thomas fridman": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 1,
-          "pa": 0,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 1,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -1078,29 +1078,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 1,
-          "pa": 3,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 1,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -1119,28 +1119,28 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 2,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "sapir vabshet": {
-          "ph": 0,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 2,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 2,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 1,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -1160,8 +1160,8 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 1,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "sapir vabshet": {
@@ -1170,19 +1170,19 @@
           "pts": 0
         },
         "thomas fridman": {
-          "ph": 1,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 1,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -1201,29 +1201,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 1,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -1242,28 +1242,28 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 1,
-          "pa": 0,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 1,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 1,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -1283,29 +1283,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 3,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 1,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "thomas fridman": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -1324,29 +1324,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 0,
-          "pa": 1,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 1,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 0,
-          "pa": 3,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 0,
-          "pa": 1,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -1365,29 +1365,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 4,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 3,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 3,
-          "pa": 0,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 1,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -1406,29 +1406,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 1,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "sapir vabshet": {
-          "ph": 1,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "thomas fridman": {
-          "ph": 1,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 2,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 0,
-          "pa": 1,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -1447,28 +1447,28 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 1,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 1,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -1488,29 +1488,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 3,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 3,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 4,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -1529,28 +1529,28 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 2,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "sapir vabshet": {
-          "ph": 2,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "thomas fridman": {
-          "ph": 3,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 2,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 1,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -1570,29 +1570,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 1,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 0,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 1,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 0,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -1611,28 +1611,28 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 3,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 3,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 1,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 1,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -1652,28 +1652,28 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 2,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "sapir vabshet": {
-          "ph": 2,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "thomas fridman": {
-          "ph": 2,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 3,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 1,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -1693,28 +1693,28 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 2,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "sapir vabshet": {
-          "ph": 2,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "thomas fridman": {
-          "ph": 3,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 2,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 2,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -1734,29 +1734,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 1,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "thomas fridman": {
-          "ph": 1,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 0,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 0,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -1775,29 +1775,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 4,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 3,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -1816,29 +1816,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 3,
-          "pa": 0,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 4,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 5,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 3,
-          "pa": 0,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -1857,29 +1857,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 1,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "thomas fridman": {
-          "ph": 3,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 0,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 1,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -1898,9 +1898,9 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
           "ph": null,
@@ -1908,18 +1908,18 @@
           "pts": 0
         },
         "thomas fridman": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 0,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 1,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -1939,29 +1939,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 3,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 1,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -1980,28 +1980,28 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 2,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "sapir vabshet": {
-          "ph": 1,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "thomas fridman": {
-          "ph": 3,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 2,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 2,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -2021,28 +2021,28 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 0,
-          "pa": 1,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 1,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 0,
-          "pa": 1,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 1,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -2062,29 +2062,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 1,
-          "pa": 0,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 3,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -2103,28 +2103,28 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 1,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "sapir vabshet": {
-          "ph": 0,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "thomas fridman": {
-          "ph": 2,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 1,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 0,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -2144,29 +2144,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 0,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 1,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -2185,29 +2185,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 0,
-          "pa": 3,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 1,
-          "pa": 3,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 1,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -2226,29 +2226,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 3,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 3,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 3,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 1,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -2267,29 +2267,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 1,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 0,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 1,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 0,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -2308,28 +2308,28 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 0,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "sapir vabshet": {
-          "ph": 0,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "thomas fridman": {
-          "ph": 0,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 1,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 0,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -2349,28 +2349,28 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 0,
-          "pa": 4,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "sapir vabshet": {
-          "ph": 1,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "thomas fridman": {
-          "ph": 1,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 1,
-          "pa": 4,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 0,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -2390,29 +2390,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 0,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 0,
-          "pa": 3,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 1,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 0,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -2431,29 +2431,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 0,
-          "pa": 3,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 0,
-          "pa": 3,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 0,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -2472,28 +2472,28 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 2,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "sapir vabshet": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 1,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 0,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -2513,28 +2513,28 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 1,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "sapir vabshet": {
-          "ph": 0,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "thomas fridman": {
-          "ph": 1,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 1,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 0,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -2554,28 +2554,28 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 1,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 1,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -2595,29 +2595,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 1,
-          "pa": 3,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 1,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 1,
-          "pa": 3,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 1,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -2636,29 +2636,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 1,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -2677,28 +2677,28 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 1,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 1,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 1,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 2,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 2,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -2718,28 +2718,28 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 1,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "sapir vabshet": {
-          "ph": 2,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "thomas fridman": {
-          "ph": 0,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 0,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 0,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -2759,29 +2759,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 0,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 1,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 0,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -2800,28 +2800,28 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 2,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "sapir vabshet": {
-          "ph": 1,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "thomas fridman": {
-          "ph": 1,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 0,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 1,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -2841,29 +2841,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 0,
-          "pa": 3,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 0,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -2882,28 +2882,28 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 1,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 1,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 0,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -2923,28 +2923,28 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 1,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "sapir vabshet": {
-          "ph": 0,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "thomas fridman": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 2,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 1,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -2964,28 +2964,28 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 0,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -3005,29 +3005,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 0,
-          "pa": 3,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 0,
-          "pa": 4,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 0,
-          "pa": 3,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -3046,28 +3046,28 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 0,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 1,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 0,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -3087,29 +3087,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 1,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "sapir vabshet": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 0,
-          "pa": 1,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 1,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -3128,29 +3128,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 1,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "sapir vabshet": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 1,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -3169,28 +3169,28 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 2,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "sapir vabshet": {
-          "ph": 2,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "thomas fridman": {
-          "ph": 3,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 4,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 3,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -3210,29 +3210,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 2,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 2,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 2,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -3251,29 +3251,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 2,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "sapir vabshet": {
-          "ph": 1,
-          "pa": 2,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 0,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 1,
-          "pa": 2,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -3292,29 +3292,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 3,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 4,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 3,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 3,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -3333,29 +3333,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 1,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "sapir vabshet": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 1,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 3,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -3374,29 +3374,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 3,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 3,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -3415,29 +3415,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 2,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "thomas fridman": {
-          "ph": 2,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 1,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -3456,29 +3456,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 3,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -3497,28 +3497,28 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 3,
-          "pa": 0,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 1,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 1,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -3538,29 +3538,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 1,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 1,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -3579,28 +3579,28 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 1,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 1,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -3620,28 +3620,28 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 1,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "sapir vabshet": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 1,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 1,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 1,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -3661,28 +3661,28 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 3,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "sapir vabshet": {
-          "ph": 2,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "thomas fridman": {
-          "ph": 3,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 3,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 3,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -3702,29 +3702,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 1,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -3743,28 +3743,28 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 1,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 1,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 1,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 1,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 2,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -3784,28 +3784,28 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 0,
-          "pa": 3,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 0,
-          "pa": 3,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 0,
-          "pa": 3,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 2,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 1,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -3825,23 +3825,23 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 2,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "sapir vabshet": {
-          "ph": 2,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "thomas fridman": {
-          "ph": 2,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 3,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
@@ -3866,23 +3866,23 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 2,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "sapir vabshet": {
-          "ph": 1,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "thomas fridman": {
-          "ph": 2,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 1,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
@@ -3907,29 +3907,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 2,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "sapir vabshet": {
-          "ph": 1,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "thomas fridman": {
-          "ph": 1,
-          "pa": 3,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 2,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 1,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -3948,28 +3948,28 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 1,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 1,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "thomas fridman": {
-          "ph": 1,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 1,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 2,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -3989,29 +3989,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 2,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 3,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -4030,29 +4030,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 0,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "thomas fridman": {
-          "ph": 1,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 1,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -4071,28 +4071,28 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 2,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "sapir vabshet": {
-          "ph": 3,
-          "pa": 1,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 1,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 1,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 2,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -4112,24 +4112,24 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 1,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "sapir vabshet": {
-          "ph": 1,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "thomas fridman": {
-          "ph": 1,
-          "pa": 0,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 2,
-          "pa": 1,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
           "ph": null,
@@ -4153,28 +4153,28 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 1,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "thomas fridman": {
-          "ph": 1,
-          "pa": 1,
-          "pts": 3
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 1,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 2,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -4194,28 +4194,28 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 3,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "sapir vabshet": {
-          "ph": 2,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "thomas fridman": {
-          "ph": 2,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 2,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 3,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -4240,23 +4240,23 @@
           "pts": 0
         },
         "sapir vabshet": {
-          "ph": 1,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "thomas fridman": {
-          "ph": 1,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 2,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 2,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -4276,29 +4276,29 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 0,
-          "pa": 3,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 1,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "thomas fridman": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 0,
-          "pa": 2,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 0,
-          "pa": 3,
-          "pts": 2
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     },
@@ -4317,13 +4317,13 @@
       },
       "predictions": {
         "kevin": {
-          "ph": 2,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "sapir vabshet": {
-          "ph": 2,
-          "pa": 1,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "thomas fridman": {
@@ -4332,13 +4332,13 @@
           "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 1,
-          "pa": 0,
+          "ph": null,
+          "pa": null,
           "pts": 0
         },
         "Maayan Golan": {
-          "ph": 2,
-          "pa": 2,
+          "ph": null,
+          "pa": null,
           "pts": 0
         }
       }
@@ -4347,37 +4347,40 @@
       "id": 103,
       "matchId": "4653858",
       "date": "2026-07-19T19:00:00.000Z",
-      "status": "upcoming",
+      "status": "finished",
       "home": "Spain",
       "away": "Argentina",
       "homeEs": "España",
       "awayEs": "Argentina",
-      "result": null,
+      "result": {
+        "h": 0,
+        "a": 0
+      },
       "predictions": {
         "kevin": {
-          "ph": 0,
-          "pa": 3,
-          "pts": null
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "sapir vabshet": {
-          "ph": 1,
-          "pa": 2,
-          "pts": null
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "thomas fridman": {
-          "ph": 0,
-          "pa": 2,
-          "pts": null
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Lorena Brofman": {
-          "ph": 0,
-          "pa": 3,
-          "pts": null
+          "ph": null,
+          "pa": null,
+          "pts": 0
         },
         "Maayan Golan": {
-          "ph": 0,
-          "pa": 3,
-          "pts": null
+          "ph": null,
+          "pa": null,
+          "pts": 0
         }
       }
     }
@@ -4388,26 +4391,26 @@
       "ranking": [
         {
           "name": "kevin",
-          "cum": 4,
+          "cum": 0,
           "pos": 1
         },
         {
           "name": "kevin",
-          "cum": 4,
+          "cum": 0,
           "pos": 2
         },
         {
-          "name": "thomas fridman",
-          "cum": 3,
+          "name": "sapir vabshet",
+          "cum": 0,
           "pos": 3
         },
         {
-          "name": "Lorena Brofman",
-          "cum": 2,
+          "name": "thomas fridman",
+          "cum": 0,
           "pos": 4
         },
         {
-          "name": "sapir vabshet",
+          "name": "Lorena Brofman",
           "cum": 0,
           "pos": 5
         },
@@ -4423,31 +4426,31 @@
       "ranking": [
         {
           "name": "kevin",
-          "cum": 8,
+          "cum": 0,
           "pos": 1
         },
         {
           "name": "kevin",
-          "cum": 8,
+          "cum": 0,
           "pos": 2
         },
         {
-          "name": "thomas fridman",
-          "cum": 6,
+          "name": "sapir vabshet",
+          "cum": 0,
           "pos": 3
         },
         {
-          "name": "Lorena Brofman",
-          "cum": 4,
+          "name": "thomas fridman",
+          "cum": 0,
           "pos": 4
         },
         {
-          "name": "Maayan Golan",
-          "cum": 2,
+          "name": "Lorena Brofman",
+          "cum": 0,
           "pos": 5
         },
         {
-          "name": "sapir vabshet",
+          "name": "Maayan Golan",
           "cum": 0,
           "pos": 6
         }
@@ -4457,33 +4460,33 @@
       "date": "2026-06-13",
       "ranking": [
         {
-          "name": "thomas fridman",
-          "cum": 9,
+          "name": "kevin",
+          "cum": 0,
           "pos": 1
         },
         {
           "name": "kevin",
-          "cum": 8,
+          "cum": 0,
           "pos": 2
         },
         {
-          "name": "kevin",
-          "cum": 8,
+          "name": "sapir vabshet",
+          "cum": 0,
           "pos": 3
         },
         {
-          "name": "Lorena Brofman",
-          "cum": 4,
+          "name": "thomas fridman",
+          "cum": 0,
           "pos": 4
         },
         {
-          "name": "Maayan Golan",
-          "cum": 4,
+          "name": "Lorena Brofman",
+          "cum": 0,
           "pos": 5
         },
         {
-          "name": "sapir vabshet",
-          "cum": 2,
+          "name": "Maayan Golan",
+          "cum": 0,
           "pos": 6
         }
       ]
@@ -4493,32 +4496,32 @@
       "ranking": [
         {
           "name": "kevin",
-          "cum": 16,
+          "cum": 0,
           "pos": 1
         },
         {
           "name": "kevin",
-          "cum": 16,
+          "cum": 0,
           "pos": 2
         },
         {
-          "name": "thomas fridman",
-          "cum": 13,
+          "name": "sapir vabshet",
+          "cum": 0,
           "pos": 3
         },
         {
-          "name": "Maayan Golan",
-          "cum": 11,
+          "name": "thomas fridman",
+          "cum": 0,
           "pos": 4
         },
         {
-          "name": "sapir vabshet",
-          "cum": 9,
+          "name": "Lorena Brofman",
+          "cum": 0,
           "pos": 5
         },
         {
-          "name": "Lorena Brofman",
-          "cum": 6,
+          "name": "Maayan Golan",
+          "cum": 0,
           "pos": 6
         }
       ]
@@ -4528,32 +4531,32 @@
       "ranking": [
         {
           "name": "kevin",
-          "cum": 26,
+          "cum": 0,
           "pos": 1
         },
         {
           "name": "kevin",
-          "cum": 26,
+          "cum": 0,
           "pos": 2
         },
         {
-          "name": "thomas fridman",
-          "cum": 18,
+          "name": "sapir vabshet",
+          "cum": 0,
           "pos": 3
         },
         {
-          "name": "Maayan Golan",
-          "cum": 13,
+          "name": "thomas fridman",
+          "cum": 0,
           "pos": 4
         },
         {
-          "name": "sapir vabshet",
-          "cum": 11,
+          "name": "Lorena Brofman",
+          "cum": 0,
           "pos": 5
         },
         {
-          "name": "Lorena Brofman",
-          "cum": 8,
+          "name": "Maayan Golan",
+          "cum": 0,
           "pos": 6
         }
       ]
@@ -4563,32 +4566,32 @@
       "ranking": [
         {
           "name": "kevin",
-          "cum": 34,
+          "cum": 0,
           "pos": 1
         },
         {
           "name": "kevin",
-          "cum": 34,
+          "cum": 0,
           "pos": 2
         },
         {
-          "name": "thomas fridman",
-          "cum": 23,
+          "name": "sapir vabshet",
+          "cum": 0,
           "pos": 3
         },
         {
-          "name": "Maayan Golan",
-          "cum": 19,
+          "name": "thomas fridman",
+          "cum": 0,
           "pos": 4
         },
         {
-          "name": "sapir vabshet",
-          "cum": 18,
+          "name": "Lorena Brofman",
+          "cum": 0,
           "pos": 5
         },
         {
-          "name": "Lorena Brofman",
-          "cum": 12,
+          "name": "Maayan Golan",
+          "cum": 0,
           "pos": 6
         }
       ]
@@ -4598,32 +4601,32 @@
       "ranking": [
         {
           "name": "kevin",
-          "cum": 46,
+          "cum": 0,
           "pos": 1
         },
         {
           "name": "kevin",
-          "cum": 46,
+          "cum": 0,
           "pos": 2
         },
         {
-          "name": "thomas fridman",
-          "cum": 29,
+          "name": "sapir vabshet",
+          "cum": 0,
           "pos": 3
         },
         {
-          "name": "Maayan Golan",
-          "cum": 26,
+          "name": "thomas fridman",
+          "cum": 0,
           "pos": 4
         },
         {
-          "name": "sapir vabshet",
-          "cum": 22,
+          "name": "Lorena Brofman",
+          "cum": 0,
           "pos": 5
         },
         {
-          "name": "Lorena Brofman",
-          "cum": 22,
+          "name": "Maayan Golan",
+          "cum": 0,
           "pos": 6
         }
       ]
@@ -4633,32 +4636,32 @@
       "ranking": [
         {
           "name": "kevin",
-          "cum": 54,
+          "cum": 0,
           "pos": 1
         },
         {
           "name": "kevin",
-          "cum": 54,
+          "cum": 0,
           "pos": 2
         },
         {
-          "name": "thomas fridman",
-          "cum": 34,
+          "name": "sapir vabshet",
+          "cum": 0,
           "pos": 3
         },
         {
-          "name": "Maayan Golan",
-          "cum": 32,
+          "name": "thomas fridman",
+          "cum": 0,
           "pos": 4
         },
         {
-          "name": "sapir vabshet",
-          "cum": 28,
+          "name": "Lorena Brofman",
+          "cum": 0,
           "pos": 5
         },
         {
-          "name": "Lorena Brofman",
-          "cum": 28,
+          "name": "Maayan Golan",
+          "cum": 0,
           "pos": 6
         }
       ]
@@ -4668,32 +4671,32 @@
       "ranking": [
         {
           "name": "kevin",
-          "cum": 66,
+          "cum": 0,
           "pos": 1
         },
         {
           "name": "kevin",
-          "cum": 66,
+          "cum": 0,
           "pos": 2
         },
         {
-          "name": "thomas fridman",
-          "cum": 38,
+          "name": "sapir vabshet",
+          "cum": 0,
           "pos": 3
         },
         {
-          "name": "Maayan Golan",
-          "cum": 38,
+          "name": "thomas fridman",
+          "cum": 0,
           "pos": 4
         },
         {
-          "name": "sapir vabshet",
-          "cum": 34,
+          "name": "Lorena Brofman",
+          "cum": 0,
           "pos": 5
         },
         {
-          "name": "Lorena Brofman",
-          "cum": 34,
+          "name": "Maayan Golan",
+          "cum": 0,
           "pos": 6
         }
       ]
@@ -4703,32 +4706,32 @@
       "ranking": [
         {
           "name": "kevin",
-          "cum": 78,
+          "cum": 0,
           "pos": 1
         },
         {
           "name": "kevin",
-          "cum": 78,
+          "cum": 0,
           "pos": 2
         },
         {
-          "name": "thomas fridman",
-          "cum": 47,
+          "name": "sapir vabshet",
+          "cum": 0,
           "pos": 3
         },
         {
-          "name": "Maayan Golan",
-          "cum": 45,
+          "name": "thomas fridman",
+          "cum": 0,
           "pos": 4
         },
         {
-          "name": "sapir vabshet",
-          "cum": 40,
+          "name": "Lorena Brofman",
+          "cum": 0,
           "pos": 5
         },
         {
-          "name": "Lorena Brofman",
-          "cum": 40,
+          "name": "Maayan Golan",
+          "cum": 0,
           "pos": 6
         }
       ]
@@ -4738,32 +4741,32 @@
       "ranking": [
         {
           "name": "kevin",
-          "cum": 86,
+          "cum": 0,
           "pos": 1
         },
         {
           "name": "kevin",
-          "cum": 86,
+          "cum": 0,
           "pos": 2
         },
         {
-          "name": "thomas fridman",
-          "cum": 49,
+          "name": "sapir vabshet",
+          "cum": 0,
           "pos": 3
         },
         {
-          "name": "Maayan Golan",
-          "cum": 47,
+          "name": "thomas fridman",
+          "cum": 0,
           "pos": 4
         },
         {
-          "name": "sapir vabshet",
-          "cum": 44,
+          "name": "Lorena Brofman",
+          "cum": 0,
           "pos": 5
         },
         {
-          "name": "Lorena Brofman",
-          "cum": 42,
+          "name": "Maayan Golan",
+          "cum": 0,
           "pos": 6
         }
       ]
@@ -4773,32 +4776,32 @@
       "ranking": [
         {
           "name": "kevin",
-          "cum": 100,
+          "cum": 0,
           "pos": 1
         },
         {
           "name": "kevin",
-          "cum": 100,
+          "cum": 0,
           "pos": 2
         },
         {
-          "name": "thomas fridman",
-          "cum": 56,
+          "name": "sapir vabshet",
+          "cum": 0,
           "pos": 3
         },
         {
-          "name": "Maayan Golan",
-          "cum": 53,
+          "name": "thomas fridman",
+          "cum": 0,
           "pos": 4
         },
         {
           "name": "Lorena Brofman",
-          "cum": 49,
+          "cum": 0,
           "pos": 5
         },
         {
-          "name": "sapir vabshet",
-          "cum": 48,
+          "name": "Maayan Golan",
+          "cum": 0,
           "pos": 6
         }
       ]
@@ -4808,32 +4811,32 @@
       "ranking": [
         {
           "name": "kevin",
-          "cum": 116,
+          "cum": 0,
           "pos": 1
         },
         {
           "name": "kevin",
-          "cum": 116,
+          "cum": 0,
           "pos": 2
         },
         {
-          "name": "thomas fridman",
-          "cum": 64,
+          "name": "sapir vabshet",
+          "cum": 0,
           "pos": 3
         },
         {
-          "name": "Maayan Golan",
-          "cum": 57,
+          "name": "thomas fridman",
+          "cum": 0,
           "pos": 4
         },
         {
           "name": "Lorena Brofman",
-          "cum": 56,
+          "cum": 0,
           "pos": 5
         },
         {
-          "name": "sapir vabshet",
-          "cum": 53,
+          "name": "Maayan Golan",
+          "cum": 0,
           "pos": 6
         }
       ]
@@ -4843,32 +4846,32 @@
       "ranking": [
         {
           "name": "kevin",
-          "cum": 136,
+          "cum": 0,
           "pos": 1
         },
         {
           "name": "kevin",
-          "cum": 136,
+          "cum": 0,
           "pos": 2
         },
         {
-          "name": "thomas fridman",
-          "cum": 72,
+          "name": "sapir vabshet",
+          "cum": 0,
           "pos": 3
         },
         {
-          "name": "Maayan Golan",
-          "cum": 65,
+          "name": "thomas fridman",
+          "cum": 0,
           "pos": 4
         },
         {
           "name": "Lorena Brofman",
-          "cum": 64,
+          "cum": 0,
           "pos": 5
         },
         {
-          "name": "sapir vabshet",
-          "cum": 61,
+          "name": "Maayan Golan",
+          "cum": 0,
           "pos": 6
         }
       ]
@@ -4878,32 +4881,32 @@
       "ranking": [
         {
           "name": "kevin",
-          "cum": 148,
+          "cum": 0,
           "pos": 1
         },
         {
           "name": "kevin",
-          "cum": 148,
+          "cum": 0,
           "pos": 2
         },
         {
-          "name": "thomas fridman",
-          "cum": 77,
+          "name": "sapir vabshet",
+          "cum": 0,
           "pos": 3
         },
         {
-          "name": "Lorena Brofman",
-          "cum": 71,
+          "name": "thomas fridman",
+          "cum": 0,
           "pos": 4
         },
         {
-          "name": "Maayan Golan",
-          "cum": 71,
+          "name": "Lorena Brofman",
+          "cum": 0,
           "pos": 5
         },
         {
-          "name": "sapir vabshet",
-          "cum": 70,
+          "name": "Maayan Golan",
+          "cum": 0,
           "pos": 6
         }
       ]
@@ -4913,32 +4916,32 @@
       "ranking": [
         {
           "name": "kevin",
-          "cum": 160,
+          "cum": 0,
           "pos": 1
         },
         {
           "name": "kevin",
-          "cum": 160,
+          "cum": 0,
           "pos": 2
         },
         {
-          "name": "thomas fridman",
-          "cum": 81,
+          "name": "sapir vabshet",
+          "cum": 0,
           "pos": 3
         },
         {
-          "name": "Lorena Brofman",
-          "cum": 77,
+          "name": "thomas fridman",
+          "cum": 0,
           "pos": 4
         },
         {
-          "name": "sapir vabshet",
-          "cum": 76,
+          "name": "Lorena Brofman",
+          "cum": 0,
           "pos": 5
         },
         {
           "name": "Maayan Golan",
-          "cum": 75,
+          "cum": 0,
           "pos": 6
         }
       ]
@@ -4948,32 +4951,32 @@
       "ranking": [
         {
           "name": "kevin",
-          "cum": 184,
+          "cum": 0,
           "pos": 1
         },
         {
           "name": "kevin",
-          "cum": 184,
+          "cum": 0,
           "pos": 2
         },
         {
-          "name": "thomas fridman",
-          "cum": 93,
+          "name": "sapir vabshet",
+          "cum": 0,
           "pos": 3
         },
         {
-          "name": "sapir vabshet",
-          "cum": 87,
+          "name": "thomas fridman",
+          "cum": 0,
           "pos": 4
         },
         {
           "name": "Lorena Brofman",
-          "cum": 87,
+          "cum": 0,
           "pos": 5
         },
         {
           "name": "Maayan Golan",
-          "cum": 79,
+          "cum": 0,
           "pos": 6
         }
       ]
@@ -4983,32 +4986,32 @@
       "ranking": [
         {
           "name": "kevin",
-          "cum": 192,
+          "cum": 0,
           "pos": 1
         },
         {
           "name": "kevin",
-          "cum": 192,
+          "cum": 0,
           "pos": 2
         },
         {
-          "name": "thomas fridman",
-          "cum": 100,
+          "name": "sapir vabshet",
+          "cum": 0,
           "pos": 3
         },
         {
-          "name": "sapir vabshet",
-          "cum": 93,
+          "name": "thomas fridman",
+          "cum": 0,
           "pos": 4
         },
         {
           "name": "Lorena Brofman",
-          "cum": 91,
+          "cum": 0,
           "pos": 5
         },
         {
           "name": "Maayan Golan",
-          "cum": 83,
+          "cum": 0,
           "pos": 6
         }
       ]
@@ -5018,32 +5021,32 @@
       "ranking": [
         {
           "name": "kevin",
-          "cum": 192,
+          "cum": 0,
           "pos": 1
         },
         {
           "name": "kevin",
-          "cum": 192,
+          "cum": 0,
           "pos": 2
         },
         {
-          "name": "thomas fridman",
-          "cum": 100,
+          "name": "sapir vabshet",
+          "cum": 0,
           "pos": 3
         },
         {
-          "name": "sapir vabshet",
-          "cum": 96,
+          "name": "thomas fridman",
+          "cum": 0,
           "pos": 4
         },
         {
           "name": "Lorena Brofman",
-          "cum": 94,
+          "cum": 0,
           "pos": 5
         },
         {
           "name": "Maayan Golan",
-          "cum": 86,
+          "cum": 0,
           "pos": 6
         }
       ]
@@ -5053,32 +5056,32 @@
       "ranking": [
         {
           "name": "kevin",
-          "cum": 202,
+          "cum": 0,
           "pos": 1
         },
         {
           "name": "kevin",
-          "cum": 202,
+          "cum": 0,
           "pos": 2
         },
         {
-          "name": "thomas fridman",
-          "cum": 106,
+          "name": "sapir vabshet",
+          "cum": 0,
           "pos": 3
         },
         {
-          "name": "sapir vabshet",
-          "cum": 104,
+          "name": "thomas fridman",
+          "cum": 0,
           "pos": 4
         },
         {
           "name": "Lorena Brofman",
-          "cum": 100,
+          "cum": 0,
           "pos": 5
         },
         {
           "name": "Maayan Golan",
-          "cum": 93,
+          "cum": 0,
           "pos": 6
         }
       ]
@@ -5088,32 +5091,32 @@
       "ranking": [
         {
           "name": "kevin",
-          "cum": 210,
+          "cum": 0,
           "pos": 1
         },
         {
           "name": "kevin",
-          "cum": 210,
+          "cum": 0,
           "pos": 2
         },
         {
-          "name": "thomas fridman",
-          "cum": 109,
+          "name": "sapir vabshet",
+          "cum": 0,
           "pos": 3
         },
         {
-          "name": "sapir vabshet",
-          "cum": 108,
+          "name": "thomas fridman",
+          "cum": 0,
           "pos": 4
         },
         {
           "name": "Lorena Brofman",
-          "cum": 104,
+          "cum": 0,
           "pos": 5
         },
         {
           "name": "Maayan Golan",
-          "cum": 99,
+          "cum": 0,
           "pos": 6
         }
       ]
@@ -5123,32 +5126,32 @@
       "ranking": [
         {
           "name": "kevin",
-          "cum": 228,
+          "cum": 0,
           "pos": 1
         },
         {
           "name": "kevin",
-          "cum": 228,
+          "cum": 0,
           "pos": 2
         },
         {
           "name": "sapir vabshet",
-          "cum": 116,
+          "cum": 0,
           "pos": 3
         },
         {
           "name": "thomas fridman",
-          "cum": 113,
+          "cum": 0,
           "pos": 4
         },
         {
           "name": "Lorena Brofman",
-          "cum": 106,
+          "cum": 0,
           "pos": 5
         },
         {
           "name": "Maayan Golan",
-          "cum": 104,
+          "cum": 0,
           "pos": 6
         }
       ]
@@ -5158,32 +5161,32 @@
       "ranking": [
         {
           "name": "kevin",
-          "cum": 232,
+          "cum": 0,
           "pos": 1
         },
         {
           "name": "kevin",
-          "cum": 232,
+          "cum": 0,
           "pos": 2
         },
         {
           "name": "sapir vabshet",
-          "cum": 121,
+          "cum": 0,
           "pos": 3
         },
         {
           "name": "thomas fridman",
-          "cum": 113,
+          "cum": 0,
           "pos": 4
         },
         {
           "name": "Lorena Brofman",
-          "cum": 108,
+          "cum": 0,
           "pos": 5
         },
         {
           "name": "Maayan Golan",
-          "cum": 104,
+          "cum": 0,
           "pos": 6
         }
       ]
@@ -5193,32 +5196,32 @@
       "ranking": [
         {
           "name": "kevin",
-          "cum": 244,
+          "cum": 0,
           "pos": 1
         },
         {
           "name": "kevin",
-          "cum": 244,
+          "cum": 0,
           "pos": 2
         },
         {
           "name": "sapir vabshet",
-          "cum": 127,
+          "cum": 0,
           "pos": 3
         },
         {
           "name": "thomas fridman",
-          "cum": 119,
+          "cum": 0,
           "pos": 4
         },
         {
           "name": "Lorena Brofman",
-          "cum": 110,
+          "cum": 0,
           "pos": 5
         },
         {
           "name": "Maayan Golan",
-          "cum": 106,
+          "cum": 0,
           "pos": 6
         }
       ]
@@ -5228,32 +5231,32 @@
       "ranking": [
         {
           "name": "kevin",
-          "cum": 244,
+          "cum": 0,
           "pos": 1
         },
         {
           "name": "kevin",
-          "cum": 244,
+          "cum": 0,
           "pos": 2
         },
         {
           "name": "sapir vabshet",
-          "cum": 127,
+          "cum": 0,
           "pos": 3
         },
         {
           "name": "thomas fridman",
-          "cum": 119,
+          "cum": 0,
           "pos": 4
         },
         {
           "name": "Lorena Brofman",
-          "cum": 110,
+          "cum": 0,
           "pos": 5
         },
         {
           "name": "Maayan Golan",
-          "cum": 106,
+          "cum": 0,
           "pos": 6
         }
       ]
@@ -5263,32 +5266,32 @@
       "ranking": [
         {
           "name": "kevin",
-          "cum": 244,
+          "cum": 0,
           "pos": 1
         },
         {
           "name": "kevin",
-          "cum": 244,
+          "cum": 0,
           "pos": 2
         },
         {
           "name": "sapir vabshet",
-          "cum": 127,
+          "cum": 0,
           "pos": 3
         },
         {
           "name": "thomas fridman",
-          "cum": 121,
+          "cum": 0,
           "pos": 4
         },
         {
           "name": "Lorena Brofman",
-          "cum": 110,
+          "cum": 0,
           "pos": 5
         },
         {
           "name": "Maayan Golan",
-          "cum": 108,
+          "cum": 0,
           "pos": 6
         }
       ]
@@ -5298,32 +5301,32 @@
       "ranking": [
         {
           "name": "kevin",
-          "cum": 256,
+          "cum": 0,
           "pos": 1
         },
         {
           "name": "kevin",
-          "cum": 256,
+          "cum": 0,
           "pos": 2
         },
         {
           "name": "sapir vabshet",
-          "cum": 129,
+          "cum": 0,
           "pos": 3
         },
         {
           "name": "thomas fridman",
-          "cum": 123,
+          "cum": 0,
           "pos": 4
         },
         {
           "name": "Lorena Brofman",
-          "cum": 112,
+          "cum": 0,
           "pos": 5
         },
         {
           "name": "Maayan Golan",
-          "cum": 112,
+          "cum": 0,
           "pos": 6
         }
       ]
@@ -5333,32 +5336,32 @@
       "ranking": [
         {
           "name": "kevin",
-          "cum": 256,
+          "cum": 0,
           "pos": 1
         },
         {
           "name": "kevin",
-          "cum": 256,
+          "cum": 0,
           "pos": 2
         },
         {
           "name": "sapir vabshet",
-          "cum": 131,
+          "cum": 0,
           "pos": 3
         },
         {
           "name": "thomas fridman",
-          "cum": 123,
+          "cum": 0,
           "pos": 4
         },
         {
           "name": "Lorena Brofman",
-          "cum": 112,
+          "cum": 0,
           "pos": 5
         },
         {
           "name": "Maayan Golan",
-          "cum": 112,
+          "cum": 0,
           "pos": 6
         }
       ]
@@ -5368,32 +5371,32 @@
       "ranking": [
         {
           "name": "kevin",
-          "cum": 256,
+          "cum": 0,
           "pos": 1
         },
         {
           "name": "kevin",
-          "cum": 256,
+          "cum": 0,
           "pos": 2
         },
         {
           "name": "sapir vabshet",
-          "cum": 131,
+          "cum": 0,
           "pos": 3
         },
         {
           "name": "thomas fridman",
-          "cum": 125,
+          "cum": 0,
           "pos": 4
         },
         {
           "name": "Lorena Brofman",
-          "cum": 115,
+          "cum": 0,
           "pos": 5
         },
         {
           "name": "Maayan Golan",
-          "cum": 112,
+          "cum": 0,
           "pos": 6
         }
       ]
@@ -5403,32 +5406,32 @@
       "ranking": [
         {
           "name": "kevin",
-          "cum": 262,
+          "cum": 0,
           "pos": 1
         },
         {
           "name": "kevin",
-          "cum": 262,
+          "cum": 0,
           "pos": 2
         },
         {
           "name": "sapir vabshet",
-          "cum": 131,
+          "cum": 0,
           "pos": 3
         },
         {
           "name": "thomas fridman",
-          "cum": 128,
+          "cum": 0,
           "pos": 4
         },
         {
           "name": "Lorena Brofman",
-          "cum": 115,
+          "cum": 0,
           "pos": 5
         },
         {
           "name": "Maayan Golan",
-          "cum": 112,
+          "cum": 0,
           "pos": 6
         }
       ]
@@ -5438,32 +5441,32 @@
       "ranking": [
         {
           "name": "kevin",
-          "cum": 262,
+          "cum": 0,
           "pos": 1
         },
         {
           "name": "kevin",
-          "cum": 262,
+          "cum": 0,
           "pos": 2
         },
         {
           "name": "sapir vabshet",
-          "cum": 131,
+          "cum": 0,
           "pos": 3
         },
         {
           "name": "thomas fridman",
-          "cum": 128,
+          "cum": 0,
           "pos": 4
         },
         {
           "name": "Lorena Brofman",
-          "cum": 115,
+          "cum": 0,
           "pos": 5
         },
         {
           "name": "Maayan Golan",
-          "cum": 112,
+          "cum": 0,
           "pos": 6
         }
       ]
@@ -5473,32 +5476,32 @@
       "ranking": [
         {
           "name": "kevin",
-          "cum": 262,
+          "cum": 0,
           "pos": 1
         },
         {
           "name": "kevin",
-          "cum": 262,
+          "cum": 0,
           "pos": 2
         },
         {
           "name": "sapir vabshet",
-          "cum": 131,
+          "cum": 0,
           "pos": 3
         },
         {
           "name": "thomas fridman",
-          "cum": 128,
+          "cum": 0,
           "pos": 4
         },
         {
           "name": "Lorena Brofman",
-          "cum": 115,
+          "cum": 0,
           "pos": 5
         },
         {
           "name": "Maayan Golan",
-          "cum": 112,
+          "cum": 0,
           "pos": 6
         }
       ]
@@ -5508,32 +5511,32 @@
       "ranking": [
         {
           "name": "kevin",
-          "cum": 266,
+          "cum": 0,
           "pos": 1
         },
         {
           "name": "kevin",
-          "cum": 266,
+          "cum": 0,
           "pos": 2
         },
         {
           "name": "sapir vabshet",
-          "cum": 131,
+          "cum": 0,
           "pos": 3
         },
         {
           "name": "thomas fridman",
-          "cum": 130,
+          "cum": 0,
           "pos": 4
         },
         {
           "name": "Lorena Brofman",
-          "cum": 117,
+          "cum": 0,
           "pos": 5
         },
         {
           "name": "Maayan Golan",
-          "cum": 114,
+          "cum": 0,
           "pos": 6
         }
       ]
@@ -5543,32 +5546,67 @@
       "ranking": [
         {
           "name": "kevin",
-          "cum": 266,
+          "cum": 0,
           "pos": 1
         },
         {
           "name": "kevin",
-          "cum": 266,
+          "cum": 0,
           "pos": 2
         },
         {
           "name": "sapir vabshet",
-          "cum": 131,
+          "cum": 0,
           "pos": 3
         },
         {
           "name": "thomas fridman",
-          "cum": 130,
+          "cum": 0,
           "pos": 4
         },
         {
           "name": "Lorena Brofman",
-          "cum": 117,
+          "cum": 0,
           "pos": 5
         },
         {
           "name": "Maayan Golan",
-          "cum": 114,
+          "cum": 0,
+          "pos": 6
+        }
+      ]
+    },
+    {
+      "date": "2026-07-19",
+      "ranking": [
+        {
+          "name": "kevin",
+          "cum": 0,
+          "pos": 1
+        },
+        {
+          "name": "kevin",
+          "cum": 0,
+          "pos": 2
+        },
+        {
+          "name": "sapir vabshet",
+          "cum": 0,
+          "pos": 3
+        },
+        {
+          "name": "thomas fridman",
+          "cum": 0,
+          "pos": 4
+        },
+        {
+          "name": "Lorena Brofman",
+          "cum": 0,
+          "pos": 5
+        },
+        {
+          "name": "Maayan Golan",
+          "cum": 0,
           "pos": 6
         }
       ]
@@ -5578,22 +5616,22 @@
     {
       "name": "kevin",
       "targetPts": 0,
-      "rivalPts": 133,
-      "diff": -133,
+      "rivalPts": 0,
+      "diff": 0,
       "byMatch": [
         {
           "id": 0,
           "home": "Mexico",
           "away": "South Africa",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 1,
           "home": "South Korea",
           "away": "Czechia",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 2,
@@ -5628,7 +5666,7 @@
           "home": "Haiti",
           "away": "Scotland",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 7,
@@ -5642,7 +5680,7 @@
           "home": "Germany",
           "away": "Curacao",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 9,
@@ -5663,7 +5701,7 @@
           "home": "Sweden",
           "away": "Tunisia",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 12,
@@ -5684,7 +5722,7 @@
           "home": "Saudi Arabia",
           "away": "Uruguay",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 15,
@@ -5698,28 +5736,28 @@
           "home": "France",
           "away": "Senegal",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 17,
           "home": "Iraq",
           "away": "Norway",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 18,
           "home": "Argentina",
           "away": "Algeria",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 19,
           "home": "Austria",
           "away": "Jordan",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 20,
@@ -5733,7 +5771,7 @@
           "home": "England",
           "away": "Croatia",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 22,
@@ -5747,7 +5785,7 @@
           "home": "Uzbekistan",
           "away": "Colombia",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 24,
@@ -5768,35 +5806,35 @@
           "home": "Canada",
           "away": "Qatar",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 27,
           "home": "Mexico",
           "away": "South Korea",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 28,
           "home": "USA",
           "away": "Australia",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 29,
           "home": "Scotland",
           "away": "Morocco",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 30,
           "home": "Brazil",
           "away": "Haiti",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 31,
@@ -5810,14 +5848,14 @@
           "home": "Netherlands",
           "away": "Sweden",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 33,
           "home": "Germany",
           "away": "Ivory Coast",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 34,
@@ -5831,14 +5869,14 @@
           "home": "Tunisia",
           "away": "Japan",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 36,
           "home": "Spain",
           "away": "Saudi Arabia",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 37,
@@ -5859,42 +5897,42 @@
           "home": "New Zealand",
           "away": "Egypt",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 40,
           "home": "Argentina",
           "away": "Austria",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 41,
           "home": "France",
           "away": "Iraq",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 42,
           "home": "Norway",
           "away": "Senegal",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 43,
           "home": "Jordan",
           "away": "Algeria",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 44,
           "home": "Portugal",
           "away": "Uzbekistan",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 45,
@@ -5908,14 +5946,14 @@
           "home": "Panama",
           "away": "Croatia",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 47,
           "home": "Colombia",
           "away": "DR Congo",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 48,
@@ -5929,28 +5967,28 @@
           "home": "Bosnia and Herzegovina",
           "away": "Qatar",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 50,
           "home": "Scotland",
           "away": "Brazil",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 51,
           "home": "Morocco",
           "away": "Haiti",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 52,
           "home": "Czechia",
           "away": "Mexico",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 53,
@@ -5971,14 +6009,14 @@
           "home": "Curacao",
           "away": "Ivory Coast",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 56,
           "home": "Tunisia",
           "away": "Netherlands",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 57,
@@ -5999,28 +6037,28 @@
           "home": "Paraguay",
           "away": "Australia",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 60,
           "home": "Norway",
           "away": "France",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 61,
           "home": "Senegal",
           "away": "Iraq",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 62,
           "home": "Uruguay",
           "away": "Spain",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 63,
@@ -6034,7 +6072,7 @@
           "home": "New Zealand",
           "away": "Belgium",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 65,
@@ -6048,14 +6086,14 @@
           "home": "Panama",
           "away": "England",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 67,
           "home": "Croatia",
           "away": "Ghana",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 68,
@@ -6069,21 +6107,21 @@
           "home": "DR Congo",
           "away": "Uzbekistan",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 70,
           "home": "Jordan",
           "away": "Argentina",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 71,
           "home": "Algeria",
           "away": "Austria",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 72,
@@ -6111,7 +6149,7 @@
           "home": "Netherlands",
           "away": "Morocco",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 76,
@@ -6125,7 +6163,7 @@
           "home": "France",
           "away": "Sweden",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 78,
@@ -6139,42 +6177,42 @@
           "home": "England",
           "away": "DR Congo",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 80,
           "home": "Belgium",
           "away": "Senegal",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 81,
           "home": "USA",
           "away": "Bosnia and Herzegovina",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 82,
           "home": "Spain",
           "away": "Austria",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 83,
           "home": "Portugal",
           "away": "Croatia",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 84,
           "home": "Switzerland",
           "away": "Algeria",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 85,
@@ -6195,21 +6233,21 @@
           "home": "Colombia",
           "away": "Ghana",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 88,
           "home": "Canada",
           "away": "Morocco",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 89,
           "home": "Paraguay",
           "away": "France",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 90,
@@ -6237,21 +6275,21 @@
           "home": "USA",
           "away": "Belgium",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 94,
           "home": "Argentina",
           "away": "Egypt",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 95,
           "home": "Switzerland",
           "away": "Colombia",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 96,
@@ -6272,7 +6310,7 @@
           "home": "Norway",
           "away": "England",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 99,
@@ -6293,12 +6331,19 @@
           "home": "England",
           "away": "Argentina",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 102,
           "home": "France",
           "away": "England",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 103,
+          "home": "Spain",
+          "away": "Argentina",
           "targetPts": 0,
           "rivalPts": 0
         }
@@ -6307,22 +6352,22 @@
     {
       "name": "kevin",
       "targetPts": 0,
-      "rivalPts": 133,
-      "diff": -133,
+      "rivalPts": 0,
+      "diff": 0,
       "byMatch": [
         {
           "id": 0,
           "home": "Mexico",
           "away": "South Africa",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 1,
           "home": "South Korea",
           "away": "Czechia",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 2,
@@ -6357,7 +6402,7 @@
           "home": "Haiti",
           "away": "Scotland",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 7,
@@ -6371,7 +6416,7 @@
           "home": "Germany",
           "away": "Curacao",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 9,
@@ -6392,7 +6437,7 @@
           "home": "Sweden",
           "away": "Tunisia",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 12,
@@ -6413,7 +6458,7 @@
           "home": "Saudi Arabia",
           "away": "Uruguay",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 15,
@@ -6427,28 +6472,28 @@
           "home": "France",
           "away": "Senegal",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 17,
           "home": "Iraq",
           "away": "Norway",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 18,
           "home": "Argentina",
           "away": "Algeria",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 19,
           "home": "Austria",
           "away": "Jordan",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 20,
@@ -6462,7 +6507,7 @@
           "home": "England",
           "away": "Croatia",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 22,
@@ -6476,7 +6521,7 @@
           "home": "Uzbekistan",
           "away": "Colombia",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 24,
@@ -6497,35 +6542,35 @@
           "home": "Canada",
           "away": "Qatar",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 27,
           "home": "Mexico",
           "away": "South Korea",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 28,
           "home": "USA",
           "away": "Australia",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 29,
           "home": "Scotland",
           "away": "Morocco",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 30,
           "home": "Brazil",
           "away": "Haiti",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 31,
@@ -6539,14 +6584,14 @@
           "home": "Netherlands",
           "away": "Sweden",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 33,
           "home": "Germany",
           "away": "Ivory Coast",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 34,
@@ -6560,14 +6605,14 @@
           "home": "Tunisia",
           "away": "Japan",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 36,
           "home": "Spain",
           "away": "Saudi Arabia",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 37,
@@ -6588,42 +6633,42 @@
           "home": "New Zealand",
           "away": "Egypt",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 40,
           "home": "Argentina",
           "away": "Austria",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 41,
           "home": "France",
           "away": "Iraq",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 42,
           "home": "Norway",
           "away": "Senegal",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 43,
           "home": "Jordan",
           "away": "Algeria",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 44,
           "home": "Portugal",
           "away": "Uzbekistan",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 45,
@@ -6637,14 +6682,14 @@
           "home": "Panama",
           "away": "Croatia",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 47,
           "home": "Colombia",
           "away": "DR Congo",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 48,
@@ -6658,28 +6703,28 @@
           "home": "Bosnia and Herzegovina",
           "away": "Qatar",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 50,
           "home": "Scotland",
           "away": "Brazil",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 51,
           "home": "Morocco",
           "away": "Haiti",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 52,
           "home": "Czechia",
           "away": "Mexico",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 53,
@@ -6700,14 +6745,14 @@
           "home": "Curacao",
           "away": "Ivory Coast",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 56,
           "home": "Tunisia",
           "away": "Netherlands",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 57,
@@ -6728,28 +6773,28 @@
           "home": "Paraguay",
           "away": "Australia",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 60,
           "home": "Norway",
           "away": "France",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 61,
           "home": "Senegal",
           "away": "Iraq",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 62,
           "home": "Uruguay",
           "away": "Spain",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 63,
@@ -6763,7 +6808,7 @@
           "home": "New Zealand",
           "away": "Belgium",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 65,
@@ -6777,14 +6822,14 @@
           "home": "Panama",
           "away": "England",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 67,
           "home": "Croatia",
           "away": "Ghana",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 68,
@@ -6798,21 +6843,21 @@
           "home": "DR Congo",
           "away": "Uzbekistan",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 70,
           "home": "Jordan",
           "away": "Argentina",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 71,
           "home": "Algeria",
           "away": "Austria",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 72,
@@ -6840,7 +6885,7 @@
           "home": "Netherlands",
           "away": "Morocco",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 76,
@@ -6854,7 +6899,7 @@
           "home": "France",
           "away": "Sweden",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 78,
@@ -6868,42 +6913,42 @@
           "home": "England",
           "away": "DR Congo",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 80,
           "home": "Belgium",
           "away": "Senegal",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 81,
           "home": "USA",
           "away": "Bosnia and Herzegovina",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 82,
           "home": "Spain",
           "away": "Austria",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 83,
           "home": "Portugal",
           "away": "Croatia",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 84,
           "home": "Switzerland",
           "away": "Algeria",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 85,
@@ -6924,21 +6969,21 @@
           "home": "Colombia",
           "away": "Ghana",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 88,
           "home": "Canada",
           "away": "Morocco",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 89,
           "home": "Paraguay",
           "away": "France",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 90,
@@ -6966,21 +7011,21 @@
           "home": "USA",
           "away": "Belgium",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 94,
           "home": "Argentina",
           "away": "Egypt",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 95,
           "home": "Switzerland",
           "away": "Colombia",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 96,
@@ -7001,7 +7046,7 @@
           "home": "Norway",
           "away": "England",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 99,
@@ -7022,12 +7067,19 @@
           "home": "England",
           "away": "Argentina",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 102,
           "home": "France",
           "away": "England",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 103,
+          "home": "Spain",
+          "away": "Argentina",
           "targetPts": 0,
           "rivalPts": 0
         }
@@ -7036,8 +7088,8 @@
     {
       "name": "sapir vabshet",
       "targetPts": 0,
-      "rivalPts": 131,
-      "diff": -131,
+      "rivalPts": 0,
+      "diff": 0,
       "byMatch": [
         {
           "id": 0,
@@ -7065,7 +7117,7 @@
           "home": "USA",
           "away": "Paraguay",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 4,
@@ -7086,7 +7138,7 @@
           "home": "Haiti",
           "away": "Scotland",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 7,
@@ -7100,14 +7152,14 @@
           "home": "Germany",
           "away": "Curacao",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 9,
           "home": "Netherlands",
           "away": "Japan",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 10,
@@ -7121,7 +7173,7 @@
           "home": "Sweden",
           "away": "Tunisia",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 12,
@@ -7149,35 +7201,35 @@
           "home": "Iran",
           "away": "New Zealand",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 16,
           "home": "France",
           "away": "Senegal",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 17,
           "home": "Iraq",
           "away": "Norway",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 18,
           "home": "Argentina",
           "away": "Algeria",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 19,
           "home": "Austria",
           "away": "Jordan",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 20,
@@ -7205,14 +7257,14 @@
           "home": "Uzbekistan",
           "away": "Colombia",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 24,
           "home": "Czechia",
           "away": "South Africa",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 25,
@@ -7226,14 +7278,14 @@
           "home": "Canada",
           "away": "Qatar",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 27,
           "home": "Mexico",
           "away": "South Korea",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 28,
@@ -7247,14 +7299,14 @@
           "home": "Scotland",
           "away": "Morocco",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 30,
           "home": "Brazil",
           "away": "Haiti",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 31,
@@ -7268,14 +7320,14 @@
           "home": "Netherlands",
           "away": "Sweden",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 33,
           "home": "Germany",
           "away": "Ivory Coast",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 34,
@@ -7289,14 +7341,14 @@
           "home": "Tunisia",
           "away": "Japan",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 36,
           "home": "Spain",
           "away": "Saudi Arabia",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 37,
@@ -7324,14 +7376,14 @@
           "home": "Argentina",
           "away": "Austria",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 41,
           "home": "France",
           "away": "Iraq",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 42,
@@ -7352,7 +7404,7 @@
           "home": "Portugal",
           "away": "Uzbekistan",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 45,
@@ -7366,14 +7418,14 @@
           "home": "Panama",
           "away": "Croatia",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 47,
           "home": "Colombia",
           "away": "DR Congo",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 48,
@@ -7387,28 +7439,28 @@
           "home": "Bosnia and Herzegovina",
           "away": "Qatar",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 50,
           "home": "Scotland",
           "away": "Brazil",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 51,
           "home": "Morocco",
           "away": "Haiti",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 52,
           "home": "Czechia",
           "away": "Mexico",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 53,
@@ -7429,21 +7481,21 @@
           "home": "Curacao",
           "away": "Ivory Coast",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 56,
           "home": "Tunisia",
           "away": "Netherlands",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 57,
           "home": "Japan",
           "away": "Sweden",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 58,
@@ -7457,28 +7509,28 @@
           "home": "Paraguay",
           "away": "Australia",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 60,
           "home": "Norway",
           "away": "France",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 61,
           "home": "Senegal",
           "away": "Iraq",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 62,
           "home": "Uruguay",
           "away": "Spain",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 63,
@@ -7492,7 +7544,7 @@
           "home": "New Zealand",
           "away": "Belgium",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 65,
@@ -7506,14 +7558,14 @@
           "home": "Panama",
           "away": "England",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 67,
           "home": "Croatia",
           "away": "Ghana",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 68,
@@ -7527,35 +7579,35 @@
           "home": "DR Congo",
           "away": "Uzbekistan",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 70,
           "home": "Jordan",
           "away": "Argentina",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 71,
           "home": "Algeria",
           "away": "Austria",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 72,
           "home": "South Africa",
           "away": "Canada",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 73,
           "home": "Brazil",
           "away": "Japan",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 74,
@@ -7569,35 +7621,35 @@
           "home": "Netherlands",
           "away": "Morocco",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 76,
           "home": "Ivory Coast",
           "away": "Norway",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 77,
           "home": "France",
           "away": "Sweden",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 78,
           "home": "Mexico",
           "away": "Ecuador",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 79,
           "home": "England",
           "away": "DR Congo",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 80,
@@ -7611,35 +7663,35 @@
           "home": "USA",
           "away": "Bosnia and Herzegovina",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 82,
           "home": "Spain",
           "away": "Austria",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 83,
           "home": "Portugal",
           "away": "Croatia",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 84,
           "home": "Switzerland",
           "away": "Algeria",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 85,
           "home": "Australia",
           "away": "Egypt",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 86,
@@ -7653,21 +7705,21 @@
           "home": "Colombia",
           "away": "Ghana",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 88,
           "home": "Canada",
           "away": "Morocco",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 89,
           "home": "Paraguay",
           "away": "France",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 90,
@@ -7702,7 +7754,7 @@
           "home": "Argentina",
           "away": "Egypt",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 95,
@@ -7716,7 +7768,7 @@
           "home": "France",
           "away": "Morocco",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 97,
@@ -7757,6 +7809,13 @@
           "id": 102,
           "home": "France",
           "away": "England",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 103,
+          "home": "Spain",
+          "away": "Argentina",
           "targetPts": 0,
           "rivalPts": 0
         }
@@ -7765,22 +7824,22 @@
     {
       "name": "thomas fridman",
       "targetPts": 0,
-      "rivalPts": 130,
-      "diff": -130,
+      "rivalPts": 0,
+      "diff": 0,
       "byMatch": [
         {
           "id": 0,
           "home": "Mexico",
           "away": "South Africa",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 1,
           "home": "South Korea",
           "away": "Czechia",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 2,
@@ -7808,14 +7867,14 @@
           "home": "Brazil",
           "away": "Morocco",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 6,
           "home": "Haiti",
           "away": "Scotland",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 7,
@@ -7829,7 +7888,7 @@
           "home": "Germany",
           "away": "Curacao",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 9,
@@ -7850,7 +7909,7 @@
           "home": "Sweden",
           "away": "Tunisia",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 12,
@@ -7864,7 +7923,7 @@
           "home": "Belgium",
           "away": "Egypt",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 14,
@@ -7885,28 +7944,28 @@
           "home": "France",
           "away": "Senegal",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 17,
           "home": "Iraq",
           "away": "Norway",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 18,
           "home": "Argentina",
           "away": "Algeria",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 19,
           "home": "Austria",
           "away": "Jordan",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 20,
@@ -7927,14 +7986,14 @@
           "home": "Ghana",
           "away": "Panama",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 23,
           "home": "Uzbekistan",
           "away": "Colombia",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 24,
@@ -7955,7 +8014,7 @@
           "home": "Canada",
           "away": "Qatar",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 27,
@@ -7969,42 +8028,42 @@
           "home": "USA",
           "away": "Australia",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 29,
           "home": "Scotland",
           "away": "Morocco",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 30,
           "home": "Brazil",
           "away": "Haiti",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 31,
           "home": "Turkiye",
           "away": "Paraguay",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 32,
           "home": "Netherlands",
           "away": "Sweden",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 33,
           "home": "Germany",
           "away": "Ivory Coast",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 34,
@@ -8018,7 +8077,7 @@
           "home": "Tunisia",
           "away": "Japan",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 36,
@@ -8046,42 +8105,42 @@
           "home": "New Zealand",
           "away": "Egypt",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 40,
           "home": "Argentina",
           "away": "Austria",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 41,
           "home": "France",
           "away": "Iraq",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 42,
           "home": "Norway",
           "away": "Senegal",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 43,
           "home": "Jordan",
           "away": "Algeria",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 44,
           "home": "Portugal",
           "away": "Uzbekistan",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 45,
@@ -8095,14 +8154,14 @@
           "home": "Panama",
           "away": "Croatia",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 47,
           "home": "Colombia",
           "away": "DR Congo",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 48,
@@ -8116,21 +8175,21 @@
           "home": "Bosnia and Herzegovina",
           "away": "Qatar",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 50,
           "home": "Scotland",
           "away": "Brazil",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 51,
           "home": "Morocco",
           "away": "Haiti",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 52,
@@ -8158,14 +8217,14 @@
           "home": "Curacao",
           "away": "Ivory Coast",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 56,
           "home": "Tunisia",
           "away": "Netherlands",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 57,
@@ -8193,21 +8252,21 @@
           "home": "Norway",
           "away": "France",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 61,
           "home": "Senegal",
           "away": "Iraq",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 62,
           "home": "Uruguay",
           "away": "Spain",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 63,
@@ -8221,7 +8280,7 @@
           "home": "New Zealand",
           "away": "Belgium",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 65,
@@ -8235,49 +8294,49 @@
           "home": "Panama",
           "away": "England",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 67,
           "home": "Croatia",
           "away": "Ghana",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 68,
           "home": "Colombia",
           "away": "Portugal",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 69,
           "home": "DR Congo",
           "away": "Uzbekistan",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 70,
           "home": "Jordan",
           "away": "Argentina",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 71,
           "home": "Algeria",
           "away": "Austria",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 72,
           "home": "South Africa",
           "away": "Canada",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 73,
@@ -8298,21 +8357,21 @@
           "home": "Netherlands",
           "away": "Morocco",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 76,
           "home": "Ivory Coast",
           "away": "Norway",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 77,
           "home": "France",
           "away": "Sweden",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 78,
@@ -8326,7 +8385,7 @@
           "home": "England",
           "away": "DR Congo",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 80,
@@ -8340,14 +8399,14 @@
           "home": "USA",
           "away": "Bosnia and Herzegovina",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 82,
           "home": "Spain",
           "away": "Austria",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 83,
@@ -8382,21 +8441,21 @@
           "home": "Colombia",
           "away": "Ghana",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 88,
           "home": "Canada",
           "away": "Morocco",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 89,
           "home": "Paraguay",
           "away": "France",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 90,
@@ -8417,7 +8476,7 @@
           "home": "Portugal",
           "away": "Spain",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 93,
@@ -8431,7 +8490,7 @@
           "home": "Argentina",
           "away": "Egypt",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 95,
@@ -8452,14 +8511,14 @@
           "home": "Spain",
           "away": "Belgium",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 98,
           "home": "Norway",
           "away": "England",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 99,
@@ -8480,12 +8539,19 @@
           "home": "England",
           "away": "Argentina",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 102,
           "home": "France",
           "away": "England",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 103,
+          "home": "Spain",
+          "away": "Argentina",
           "targetPts": 0,
           "rivalPts": 0
         }
@@ -8494,22 +8560,22 @@
     {
       "name": "Lorena Brofman",
       "targetPts": 0,
-      "rivalPts": 117,
-      "diff": -117,
+      "rivalPts": 0,
+      "diff": 0,
       "byMatch": [
         {
           "id": 0,
           "home": "Mexico",
           "away": "South Africa",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 1,
           "home": "South Korea",
           "away": "Czechia",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 2,
@@ -8558,7 +8624,7 @@
           "home": "Germany",
           "away": "Curacao",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 9,
@@ -8579,7 +8645,7 @@
           "home": "Sweden",
           "away": "Tunisia",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 12,
@@ -8614,28 +8680,28 @@
           "home": "France",
           "away": "Senegal",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 17,
           "home": "Iraq",
           "away": "Norway",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 18,
           "home": "Argentina",
           "away": "Algeria",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 19,
           "home": "Austria",
           "away": "Jordan",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 20,
@@ -8649,21 +8715,21 @@
           "home": "England",
           "away": "Croatia",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 22,
           "home": "Ghana",
           "away": "Panama",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 23,
           "home": "Uzbekistan",
           "away": "Colombia",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 24,
@@ -8677,42 +8743,42 @@
           "home": "Switzerland",
           "away": "Bosnia and Herzegovina",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 26,
           "home": "Canada",
           "away": "Qatar",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 27,
           "home": "Mexico",
           "away": "South Korea",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 28,
           "home": "USA",
           "away": "Australia",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 29,
           "home": "Scotland",
           "away": "Morocco",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 30,
           "home": "Brazil",
           "away": "Haiti",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 31,
@@ -8726,14 +8792,14 @@
           "home": "Netherlands",
           "away": "Sweden",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 33,
           "home": "Germany",
           "away": "Ivory Coast",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 34,
@@ -8754,7 +8820,7 @@
           "home": "Spain",
           "away": "Saudi Arabia",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 37,
@@ -8775,21 +8841,21 @@
           "home": "New Zealand",
           "away": "Egypt",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 40,
           "home": "Argentina",
           "away": "Austria",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 41,
           "home": "France",
           "away": "Iraq",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 42,
@@ -8803,14 +8869,14 @@
           "home": "Jordan",
           "away": "Algeria",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 44,
           "home": "Portugal",
           "away": "Uzbekistan",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 45,
@@ -8824,21 +8890,21 @@
           "home": "Panama",
           "away": "Croatia",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 47,
           "home": "Colombia",
           "away": "DR Congo",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 48,
           "home": "Switzerland",
           "away": "Canada",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 49,
@@ -8852,21 +8918,21 @@
           "home": "Scotland",
           "away": "Brazil",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 51,
           "home": "Morocco",
           "away": "Haiti",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 52,
           "home": "Czechia",
           "away": "Mexico",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 53,
@@ -8894,14 +8960,14 @@
           "home": "Tunisia",
           "away": "Netherlands",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 57,
           "home": "Japan",
           "away": "Sweden",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 58,
@@ -8915,21 +8981,21 @@
           "home": "Paraguay",
           "away": "Australia",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 60,
           "home": "Norway",
           "away": "France",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 61,
           "home": "Senegal",
           "away": "Iraq",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 62,
@@ -8950,7 +9016,7 @@
           "home": "New Zealand",
           "away": "Belgium",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 65,
@@ -8964,14 +9030,14 @@
           "home": "Panama",
           "away": "England",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 67,
           "home": "Croatia",
           "away": "Ghana",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 68,
@@ -8985,14 +9051,14 @@
           "home": "DR Congo",
           "away": "Uzbekistan",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 70,
           "home": "Jordan",
           "away": "Argentina",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 71,
@@ -9006,14 +9072,14 @@
           "home": "South Africa",
           "away": "Canada",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 73,
           "home": "Brazil",
           "away": "Japan",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 74,
@@ -9027,35 +9093,35 @@
           "home": "Netherlands",
           "away": "Morocco",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 76,
           "home": "Ivory Coast",
           "away": "Norway",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 77,
           "home": "France",
           "away": "Sweden",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 78,
           "home": "Mexico",
           "away": "Ecuador",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 79,
           "home": "England",
           "away": "DR Congo",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 80,
@@ -9069,7 +9135,7 @@
           "home": "USA",
           "away": "Bosnia and Herzegovina",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 82,
@@ -9090,7 +9156,7 @@
           "home": "Switzerland",
           "away": "Algeria",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 85,
@@ -9118,7 +9184,7 @@
           "home": "Canada",
           "away": "Morocco",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 89,
@@ -9160,7 +9226,7 @@
           "home": "Argentina",
           "away": "Egypt",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 95,
@@ -9181,7 +9247,7 @@
           "home": "Spain",
           "away": "Belgium",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 98,
@@ -9209,12 +9275,19 @@
           "home": "England",
           "away": "Argentina",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 102,
           "home": "France",
           "away": "England",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 103,
+          "home": "Spain",
+          "away": "Argentina",
           "targetPts": 0,
           "rivalPts": 0
         }
@@ -9223,8 +9296,8 @@
     {
       "name": "Maayan Golan",
       "targetPts": 0,
-      "rivalPts": 114,
-      "diff": -114,
+      "rivalPts": 0,
+      "diff": 0,
       "byMatch": [
         {
           "id": 0,
@@ -9238,7 +9311,7 @@
           "home": "South Korea",
           "away": "Czechia",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 2,
@@ -9252,7 +9325,7 @@
           "home": "USA",
           "away": "Paraguay",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 4,
@@ -9273,21 +9346,21 @@
           "home": "Haiti",
           "away": "Scotland",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 7,
           "home": "Australia",
           "away": "Turkiye",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 8,
           "home": "Germany",
           "away": "Curacao",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 9,
@@ -9308,7 +9381,7 @@
           "home": "Sweden",
           "away": "Tunisia",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 12,
@@ -9336,35 +9409,35 @@
           "home": "Iran",
           "away": "New Zealand",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 16,
           "home": "France",
           "away": "Senegal",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 17,
           "home": "Iraq",
           "away": "Norway",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 18,
           "home": "Argentina",
           "away": "Algeria",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 19,
           "home": "Austria",
           "away": "Jordan",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 20,
@@ -9378,7 +9451,7 @@
           "home": "England",
           "away": "Croatia",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 22,
@@ -9392,7 +9465,7 @@
           "home": "Uzbekistan",
           "away": "Colombia",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 24,
@@ -9406,14 +9479,14 @@
           "home": "Switzerland",
           "away": "Bosnia and Herzegovina",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 26,
           "home": "Canada",
           "away": "Qatar",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 27,
@@ -9427,28 +9500,28 @@
           "home": "USA",
           "away": "Australia",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 29,
           "home": "Scotland",
           "away": "Morocco",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 30,
           "home": "Brazil",
           "away": "Haiti",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 31,
           "home": "Turkiye",
           "away": "Paraguay",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 32,
@@ -9462,7 +9535,7 @@
           "home": "Germany",
           "away": "Ivory Coast",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 34,
@@ -9476,7 +9549,7 @@
           "home": "Tunisia",
           "away": "Japan",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 36,
@@ -9504,28 +9577,28 @@
           "home": "New Zealand",
           "away": "Egypt",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 40,
           "home": "Argentina",
           "away": "Austria",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 41,
           "home": "France",
           "away": "Iraq",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 42,
           "home": "Norway",
           "away": "Senegal",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 43,
@@ -9539,7 +9612,7 @@
           "home": "Portugal",
           "away": "Uzbekistan",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 45,
@@ -9560,7 +9633,7 @@
           "home": "Colombia",
           "away": "DR Congo",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 48,
@@ -9574,28 +9647,28 @@
           "home": "Bosnia and Herzegovina",
           "away": "Qatar",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 50,
           "home": "Scotland",
           "away": "Brazil",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 51,
           "home": "Morocco",
           "away": "Haiti",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 52,
           "home": "Czechia",
           "away": "Mexico",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 53,
@@ -9616,14 +9689,14 @@
           "home": "Curacao",
           "away": "Ivory Coast",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 56,
           "home": "Tunisia",
           "away": "Netherlands",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 57,
@@ -9651,14 +9724,14 @@
           "home": "Norway",
           "away": "France",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 61,
           "home": "Senegal",
           "away": "Iraq",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 62,
@@ -9679,7 +9752,7 @@
           "home": "New Zealand",
           "away": "Belgium",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 65,
@@ -9693,7 +9766,7 @@
           "home": "Panama",
           "away": "England",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 67,
@@ -9721,7 +9794,7 @@
           "home": "Jordan",
           "away": "Argentina",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 71,
@@ -9735,14 +9808,14 @@
           "home": "South Africa",
           "away": "Canada",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 73,
           "home": "Brazil",
           "away": "Japan",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 74,
@@ -9756,49 +9829,49 @@
           "home": "Netherlands",
           "away": "Morocco",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 76,
           "home": "Ivory Coast",
           "away": "Norway",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 77,
           "home": "France",
           "away": "Sweden",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 78,
           "home": "Mexico",
           "away": "Ecuador",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 79,
           "home": "England",
           "away": "DR Congo",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 80,
           "home": "Belgium",
           "away": "Senegal",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 81,
           "home": "USA",
           "away": "Bosnia and Herzegovina",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 82,
@@ -9812,7 +9885,7 @@
           "home": "Portugal",
           "away": "Croatia",
           "targetPts": 0,
-          "rivalPts": 3
+          "rivalPts": 0
         },
         {
           "id": 84,
@@ -9840,7 +9913,7 @@
           "home": "Colombia",
           "away": "Ghana",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 88,
@@ -9875,7 +9948,7 @@
           "home": "Portugal",
           "away": "Spain",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 93,
@@ -9889,14 +9962,14 @@
           "home": "Argentina",
           "away": "Egypt",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 95,
           "home": "Switzerland",
           "away": "Colombia",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 96,
@@ -9938,12 +10011,19 @@
           "home": "England",
           "away": "Argentina",
           "targetPts": 0,
-          "rivalPts": 2
+          "rivalPts": 0
         },
         {
           "id": 102,
           "home": "France",
           "away": "England",
+          "targetPts": 0,
+          "rivalPts": 0
+        },
+        {
+          "id": 103,
+          "home": "Spain",
+          "away": "Argentina",
           "targetPts": 0,
           "rivalPts": 0
         }
@@ -9953,51 +10033,51 @@
   "validation": [
     {
       "name": "kevin",
-      "calcPts": 133,
+      "calcPts": 0,
       "apiPts": 140,
-      "calcExacts": 11,
+      "calcExacts": 0,
       "apiExacts": 16,
       "ok": false
     },
     {
       "name": "kevin",
-      "calcPts": 133,
+      "calcPts": 0,
       "apiPts": 133,
-      "calcExacts": 11,
+      "calcExacts": 0,
       "apiExacts": 11,
-      "ok": true
+      "ok": false
     },
     {
       "name": "sapir vabshet",
-      "calcPts": 131,
+      "calcPts": 0,
       "apiPts": 131,
-      "calcExacts": 13,
+      "calcExacts": 0,
       "apiExacts": 13,
-      "ok": true
+      "ok": false
     },
     {
       "name": "thomas fridman",
-      "calcPts": 130,
+      "calcPts": 0,
       "apiPts": 130,
-      "calcExacts": 12,
+      "calcExacts": 0,
       "apiExacts": 12,
-      "ok": true
+      "ok": false
     },
     {
       "name": "Lorena Brofman",
-      "calcPts": 117,
+      "calcPts": 0,
       "apiPts": 117,
-      "calcExacts": 9,
+      "calcExacts": 0,
       "apiExacts": 9,
-      "ok": true
+      "ok": false
     },
     {
       "name": "Maayan Golan",
-      "calcPts": 114,
+      "calcPts": 0,
       "apiPts": 114,
-      "calcExacts": 8,
+      "calcExacts": 0,
       "apiExacts": 8,
-      "ok": true
+      "ok": false
     }
   ]
 }
